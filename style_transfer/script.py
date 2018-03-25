@@ -13,12 +13,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import scipy.optimize
 import imageio
-
+import vgg16_avg
 
 # In[ ]:
 
 
-content = scipy.ndimage.imread("images/me.jpg",mode=None).astype(np.float32)/255.0
+content = scipy.ndimage.imread("images/test2.png",mode="RGB").astype(np.float32)/255.0
 style = scipy.ndimage.imread("images/style.png",mode="RGB").astype(np.float32)/255.0
 
 shape = (int(round(style.shape[0]/1.5,0)),int(round(style.shape[1]/1.5,0)),3)
@@ -50,7 +50,8 @@ style_resized = preproc(style_resized)
 # In[ ]:
 
 
-model = keras.applications.vgg16.VGG16(include_top=False, weights='imagenet')
+#model = keras.applications.vgg16.VGG16(include_top=False, weights='imagenet')
+model = vgg16_avg.VGG16_Avg(include_top=False)
 
 
 # In[ ]:
@@ -83,21 +84,26 @@ class Evaluator(object):
 
 def generate_function(model,layer,input): 
     input = np.expand_dims(input,0)
-    local_model = keras.Model(model.input, layer)
+    local_model = keras.models.Model(model.input, layer)
     local_targ = K.variable(local_model.predict(input))
-    loss = K.sum(keras.metrics.mse(layer, local_targ))
+    loss = keras.metrics.mse(layer, local_targ)
     grads = K.gradients(loss, model.input)
     fn = K.function([model.input], [loss]+grads)
     evaluator = Evaluator(fn, input.shape)
     return fn,evaluator
 
 def solve_image(eval_obj, niter, x,name):
+    last_min_val = 100000000
     for i in range(niter):
         x, min_val, info = scipy.optimize.fmin_l_bfgs_b(eval_obj.loss, x.flatten(),
                                          fprime=eval_obj.grads, maxfun=20)
         x = np.clip(x, -127,127)
         print('Current loss value:', min_val)
         imageio.imwrite("results/{}_at_iteration_{}.png".format(name,i), deproc(x.reshape(shape)))
+        if last_min_val == min_val:
+            break
+        else:
+            last_min_val = min_val
     return x
 
 def gram_matrix(x):
@@ -122,7 +128,7 @@ style_function,style_evaluator = generate_function(model,style_layer,style_resiz
 x = np.random.uniform(-2.5, 2.5, [1]+list(shape))/100
 #plt.imshow(x[0]);
 iterations=100
-#x = solve_image(content_evaluator, iterations, x,"content")
+x = solve_image(content_evaluator, iterations, x,"content")
 
 
 # In[ ]:
@@ -132,16 +138,16 @@ def generate_final_function(model,content_layer,style_layer,input_content,input_
     input_content = np.expand_dims(input_content,0)
     input_style = np.expand_dims(input_style,0)
     
-    content_model = keras.Model(model.input, [content_layer])
-    style_model = keras.Model(model.input, [style_layer])
+    content_model = keras.models.Model(model.input, [content_layer])
+    style_model = keras.models.Model(model.input, [style_layer])
     content_targ = K.variable(content_model.predict(input_content))
     style_targ = K.variable(style_model.predict(input_style))
     
-    content_loss = K.sum(keras.metrics.mse(content_layer, content_targ))
+    content_loss = keras.metrics.mse(content_layer, content_targ)/1000
     _style_loss = style_loss(style_layer[0],style_targ[0])
 
-    loss = K.sum(content_loss + _style_loss)
-    
+    loss = _style_loss
+  
     grads = K.gradients(loss, model.input)
     fn = K.function([model.input], [loss]+grads)
     evaluator = Evaluator(fn, input_content.shape)
