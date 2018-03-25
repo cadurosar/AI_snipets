@@ -106,7 +106,8 @@ def gram_matrix(x):
     # The dot product of this with its transpose shows the correlation 
     # between each pair of channels
     the_dot = K.dot(features, K.transpose(features))
-    num_elems = x.get_shape().num_elements()
+#    num_elems = x.get_shape().num_elements()
+    num_elems = 10227200
     return the_dot / num_elems
 def style_loss(x, targ): return keras.metrics.mse(gram_matrix(x), gram_matrix(targ))
 
@@ -121,7 +122,7 @@ style_function,style_evaluator = generate_function(model,style_layer,style_resiz
 x = np.random.uniform(-2.5, 2.5, [1]+list(shape))/100
 #plt.imshow(x[0]);
 iterations=100
-x = solve_image(content_evaluator, iterations, x,"content")
+#x = solve_image(content_evaluator, iterations, x,"content")
 
 
 # In[ ]:
@@ -139,10 +140,10 @@ def generate_final_function(model,content_layer,style_layer,input_content,input_
     content_loss = K.sum(keras.metrics.mse(content_layer, content_targ))
     _style_loss = style_loss(style_layer[0],style_targ[0])
 
-    loss = content_loss + _style_loss
+    loss = K.sum(content_loss + _style_loss)
     
     grads = K.gradients(loss, model.input)
-    fn = K.function(model.input, [loss]+grads)
+    fn = K.function([model.input], [loss]+grads)
     evaluator = Evaluator(fn, input_content.shape)
     return fn,evaluator
 transfer_function,transfer_evaluator = generate_final_function(model,content_layer,style_layer,content_resized,style_resized)
@@ -152,6 +153,6 @@ transfer_function,transfer_evaluator = generate_final_function(model,content_lay
 
 
 x = content_resized.copy()
-x = solve_image(transfer_evaluator, iterator, x,"final")
+x = solve_image(transfer_evaluator, iterations, x,"final")
 
 
