@@ -1,0 +1,381 @@
+,AwayTeam,Country,Date,Div,Division,FTAG,FTHG,HomeTeam,ODDA,ODDD,ODDH,over,season,under
+0,Atletico-PR,Brazil,2009-12-06,BR1,1,0,0,Barueri,3.4,3.4,2.1,1.67,2009,2.15
+1,Palmeiras,Brazil,2009-12-06,BR1,1,1,2,Botafogo RJ,3.2,3.5,2.15,1.62,2009,2.25
+2,Fluminense,Brazil,2009-12-06,BR1,1,1,1,Coritiba,3.4,3.3,2.1,1.75,2009,2.04
+3,Gremio,Brazil,2009-12-06,BR1,1,1,2,Flamengo RJ,12.0,5.75,1.22,1.55,2009,2.38
+4,Santo Andre,Brazil,2009-12-06,BR1,1,1,4,Internacional,8.0,4.75,1.36,1.6,2009,2.29
+5,Cruzeiro,Brazil,2009-12-06,BR1,1,2,1,Santos,2.63,3.4,2.63,1.7,2009,2.1
+6,Sport Recife,Brazil,2009-12-06,BR1,1,0,4,Sao Paulo,12.0,6.0,1.22,1.5,2009,2.5
+7,Goias,Brazil,2009-12-06,BR1,1,2,2,Vitoria,5.5,3.75,1.62,1.6,2009,2.29
+8,Corinthians,Brazil,2009-12-05,BR1,1,3,0,Atletico-MG,5.25,3.75,1.62,1.62,2009,2.25
+9,Avai,Brazil,2009-12-05,BR1,1,1,0,Nautico,3.25,3.25,2.25,1.53,2009,2.4
+10,Botafogo RJ,Brazil,2009-11-29,BR1,1,0,2,Atletico-PR,3.75,3.4,2.0,1.95,2009,1.85
+11,Santos,Brazil,2009-11-29,BR1,1,2,2,Avai,3.0,3.25,2.29,1.73,2009,2.08
+12,Flamengo RJ,Brazil,2009-11-29,BR1,1,2,0,Corinthians,2.1,3.25,3.5,1.85,2009,1.95
+13,Coritiba,Brazil,2009-11-29,BR1,1,1,4,Cruzeiro,6.5,4.2,1.5,1.7,2009,2.1
+14,Vitoria,Brazil,2009-11-29,BR1,1,0,4,Fluminense,5.5,3.75,1.6,1.7,2009,2.1
+15,Sao Paulo,Brazil,2009-11-29,BR1,1,2,4,Goias,2.25,3.25,3.1,1.8,2009,2.0
+16,Barueri,Brazil,2009-11-29,BR1,1,2,4,Gremio,5.75,3.8,1.57,1.7,2009,2.1
+17,Atletico-MG,Brazil,2009-11-29,BR1,1,1,3,Palmeiras,4.33,3.4,1.85,1.8,2009,2.0
+18,Nautico,Brazil,2009-11-29,BR1,1,3,5,Santo Andre,5.5,3.8,1.6,1.65,2009,2.2
+19,Internacional,Brazil,2009-11-29,BR1,1,2,1,Sport Recife,1.83,3.5,4.5,1.8,2009,2.0
+20,Internacional,Brazil,2009-11-22,BR1,1,1,0,Atletico-MG,3.25,3.25,2.25,1.8,2009,2.0
+21,Sao Paulo,Brazil,2009-11-22,BR1,1,2,3,Botafogo RJ,2.8,3.25,2.5,1.9,2009,1.9
+22,Goias,Brazil,2009-11-22,BR1,1,0,0,Flamengo RJ,8.0,4.5,1.4,1.5,2009,2.5
+23,Avai,Brazil,2009-11-22,BR1,1,2,4,Santo Andre,3.5,3.4,2.1,1.75,2009,2.04
+24,Coritiba,Brazil,2009-11-22,BR1,1,0,4,Santos,4.0,3.4,1.91,1.75,2009,2.04
+25,Fluminense,Brazil,2009-11-22,BR1,1,3,0,Sport Recife,2.25,3.25,3.2,1.67,2009,2.15
+26,Barueri,Brazil,2009-11-22,BR1,1,1,2,Vitoria,4.75,3.75,1.73,1.67,2009,2.15
+27,Cruzeiro,Brazil,2009-11-21,BR1,1,1,1,Atletico-PR,2.6,3.25,2.7,1.9,2009,1.9
+28,Nautico,Brazil,2009-11-21,BR1,1,3,2,Corinthians,4.75,3.6,1.73,1.65,2009,2.2
+29,Palmeiras,Brazil,2009-11-19,BR1,1,0,2,Gremio,2.88,3.6,2.29,1.85,2009,1.95
+30,Corinthians,Brazil,2009-11-15,BR1,1,1,3,Avai,3.8,3.4,1.91,1.73,2009,2.08
+31,Botafogo RJ,Brazil,2009-11-15,BR1,1,0,3,Barueri,3.1,3.3,2.25,1.75,2009,2.04
+32,Atletico-PR,Brazil,2009-11-15,BR1,1,1,2,Fluminense,5.5,3.7,1.62,1.8,2009,2.0
+33,Santo Andre,Brazil,2009-11-15,BR1,1,1,3,Goias,4.2,3.6,1.8,1.55,2009,2.38
+34,Santos,Brazil,2009-11-15,BR1,1,1,3,Internacional,5.25,3.8,1.62,1.7,2009,2.1
+35,Flamengo RJ,Brazil,2009-11-15,BR1,1,2,0,Nautico,2.4,3.4,2.88,1.65,2009,2.2
+36,Atletico-MG,Brazil,2009-11-14,BR1,1,1,2,Coritiba,3.1,3.25,2.29,1.8,2009,2.0
+37,Gremio,Brazil,2009-11-14,BR1,1,1,1,Cruzeiro,5.0,3.5,1.7,1.75,2009,2.04
+38,Vitoria,Brazil,2009-11-14,BR1,1,0,2,Sao Paulo,6.5,3.8,1.55,1.75,2009,2.04
+39,Sport Recife,Brazil,2009-11-12,BR1,1,2,2,Palmeiras,11.0,5.0,1.29,1.57,2009,2.35
+40,Flamengo RJ,Brazil,2009-11-08,BR1,1,3,1,Atletico-MG,3.25,3.3,2.2,1.8,2009,2.0
+41,Goias,Brazil,2009-11-08,BR1,1,0,2,Atletico-PR,4.33,3.6,1.8,1.7,2009,2.1
+42,Internacional,Brazil,2009-11-08,BR1,1,1,1,Barueri,2.6,3.25,2.7,1.8,2009,2.0
+43,Coritiba,Brazil,2009-11-08,BR1,1,0,2,Botafogo RJ,4.2,3.6,1.83,1.7,2009,2.1
+44,Santo Andre,Brazil,2009-11-08,BR1,1,0,2,Corinthians,4.2,3.5,1.83,1.8,2009,2.0
+45,Palmeiras,Brazil,2009-11-08,BR1,1,0,1,Fluminense,2.9,3.3,2.4,1.7,2009,2.1
+46,Nautico,Brazil,2009-11-07,BR1,1,1,3,Santos,5.0,3.8,1.67,1.65,2009,2.2
+47,Cruzeiro,Brazil,2009-11-07,BR1,1,3,2,Sport Recife,2.25,3.3,3.2,1.75,2009,2.04
+48,Avai,Brazil,2009-11-07,BR1,1,1,0,Vitoria,3.75,3.5,1.95,1.7,2009,2.1
+49,Sao Paulo,Brazil,2009-11-05,BR1,1,1,1,Gremio,3.2,3.3,2.2,1.8,2009,2.0
+50,Vitoria,Brazil,2009-11-01,BR1,1,0,1,Coritiba,4.33,3.4,1.83,1.75,2009,2.04
+51,Fluminense,Brazil,2009-11-01,BR1,1,3,2,Cruzeiro,5.75,3.6,1.62,1.7,2009,2.1
+52,Atletico-MG,Brazil,2009-11-01,BR1,1,3,2,Goias,3.1,3.5,2.15,1.65,2009,2.2
+53,Botafogo RJ,Brazil,2009-11-01,BR1,1,1,0,Internacional,4.75,3.6,1.73,1.67,2009,2.15
+54,Sport Recife,Brazil,2009-11-01,BR1,1,2,3,Nautico,2.75,3.25,2.63,1.8,2009,2.0
+55,Corinthians,Brazil,2009-11-01,BR1,1,2,2,Palmeiras,3.1,3.4,2.2,1.8,2009,2.0
+56,Gremio,Brazil,2009-11-01,BR1,1,0,2,Santo Andre,2.6,3.3,2.63,1.95,2009,1.85
+57,Atletico-PR,Brazil,2009-10-31,BR1,1,0,2,Avai,3.8,3.25,1.91,1.7,2009,2.1
+58,Santos,Brazil,2009-10-31,BR1,1,0,1,Flamengo RJ,5.0,3.6,1.7,1.7,2009,2.1
+59,Barueri,Brazil,2009-10-31,BR1,1,0,1,Sao Paulo,5.25,3.75,1.6,1.7,2009,2.1
+60,Atletico-MG,Brazil,2009-10-30,BR1,1,1,2,Fluminense,2.88,3.4,2.38,1.95,2009,1.85
+61,Goias,Brazil,2009-10-30,BR1,1,0,4,Palmeiras,5.0,3.6,1.65,1.62,2009,2.25
+62,Coritiba,Brazil,2009-10-30,BR1,1,1,1,Sport Recife,5.25,3.5,1.7,1.67,2009,2.15
+63,Flamengo RJ,Brazil,2009-10-29,BR1,1,0,2,Barueri,2.45,3.4,2.75,1.7,2009,2.1
+64,Santo Andre,Brazil,2009-10-29,BR1,1,2,3,Cruzeiro,5.25,4.0,1.6,1.7,2009,2.1
+65,Avai,Brazil,2009-10-29,BR1,1,1,3,Gremio,6.0,3.8,1.57,1.57,2009,2.35
+66,Internacional,Brazil,2009-10-29,BR1,1,0,1,Sao Paulo,4.0,3.4,1.91,1.85,2009,1.95
+67,Corinthians,Brazil,2009-10-29,BR1,1,1,0,Vitoria,3.75,3.4,2.0,1.8,2009,2.0
+68,Santos,Brazil,2009-10-28,BR1,1,1,1,Atletico-PR,3.1,3.25,2.29,1.8,2009,2.0
+69,Nautico,Brazil,2009-10-28,BR1,1,0,1,Botafogo RJ,7.0,4.0,1.5,1.6,2009,2.29
+70,Sport Recife,Brazil,2009-10-25,BR1,1,2,2,Avai,5.5,3.6,1.62,1.65,2009,2.2
+71,Flamengo RJ,Brazil,2009-10-25,BR1,1,1,0,Botafogo RJ,2.75,3.3,2.5,1.7,2009,2.1
+72,Cruzeiro,Brazil,2009-10-25,BR1,1,1,0,Corinthians,3.1,3.25,2.29,1.8,2009,2.0
+73,Atletico-PR,Brazil,2009-10-25,BR1,1,2,3,Coritiba,3.5,3.3,2.1,1.9,2009,1.9
+74,Fluminense,Brazil,2009-10-25,BR1,1,2,2,Goias,3.5,3.6,1.75,1.62,2009,2.25
+75,Gremio,Brazil,2009-10-25,BR1,1,0,1,Internacional,3.5,3.25,2.1,1.75,2009,2.04
+76,Sao Paulo,Brazil,2009-10-25,BR1,1,4,3,Santos,2.5,3.3,2.88,2.0,2009,1.8
+77,Vitoria,Brazil,2009-10-24,BR1,1,0,1,Atletico-MG,4.5,3.6,1.73,1.65,2009,2.2
+78,Barueri,Brazil,2009-10-24,BR1,1,1,2,Nautico,3.75,3.4,2.0,1.65,2009,2.2
+79,Palmeiras,Brazil,2009-10-22,BR1,1,0,2,Santo Andre,1.91,3.5,4.0,1.8,2009,2.0
+80,Santo Andre,Brazil,2009-10-18,BR1,1,0,3,Atletico-PR,3.8,3.4,1.95,1.95,2009,1.85
+81,Botafogo RJ,Brazil,2009-10-18,BR1,1,0,1,Cruzeiro,4.0,3.4,1.91,1.65,2009,2.2
+82,Internacional,Brazil,2009-10-18,BR1,1,2,2,Fluminense,2.88,3.3,2.4,1.8,2009,2.0
+83,Coritiba,Brazil,2009-10-18,BR1,1,0,2,Gremio,6.0,3.75,1.57,1.65,2009,2.2
+84,Flamengo RJ,Brazil,2009-10-18,BR1,1,2,0,Palmeiras,4.5,3.5,1.8,1.7,2009,2.1
+85,Corinthians,Brazil,2009-10-18,BR1,1,0,2,Sport Recife,3.25,3.5,2.0,1.8,2009,2.0
+86,Nautico,Brazil,2009-10-18,BR1,1,1,3,Vitoria,6.5,3.6,1.6,1.67,2009,2.15
+87,Goias,Brazil,2009-10-17,BR1,1,1,2,Avai,3.6,3.3,2.04,1.57,2009,2.35
+88,Santos,Brazil,2009-10-17,BR1,1,0,0,Barueri,3.5,3.3,2.0,1.7,2009,2.1
+89,Atletico-MG,Brazil,2009-10-17,BR1,1,1,0,Sao Paulo,5.5,3.75,1.62,1.85,2009,1.95
+90,Cruzeiro,Brazil,2009-10-12,BR1,1,1,0,Atletico-MG,2.2,3.25,3.3,1.8,2009,2.0
+91,Avai,Brazil,2009-10-12,BR1,1,2,2,Botafogo RJ,4.5,3.75,1.73,1.6,2009,2.29
+92,Sport Recife,Brazil,2009-10-12,BR1,1,1,1,Goias,5.75,3.8,1.57,1.53,2009,2.4
+93,Palmeiras,Brazil,2009-10-12,BR1,1,0,3,Nautico,2.38,3.25,3.0,1.95,2009,1.85
+94,Vitoria,Brazil,2009-10-12,BR1,1,0,0,Santos,4.0,3.5,1.85,1.67,2009,2.15
+95,Gremio,Brazil,2009-10-10,BR1,1,1,2,Corinthians,3.4,3.3,2.1,1.75,2009,2.04
+96,Barueri,Brazil,2009-10-10,BR1,1,2,1,Coritiba,4.33,3.5,1.83,1.67,2009,2.15
+97,Sao Paulo,Brazil,2009-10-10,BR1,1,1,2,Flamengo RJ,2.5,3.25,2.8,1.95,2009,1.85
+98,Atletico-PR,Brazil,2009-10-10,BR1,1,1,1,Internacional,6.5,4.0,1.53,1.6,2009,2.29
+99,Fluminense,Brazil,2009-10-10,BR1,1,2,1,Santo Andre,3.3,3.3,2.2,1.95,2009,1.85
+100,Atletico-MG,Brazil,2009-10-09,BR1,1,1,3,Botafogo RJ,4.0,3.5,1.91,1.85,2009,1.95
+101,Goias,Brazil,2009-10-09,BR1,1,0,3,Cruzeiro,4.75,3.75,1.75,1.6,2009,2.29
+102,Avai,Brazil,2009-10-09,BR1,1,2,2,Palmeiras,8.0,3.75,1.5,1.62,2009,2.25
+103,Gremio,Brazil,2009-10-08,BR1,1,0,0,Atletico-PR,2.5,3.3,2.8,1.8,2009,2.0
+104,Santo Andre,Brazil,2009-10-08,BR1,1,0,0,Barueri,4.2,3.5,1.85,1.62,2009,2.25
+105,Corinthians,Brazil,2009-10-08,BR1,1,1,1,Fluminense,3.25,3.25,2.25,1.8,2009,2.0
+106,Nautico,Brazil,2009-10-08,BR1,1,1,3,Internacional,10.0,5.0,1.3,1.45,2009,2.7
+107,Coritiba,Brazil,2009-10-08,BR1,1,2,2,Sao Paulo,5.5,3.75,1.62,1.8,2009,2.0
+108,Santos,Brazil,2009-10-08,BR1,1,1,0,Sport Recife,4.0,3.5,1.91,1.67,2009,2.15
+109,Flamengo RJ,Brazil,2009-10-08,BR1,1,3,3,Vitoria,4.33,3.5,1.83,1.7,2009,2.1
+110,Cruzeiro,Brazil,2009-10-04,BR1,1,2,2,Avai,2.75,3.4,2.5,1.75,2009,2.04
+111,Internacional,Brazil,2009-10-04,BR1,1,0,2,Coritiba,2.9,3.2,2.45,1.95,2009,1.85
+112,Fluminense,Brazil,2009-10-04,BR1,1,0,2,Flamengo RJ,3.4,3.4,2.04,1.8,2009,2.0
+113,Botafogo RJ,Brazil,2009-10-04,BR1,1,3,1,Goias,4.5,3.6,1.75,1.57,2009,2.35
+114,Sport Recife,Brazil,2009-10-04,BR1,1,3,3,Gremio,8.5,4.59,1.36,1.55,2009,2.38
+115,Palmeiras,Brazil,2009-10-04,BR1,1,3,1,Santos,2.8,3.25,2.5,1.8,2009,2.0
+116,Barueri,Brazil,2009-10-03,BR1,1,1,2,Atletico-MG,5.0,3.5,1.7,1.57,2009,2.35
+117,Atletico-PR,Brazil,2009-10-03,BR1,1,3,1,Corinthians,5.25,3.6,1.67,1.7,2009,2.1
+118,Vitoria,Brazil,2009-10-03,BR1,1,0,1,Santo Andre,3.2,3.3,2.25,1.8,2009,2.0
+119,Sao Paulo,Brazil,2009-10-01,BR1,1,2,1,Nautico,1.95,3.3,3.8,1.95,2009,1.85
+120,Santos,Brazil,2009-09-27,BR1,1,1,3,Atletico-MG,3.75,3.3,2.0,1.75,2009,2.04
+121,Vitoria,Brazil,2009-09-27,BR1,1,3,1,Botafogo RJ,5.5,3.8,1.6,1.53,2009,2.4
+122,Nautico,Brazil,2009-09-27,BR1,1,0,2,Coritiba,5.0,4.0,1.62,1.73,2009,2.1
+123,Avai,Brazil,2009-09-27,BR1,1,2,3,Fluminense,3.2,3.25,2.25,1.8,2009,2.0
+124,Gremio,Brazil,2009-09-27,BR1,1,1,2,Goias,3.1,3.25,2.29,1.65,2009,2.2
+125,Flamengo RJ,Brazil,2009-09-27,BR1,1,0,0,Internacional,5.0,3.5,1.73,1.67,2009,2.2
+126,Corinthians,Brazil,2009-09-27,BR1,1,1,1,Sao Paulo,4.0,3.5,1.91,1.95,2009,1.85
+127,Santo Andre,Brazil,2009-09-27,BR1,1,1,2,Sport Recife,4.33,3.5,1.85,1.8,2009,2.0
+128,Cruzeiro,Brazil,2009-09-26,BR1,1,1,0,Barueri,2.88,3.3,2.38,1.62,2009,2.25
+129,Atletico-PR,Brazil,2009-09-26,BR1,1,1,2,Palmeiras,7.0,4.2,1.44,1.67,2009,2.15
+130,Palmeiras,Brazil,2009-09-24,BR1,1,2,1,Cruzeiro,3.1,3.5,2.2,1.73,2009,2.08
+131,Barueri,Brazil,2009-09-20,BR1,1,0,4,Avai,3.6,3.3,2.04,1.7,2009,2.1
+132,Goias,Brazil,2009-09-20,BR1,1,4,1,Corinthians,4.5,3.5,1.75,1.65,2009,2.2
+133,Coritiba,Brazil,2009-09-20,BR1,1,0,3,Flamengo RJ,5.5,3.6,1.67,1.7,2009,2.1
+134,Fluminense,Brazil,2009-09-20,BR1,1,1,5,Gremio,7.0,3.8,1.5,1.67,2009,2.15
+135,Sao Paulo,Brazil,2009-09-20,BR1,1,1,1,Santo Andre,1.7,3.4,5.5,1.9,2009,1.9
+136,Botafogo RJ,Brazil,2009-09-20,BR1,1,0,0,Santos,4.5,3.3,1.85,1.62,2009,2.25
+137,Sport Recife,Brazil,2009-09-19,BR1,1,0,1,Atletico-PR,4.75,3.6,1.73,1.8,2009,2.0
+138,Atletico-MG,Brazil,2009-09-19,BR1,1,0,0,Nautico,2.7,3.3,2.54,1.73,2009,2.08
+139,Internacional,Brazil,2009-09-19,BR1,1,0,2,Vitoria,2.88,3.3,2.4,1.62,2009,2.25
+140,Corinthians,Brazil,2009-09-17,BR1,1,1,1,Coritiba,2.8,3.3,2.45,1.8,2009,2.0
+141,Atletico-PR,Brazil,2009-09-13,BR1,1,1,2,Atletico-MG,4.75,3.5,1.75,1.75,2009,2.04
+142,Goias,Brazil,2009-09-13,BR1,1,1,3,Barueri,3.6,3.5,2.0,1.57,2009,2.35
+143,Fluminense,Brazil,2009-09-13,BR1,1,0,0,Botafogo RJ,4.5,3.4,1.83,1.8,2009,2.0
+144,Cruzeiro,Brazil,2009-09-13,BR1,1,3,2,Internacional,6.0,3.75,1.57,1.65,2009,2.2
+145,Gremio,Brazil,2009-09-13,BR1,1,2,0,Nautico,2.29,3.3,3.0,1.8,2009,2.0
+146,Santo Andre,Brazil,2009-09-13,BR1,1,0,1,Santos,6.0,3.8,1.57,1.6,2009,2.29
+147,Palmeiras,Brazil,2009-09-13,BR1,1,2,3,Vitoria,2.63,3.25,2.63,1.9,2009,1.9
+148,Sport Recife,Brazil,2009-09-12,BR1,1,0,3,Flamengo RJ,5.75,3.6,1.6,1.7,2009,2.1
+149,Avai,Brazil,2009-09-12,BR1,1,0,2,Sao Paulo,7.0,4.0,1.5,1.65,2009,2.2
+150,Flamengo RJ,Brazil,2009-09-06,BR1,1,0,0,Atletico-PR,3.5,3.3,2.1,1.95,2009,1.85
+151,Internacional,Brazil,2009-09-06,BR1,1,2,0,Avai,2.29,3.3,3.0,1.65,2009,2.2
+152,Sao Paulo,Brazil,2009-09-06,BR1,1,2,1,Cruzeiro,3.2,3.3,2.25,1.95,2009,1.85
+153,Nautico,Brazil,2009-09-06,BR1,1,1,1,Fluminense,5.75,3.75,1.6,1.67,2009,2.15
+154,Coritiba,Brazil,2009-09-06,BR1,1,2,2,Goias,6.5,3.8,1.53,1.65,2009,2.2
+155,Atletico-MG,Brazil,2009-09-06,BR1,1,2,1,Santo Andre,3.3,3.3,2.15,1.75,2009,2.04
+156,Vitoria,Brazil,2009-09-05,BR1,1,1,1,Gremio,7.0,4.2,1.45,1.57,2009,2.35
+157,Barueri,Brazil,2009-09-05,BR1,1,1,2,Palmeiras,8.5,3.75,1.45,1.65,2009,2.2
+158,Botafogo RJ,Brazil,2009-09-05,BR1,1,1,2,Sport Recife,3.4,3.2,2.2,1.65,2009,2.2
+159,Santos,Brazil,2009-09-03,BR1,1,1,2,Corinthians,3.2,3.3,2.25,1.73,2009,2.08
+160,Atletico-MG,Brazil,2009-09-03,BR1,1,0,3,Internacional,7.5,4.2,1.44,1.53,2009,2.4
+161,Sport Recife,Brazil,2009-08-30,BR1,1,1,1,Atletico-MG,6.5,4.2,1.5,1.57,2009,2.35
+162,Gremio,Brazil,2009-08-30,BR1,1,3,3,Botafogo RJ,3.3,3.4,2.15,1.8,2009,2.0
+163,Goias,Brazil,2009-08-30,BR1,1,0,4,Internacional,4.2,3.75,1.83,1.62,2009,2.25
+164,Fluminense,Brazil,2009-08-30,BR1,1,0,2,Santos,5.5,3.6,1.67,1.65,2009,2.25
+165,Palmeiras,Brazil,2009-08-30,BR1,1,0,0,Sao Paulo,3.0,3.2,2.38,2.04,2009,1.75
+166,Cruzeiro,Brazil,2009-08-30,BR1,1,3,3,Vitoria,3.1,3.3,2.29,1.85,2009,1.95
+167,Avai,Brazil,2009-08-29,BR1,1,0,2,Coritiba,3.75,3.4,2.0,1.85,2009,1.95
+168,Santo Andre,Brazil,2009-08-29,BR1,1,0,3,Flamengo RJ,4.2,3.4,1.85,1.85,2009,1.95
+169,Atletico-PR,Brazil,2009-08-29,BR1,1,0,3,Nautico,3.6,3.4,2.0,1.85,2009,1.95
+170,Cruzeiro,Brazil,2009-08-28,BR1,1,1,1,Botafogo RJ,3.5,3.6,2.0,1.6,2009,2.29
+171,Corinthians,Brazil,2009-08-27,BR1,1,2,2,Barueri,3.4,3.3,2.15,1.6,2009,2.25
+172,Internacional,Brazil,2009-08-27,BR1,1,3,3,Santos,3.75,3.4,2.0,1.73,2009,2.08
+173,Sao Paulo,Brazil,2009-08-23,BR1,1,0,1,Atletico-PR,2.29,3.25,3.1,2.0,2009,1.8
+174,Flamengo RJ,Brazil,2009-08-23,BR1,1,0,3,Avai,4.5,3.5,1.75,1.7,2009,2.1
+175,Botafogo RJ,Brazil,2009-08-23,BR1,1,3,3,Corinthians,3.75,3.25,2.04,1.85,2009,1.95
+176,Nautico,Brazil,2009-08-23,BR1,1,2,4,Cruzeiro,9.0,4.33,1.4,1.65,2009,2.2
+177,Barueri,Brazil,2009-08-23,BR1,1,0,0,Fluminense,3.8,3.3,2.0,1.73,2009,2.08
+178,Santos,Brazil,2009-08-23,BR1,1,1,2,Goias,3.8,3.3,1.95,1.65,2009,2.2
+179,Atletico-MG,Brazil,2009-08-23,BR1,1,1,4,Gremio,4.75,3.4,1.75,1.7,2009,2.1
+180,Internacional,Brazil,2009-08-22,BR1,1,1,2,Palmeiras,4.33,3.6,1.83,1.8,2009,2.0
+181,Coritiba,Brazil,2009-08-22,BR1,1,0,1,Santo Andre,3.6,3.4,2.0,1.8,2009,2.0
+182,Vitoria,Brazil,2009-08-22,BR1,1,0,2,Sport Recife,3.2,3.4,2.2,1.7,2009,2.1
+183,Avai,Brazil,2009-08-21,BR1,1,2,2,Atletico-MG,3.6,3.2,2.04,1.73,2009,2.08
+184,Cruzeiro,Brazil,2009-08-21,BR1,1,2,1,Flamengo RJ,3.2,3.3,2.2,1.75,2009,2.04
+185,Goias,Brazil,2009-08-21,BR1,1,0,2,Nautico,2.2,3.3,3.25,1.57,2009,2.35
+186,Sport Recife,Brazil,2009-08-20,BR1,1,1,2,Barueri,6.5,3.75,1.57,1.6,2009,2.25
+187,Santo Andre,Brazil,2009-08-20,BR1,1,2,1,Botafogo RJ,6.5,3.75,1.55,1.67,2009,2.15
+188,Palmeiras,Brazil,2009-08-20,BR1,1,0,1,Coritiba,2.4,3.3,2.9,1.95,2009,1.85
+189,Corinthians,Brazil,2009-08-20,BR1,1,2,1,Internacional,5.75,3.6,1.62,1.85,2009,1.95
+190,Gremio,Brazil,2009-08-20,BR1,1,0,1,Santos,3.5,3.25,2.1,1.7,2009,2.1
+191,Fluminense,Brazil,2009-08-20,BR1,1,0,1,Sao Paulo,7.5,4.2,1.44,1.7,2009,2.1
+192,Atletico-PR,Brazil,2009-08-20,BR1,1,1,2,Vitoria,4.5,3.25,1.8,1.8,2009,2.0
+193,Barueri,Brazil,2009-08-16,BR1,1,0,3,Atletico-PR,3.3,3.25,2.2,1.67,2009,2.1
+194,Atletico-MG,Brazil,2009-08-16,BR1,1,0,2,Corinthians,3.75,3.5,1.95,1.8,2009,2.0
+195,Santos,Brazil,2009-08-16,BR1,1,0,0,Cruzeiro,4.5,3.6,1.8,1.7,2009,2.1
+196,Coritiba,Brazil,2009-08-16,BR1,1,3,1,Fluminense,5.0,3.6,1.7,1.8,2009,2.0
+197,Vitoria,Brazil,2009-08-16,BR1,1,2,3,Goias,6.25,3.5,1.62,1.67,2009,2.2
+198,Flamengo RJ,Brazil,2009-08-16,BR1,1,1,4,Gremio,4.5,3.5,1.8,1.8,2009,2.0
+199,Sao Paulo,Brazil,2009-08-16,BR1,1,2,1,Sport Recife,2.5,3.2,2.88,1.95,2009,1.85
+200,Nautico,Brazil,2009-08-15,BR1,1,1,2,Avai,6.5,3.8,1.53,1.6,2009,2.29
+201,Botafogo RJ,Brazil,2009-08-15,BR1,1,1,1,Palmeiras,6.0,3.8,1.57,1.75,2009,2.04
+202,Internacional,Brazil,2009-08-15,BR1,1,2,0,Santo Andre,2.5,3.4,2.88,1.75,2009,2.04
+203,Palmeiras,Brazil,2009-08-13,BR1,1,1,1,Atletico-MG,2.63,3.25,2.7,1.85,2009,1.95
+204,Sport Recife,Brazil,2009-08-11,BR1,1,0,3,Internacional,8.5,4.5,1.4,1.53,2009,2.4
+205,Gremio,Brazil,2009-08-09,BR1,1,0,1,Barueri,2.88,3.3,2.4,1.7,2009,2.1
+206,Cruzeiro,Brazil,2009-08-09,BR1,1,3,1,Coritiba,2.7,3.3,2.6,2.0,2009,1.8
+207,Corinthians,Brazil,2009-08-09,BR1,1,0,1,Flamengo RJ,5.25,3.6,1.67,1.8,2009,2.0
+208,Goias,Brazil,2009-08-09,BR1,1,1,3,Sao Paulo,5.25,3.6,1.7,1.8,2009,2.0
+209,Fluminense,Brazil,2009-08-09,BR1,1,2,2,Vitoria,4.2,3.4,1.85,1.8,2009,2.0
+210,Atletico-PR,Brazil,2009-08-08,BR1,1,1,0,Botafogo RJ,5.25,3.5,1.7,1.65,2009,2.2
+211,Santo Andre,Brazil,2009-08-08,BR1,1,1,2,Nautico,3.1,3.3,2.38,1.85,2009,1.95
+212,Avai,Brazil,2009-08-08,BR1,1,2,2,Santos,4.75,3.4,1.8,1.7,2009,2.1
+213,Vitoria,Brazil,2009-08-07,BR1,1,0,4,Barueri,4.0,3.4,1.91,1.62,2009,2.29
+214,Sport Recife,Brazil,2009-08-07,BR1,1,1,5,Fluminense,4.33,3.4,1.8,1.95,2009,1.85
+215,Gremio,Brazil,2009-08-07,BR1,1,1,1,Palmeiras,5.0,3.6,1.73,1.8,2009,2.0
+216,Santo Andre,Brazil,2009-08-06,BR1,1,0,1,Avai,5.25,3.6,1.62,1.7,2009,2.1
+217,Santos,Brazil,2009-08-06,BR1,1,1,0,Coritiba,2.2,3.25,3.2,1.65,2009,2.2
+218,Atletico-PR,Brazil,2009-08-06,BR1,1,2,0,Cruzeiro,6.5,4.2,1.44,1.65,2009,2.25
+219,Flamengo RJ,Brazil,2009-08-06,BR1,1,2,3,Goias,3.4,3.2,2.04,1.73,2009,2.08
+220,Corinthians,Brazil,2009-08-06,BR1,1,0,1,Nautico,2.63,3.25,2.45,1.75,2009,2.04
+221,Botafogo RJ,Brazil,2009-08-06,BR1,1,1,3,Sao Paulo,4.5,3.5,1.8,1.65,2009,2.2
+222,Coritiba,Brazil,2009-08-02,BR1,1,2,3,Atletico-MG,6.0,3.8,1.57,1.7,2009,2.1
+223,Fluminense,Brazil,2009-08-02,BR1,1,0,1,Atletico-PR,2.5,3.2,2.88,1.95,2009,1.85
+224,Avai,Brazil,2009-08-02,BR1,1,0,0,Corinthians,4.0,3.3,1.95,1.9,2009,1.9
+225,Nautico,Brazil,2009-08-02,BR1,1,1,1,Flamengo RJ,8.0,4.75,1.36,1.5,2009,2.6
+226,Cruzeiro,Brazil,2009-08-02,BR1,1,1,4,Gremio,4.33,3.6,1.83,1.75,2009,2.04
+227,Goias,Brazil,2009-08-02,BR1,1,2,1,Santo Andre,2.8,3.4,2.4,1.75,2009,2.04
+228,Sao Paulo,Brazil,2009-08-02,BR1,1,1,0,Vitoria,2.7,3.2,2.6,1.8,2009,2.0
+229,Barueri,Brazil,2009-08-01,BR1,1,1,2,Botafogo RJ,4.33,3.8,1.75,1.44,2009,2.7
+230,Palmeiras,Brazil,2009-08-01,BR1,1,1,0,Sport Recife,2.29,3.3,3.1,1.8,2009,2.0
+231,Vitoria,Brazil,2009-07-31,BR1,1,0,4,Avai,3.3,3.5,2.1,1.73,2009,2.08
+232,Atletico-MG,Brazil,2009-07-31,BR1,1,1,3,Flamengo RJ,3.4,3.25,2.2,1.7,2009,2.1
+233,Gremio,Brazil,2009-07-31,BR1,1,1,2,Sao Paulo,4.33,3.3,1.91,1.7,2009,2.1
+234,Botafogo RJ,Brazil,2009-07-30,BR1,1,2,2,Coritiba,2.8,3.2,2.6,1.73,2009,2.08
+235,Sport Recife,Brazil,2009-07-30,BR1,1,0,1,Cruzeiro,7.0,4.0,1.5,1.65,2009,2.2
+236,Atletico-PR,Brazil,2009-07-30,BR1,1,0,3,Goias,5.75,3.6,1.65,1.7,2009,2.1
+237,Barueri,Brazil,2009-07-30,BR1,1,2,3,Internacional,5.0,3.75,1.67,1.53,2009,2.4
+238,Santos,Brazil,2009-07-30,BR1,1,2,1,Nautico,2.63,3.3,2.63,1.6,2009,2.29
+239,Fluminense,Brazil,2009-07-30,BR1,1,0,1,Palmeiras,9.5,4.5,1.36,1.53,2009,2.4
+240,Corinthians,Brazil,2009-07-30,BR1,1,1,1,Santo Andre,2.5,3.25,2.9,1.8,2009,2.0
+241,Goias,Brazil,2009-07-26,BR1,1,1,0,Atletico-MG,5.0,3.5,1.7,1.67,2009,2.2
+242,Sao Paulo,Brazil,2009-07-26,BR1,1,2,1,Barueri,2.5,3.25,2.75,1.85,2009,1.95
+243,Palmeiras,Brazil,2009-07-26,BR1,1,3,0,Corinthians,2.63,3.3,2.63,1.75,2009,2.04
+244,Cruzeiro,Brazil,2009-07-26,BR1,1,1,1,Fluminense,2.5,3.3,2.8,1.85,2009,1.95
+245,Flamengo RJ,Brazil,2009-07-26,BR1,1,2,1,Santos,3.8,3.5,1.9,1.7,2009,2.1
+246,Nautico,Brazil,2009-07-26,BR1,1,3,3,Sport Recife,5.5,3.6,1.65,1.75,2009,2.04
+247,Coritiba,Brazil,2009-07-26,BR1,1,0,1,Vitoria,6.5,3.8,1.55,1.7,2009,2.1
+248,Avai,Brazil,2009-07-25,BR1,1,3,1,Atletico-PR,3.25,3.4,2.25,1.85,2009,1.95
+249,Internacional,Brazil,2009-07-25,BR1,1,2,3,Botafogo RJ,3.8,3.5,1.95,1.75,2009,2.04
+250,Santo Andre,Brazil,2009-07-25,BR1,1,2,3,Gremio,6.5,3.75,1.5,1.7,2009,2.1
+251,Fluminense,Brazil,2009-07-24,BR1,1,1,2,Atletico-MG,6.0,2.75,1.55,1.7,2009,2.1
+252,Vitoria,Brazil,2009-07-24,BR1,1,1,2,Corinthians,4.0,3.3,1.91,1.75,2009,2.04
+253,Sport Recife,Brazil,2009-07-24,BR1,1,1,1,Coritiba,5.25,3.6,1.67,1.8,2009,2.0
+254,Gremio,Brazil,2009-07-23,BR1,1,0,1,Avai,2.5,3.25,2.8,1.73,2009,2.08
+255,Barueri,Brazil,2009-07-23,BR1,1,1,1,Flamengo RJ,3.6,3.4,2.0,1.53,2009,2.4
+256,Palmeiras,Brazil,2009-07-23,BR1,1,1,2,Goias,3.0,3.3,2.29,1.75,2009,2.04
+257,Sao Paulo,Brazil,2009-07-23,BR1,1,2,2,Internacional,4.75,3.4,1.8,1.8,2009,2.0
+258,Botafogo RJ,Brazil,2009-07-23,BR1,1,2,2,Nautico,2.4,3.25,2.88,1.75,2009,2.04
+259,Cruzeiro,Brazil,2009-07-23,BR1,1,2,0,Santo Andre,2.8,3.25,2.5,1.8,2009,2.0
+260,Atletico-PR,Brazil,2009-07-23,BR1,1,0,1,Santos,5.5,3.75,1.6,1.6,2009,2.29
+261,Coritiba,Brazil,2009-07-19,BR1,1,0,0,Atletico-PR,2.88,3.2,2.5,1.75,2009,2.04
+262,Nautico,Brazil,2009-07-19,BR1,1,0,4,Barueri,6.0,4.0,1.53,1.55,2009,2.35
+263,Corinthians,Brazil,2009-07-19,BR1,1,2,1,Cruzeiro,3.7,3.4,2.0,1.85,2009,1.95
+264,Botafogo RJ,Brazil,2009-07-19,BR1,1,2,2,Flamengo RJ,3.1,3.25,2.38,1.75,2009,2.04
+265,Internacional,Brazil,2009-07-19,BR1,1,1,2,Gremio,3.3,3.25,2.25,1.8,2009,2.0
+266,Santos,Brazil,2009-07-19,BR1,1,1,2,Sao Paulo,4.2,3.4,1.85,1.75,2009,2.04
+267,Avai,Brazil,2009-07-19,BR1,1,3,1,Sport Recife,6.0,3.6,1.62,1.75,2009,2.04
+268,Atletico-MG,Brazil,2009-07-19,BR1,1,0,0,Vitoria,3.3,3.5,2.1,1.62,2009,2.29
+269,Goias,Brazil,2009-07-18,BR1,1,4,1,Fluminense,3.6,3.5,2.04,1.8,2009,2.0
+270,Santo Andre,Brazil,2009-07-18,BR1,1,0,1,Palmeiras,6.5,4.0,1.5,1.67,2009,2.2
+271,Sao Paulo,Brazil,2009-07-17,BR1,1,0,2,Atletico-MG,3.5,3.4,2.04,1.85,2009,1.95
+272,Sport Recife,Brazil,2009-07-17,BR1,1,3,4,Corinthians,5.75,3.75,1.57,1.8,2009,2.0
+273,Vitoria,Brazil,2009-07-17,BR1,1,1,1,Nautico,2.4,3.4,2.88,1.7,2009,2.1
+274,Gremio,Brazil,2009-07-16,BR1,1,1,2,Coritiba,2.8,3.5,2.38,1.85,2009,1.95
+275,Palmeiras,Brazil,2009-07-16,BR1,1,2,1,Flamengo RJ,3.5,3.3,2.1,1.95,2009,1.85
+276,Avai,Brazil,2009-07-16,BR1,1,2,0,Goias,6.5,4.0,1.5,1.65,2009,2.25
+277,Fluminense,Brazil,2009-07-16,BR1,1,2,4,Internacional,6.5,3.6,1.62,1.8,2009,2.0
+278,Atletico-PR,Brazil,2009-07-16,BR1,1,0,1,Santo Andre,4.2,3.6,1.85,1.65,2009,2.2
+279,Barueri,Brazil,2009-07-16,BR1,1,3,3,Santos,4.0,3.4,1.91,1.53,2009,2.4
+280,Internacional,Brazil,2009-07-12,BR1,1,2,3,Atletico-PR,2.5,3.2,2.9,1.95,2009,1.85
+281,Atletico-MG,Brazil,2009-07-12,BR1,1,3,0,Cruzeiro,2.1,3.4,3.3,1.67,2009,2.15
+282,Santo Andre,Brazil,2009-07-12,BR1,1,1,0,Fluminense,3.8,3.4,2.0,1.85,2009,1.95
+283,Corinthians,Brazil,2009-07-12,BR1,1,0,3,Gremio,4.0,3.3,1.91,1.9,2009,1.9
+284,Flamengo RJ,Brazil,2009-07-12,BR1,1,2,2,Sao Paulo,5.0,3.5,1.73,1.9,2009,1.9
+285,Goias,Brazil,2009-07-12,BR1,1,0,1,Sport Recife,3.2,3.3,2.2,1.75,2009,2.04
+286,Santos,Brazil,2009-07-12,BR1,1,2,6,Vitoria,3.75,3.4,2.0,1.8,2009,2.0
+287,Botafogo RJ,Brazil,2009-07-11,BR1,1,2,1,Avai,2.75,3.3,2.5,1.75,2009,2.04
+288,Coritiba,Brazil,2009-07-11,BR1,1,1,3,Barueri,3.6,3.3,2.04,1.7,2009,2.1
+289,Nautico,Brazil,2009-07-11,BR1,1,1,4,Palmeiras,8.5,4.5,1.36,1.7,2009,2.1
+290,Fluminense,Brazil,2009-07-09,BR1,1,2,4,Corinthians,5.25,3.5,1.62,1.95,2009,1.85
+291,Botafogo RJ,Brazil,2009-07-05,BR1,1,1,1,Atletico-MG,5.25,3.6,1.67,1.6,2009,2.29
+292,Palmeiras,Brazil,2009-07-05,BR1,1,3,0,Avai,2.7,3.4,2.5,1.9,2009,1.9
+293,Sao Paulo,Brazil,2009-07-05,BR1,1,0,2,Coritiba,2.4,3.4,2.8,1.9,2009,1.9
+294,Cruzeiro,Brazil,2009-07-05,BR1,1,0,1,Goias,5.0,3.6,1.67,1.7,2009,2.1
+295,Atletico-PR,Brazil,2009-07-05,BR1,1,1,4,Gremio,6.0,3.75,1.62,1.8,2009,2.0
+296,Internacional,Brazil,2009-07-05,BR1,1,2,0,Nautico,2.15,3.3,3.4,1.95,2009,1.85
+297,Vitoria,Brazil,2009-07-04,BR1,1,1,2,Flamengo RJ,5.5,3.75,1.7,1.8,2009,2.0
+298,Barueri,Brazil,2009-07-04,BR1,1,1,1,Santo Andre,3.5,3.4,2.1,1.57,2009,2.35
+299,Sport Recife,Brazil,2009-07-04,BR1,1,0,1,Santos,5.0,3.6,1.7,1.7,2009,2.1
+300,Flamengo RJ,Brazil,2009-06-28,BR1,1,0,0,Fluminense,2.38,3.1,3.0,1.95,2009,1.85
+301,Coritiba,Brazil,2009-06-28,BR1,1,0,3,Internacional,3.6,3.2,2.1,2.0,2009,1.8
+302,Santos,Brazil,2009-06-28,BR1,1,1,1,Palmeiras,3.25,3.25,2.2,1.75,2009,2.04
+303,Gremio,Brazil,2009-06-28,BR1,1,1,3,Sport Recife,4.75,3.75,1.73,1.9,2009,1.9
+304,Santo Andre,Brazil,2009-06-28,BR1,1,1,4,Vitoria,4.75,3.6,1.75,1.8,2009,2.0
+305,Corinthians,Brazil,2009-06-27,BR1,1,0,1,Atletico-PR,3.5,3.4,2.1,1.8,2009,2.0
+306,Atletico-MG,Brazil,2009-06-27,BR1,1,2,4,Barueri,2.63,3.3,2.7,1.7,2009,2.1
+307,Goias,Brazil,2009-06-27,BR1,1,4,1,Botafogo RJ,4.0,3.3,1.95,1.7,2009,2.1
+308,Avai,Brazil,2009-06-27,BR1,1,0,1,Cruzeiro,4.0,3.25,2.0,1.95,2009,1.85
+309,Nautico,Brazil,2009-06-27,BR1,1,0,2,Sao Paulo,7.5,4.5,1.4,1.65,2009,2.2
+310,Sao Paulo,Brazil,2009-06-21,BR1,1,1,3,Corinthians,3.5,3.4,2.1,2.2,2009,1.65
+311,Barueri,Brazil,2009-06-21,BR1,1,4,2,Cruzeiro,5.75,3.6,1.65,1.7,2009,2.1
+312,Internacional,Brazil,2009-06-21,BR1,1,0,4,Flamengo RJ,3.8,3.4,2.0,2.0,2009,1.8
+313,Atletico-MG,Brazil,2009-06-21,BR1,1,3,2,Santos,4.0,3.6,1.85,1.7,2009,2.1
+314,Palmeiras,Brazil,2009-06-20,BR1,1,2,2,Atletico-PR,2.8,3.3,2.45,1.8,2009,2.0
+315,Fluminense,Brazil,2009-06-20,BR1,1,2,3,Avai,3.0,3.25,2.29,2.0,2009,1.8
+316,Goias,Brazil,2009-06-20,BR1,1,2,2,Gremio,4.5,3.4,1.85,1.85,2009,1.95
+317,Coritiba,Brazil,2009-06-20,BR1,1,1,0,Nautico,4.0,3.4,1.91,1.7,2009,2.1
+318,Sport Recife,Brazil,2009-06-20,BR1,1,1,2,Santo Andre,4.2,3.5,1.91,1.8,2009,2.0
+319,Botafogo RJ,Brazil,2009-06-20,BR1,1,3,4,Vitoria,4.0,3.25,2.0,2.04,2009,1.75
+320,Nautico,Brazil,2009-06-14,BR1,1,0,3,Atletico-MG,5.75,3.75,1.55,1.6,2009,2.29
+321,Avai,Brazil,2009-06-14,BR1,1,1,3,Barueri,4.0,3.25,1.95,1.8,2009,2.0
+322,Flamengo RJ,Brazil,2009-06-14,BR1,1,0,5,Coritiba,2.63,3.25,2.6,1.75,2009,2.04
+323,Gremio,Brazil,2009-06-14,BR1,1,0,0,Fluminense,3.1,3.25,2.29,2.0,2009,1.8
+324,Corinthians,Brazil,2009-06-14,BR1,1,0,0,Goias,3.7,3.25,2.04,1.85,2009,1.95
+325,Vitoria,Brazil,2009-06-14,BR1,1,0,0,Internacional,5.0,3.6,1.67,1.9,2009,1.9
+326,Cruzeiro,Brazil,2009-06-14,BR1,1,1,3,Palmeiras,3.6,3.3,2.1,1.9,2009,1.9
+327,Santos,Brazil,2009-06-13,BR1,1,0,2,Botafogo RJ,3.1,3.3,2.29,1.8,2009,2.0
+328,Santo Andre,Brazil,2009-06-13,BR1,1,1,1,Sao Paulo,6.5,4.0,1.5,1.8,2009,2.0
+329,Atletico-PR,Brazil,2009-06-13,BR1,1,1,0,Sport Recife,5.25,3.6,1.65,1.7,2009,2.1
+330,Atletico-MG,Brazil,2009-06-07,BR1,1,4,0,Atletico-PR,3.4,3.4,2.1,1.8,2009,2.0
+331,Sao Paulo,Brazil,2009-06-07,BR1,1,0,0,Avai,2.2,3.3,3.3,2.04,2009,1.75
+332,Coritiba,Brazil,2009-06-07,BR1,1,0,2,Corinthians,5.25,3.6,1.67,1.9,2009,1.9
+333,Internacional,Brazil,2009-06-07,BR1,1,1,1,Cruzeiro,4.5,3.4,1.8,1.95,2009,1.85
+334,Botafogo RJ,Brazil,2009-06-07,BR1,1,0,1,Fluminense,2.5,3.25,2.75,1.95,2009,1.85
+335,Barueri,Brazil,2009-06-07,BR1,1,2,2,Goias,,,,,2009,
+336,Vitoria,Brazil,2009-06-07,BR1,1,1,2,Palmeiras,6.5,3.8,1.55,1.9,2009,1.9
+337,Flamengo RJ,Brazil,2009-06-07,BR1,1,2,4,Sport Recife,2.88,3.25,2.45,2.0,2009,1.8
+338,Nautico,Brazil,2009-06-05,BR1,1,0,3,Gremio,8.0,4.33,1.44,1.7,2009,2.1
+339,Santos,Brazil,2009-06-05,BR1,1,3,3,Santo Andre,2.0,3.4,3.75,1.75,2009,2.04
+340,Palmeiras,Brazil,2009-05-31,BR1,1,2,2,Barueri,,,,,2009,
+341,Atletico-PR,Brazil,2009-05-31,BR1,1,1,2,Flamengo RJ,6.5,3.75,1.57,1.73,2009,2.08
+342,Avai,Brazil,2009-05-31,BR1,1,1,2,Internacional,6.5,4.0,1.5,1.8,2009,2.0
+343,Fluminense,Brazil,2009-05-31,BR1,1,1,1,Nautico,3.4,3.2,2.1,1.85,2009,1.95
+344,Corinthians,Brazil,2009-05-31,BR1,1,1,3,Santos,5.25,3.6,1.7,1.95,2009,1.85
+345,Cruzeiro,Brazil,2009-05-31,BR1,1,0,3,Sao Paulo,4.2,3.4,1.85,1.95,2009,1.85
+346,Gremio,Brazil,2009-05-31,BR1,1,0,1,Vitoria,3.1,3.25,2.29,2.04,2009,1.75
+347,Santo Andre,Brazil,2009-05-30,BR1,1,0,0,Atletico-MG,6.0,3.6,1.57,1.62,2009,2.25
+348,Sport Recife,Brazil,2009-05-30,BR1,1,2,2,Botafogo RJ,5.5,3.6,1.65,1.85,2009,1.95
+349,Goias,Brazil,2009-05-30,BR1,1,3,1,Coritiba,3.0,3.3,2.29,1.73,2009,2.08
+350,Nautico,Brazil,2009-05-24,BR1,1,3,2,Atletico-PR,4.5,3.4,1.75,1.73,2009,2.08
+351,Coritiba,Brazil,2009-05-24,BR1,1,2,2,Avai,3.75,3.6,1.91,1.9,2009,1.9
+352,Santos,Brazil,2009-05-24,BR1,1,4,1,Fluminense,3.6,3.4,2.04,1.95,2009,1.85
+353,Botafogo RJ,Brazil,2009-05-24,BR1,1,0,2,Gremio,4.75,3.75,1.75,1.95,2009,1.85
+354,Sao Paulo,Brazil,2009-05-24,BR1,1,0,0,Palmeiras,3.1,3.3,2.29,2.0,2009,1.8
+355,Flamengo RJ,Brazil,2009-05-24,BR1,1,2,1,Santo Andre,2.75,3.2,2.38,1.95,2009,1.85
+356,Atletico-MG,Brazil,2009-05-24,BR1,1,3,2,Sport Recife,4.5,3.5,1.83,1.9,2009,1.9
+357,Barueri,Brazil,2009-05-23,BR1,1,1,2,Corinthians,,,,,2009,
+358,Vitoria,Brazil,2009-05-23,BR1,1,0,2,Cruzeiro,6.5,3.8,1.55,1.85,2009,1.95
+359,Internacional,Brazil,2009-05-23,BR1,1,1,0,Goias,3.5,3.3,2.1,1.8,2009,2.0
+360,Fluminense,Brazil,2009-05-17,BR1,1,0,0,Barueri,,,,,2009,
+361,Corinthians,Brazil,2009-05-17,BR1,1,0,0,Botafogo RJ,3.2,3.3,2.25,1.95,2009,1.85
+362,Palmeiras,Brazil,2009-05-17,BR1,1,0,2,Internacional,3.4,3.25,2.1,2.0,2009,1.8
+363,Cruzeiro,Brazil,2009-05-17,BR1,1,0,2,Nautico,2.75,3.2,2.5,1.67,2009,2.15
+364,Goias,Brazil,2009-05-17,BR1,1,3,3,Santos,5.5,3.6,1.67,1.75,2009,2.04
+365,Atletico-PR,Brazil,2009-05-17,BR1,1,2,2,Sao Paulo,7.0,4.33,1.44,1.8,2009,2.0
+366,Sport Recife,Brazil,2009-05-17,BR1,1,0,1,Vitoria,3.25,3.2,2.1,2.04,2009,1.75
+367,Gremio,Brazil,2009-05-16,BR1,1,1,2,Atletico-MG,3.1,3.25,2.29,1.8,2009,2.0
+368,Santo Andre,Brazil,2009-05-16,BR1,1,4,2,Coritiba,3.75,3.4,2.0,1.8,2009,2.0
+369,Avai,Brazil,2009-05-16,BR1,1,0,0,Flamengo RJ,6.5,4.2,1.5,1.67,2009,2.15
+370,Vitoria,Brazil,2009-05-10,BR1,1,2,0,Atletico-PR,5.25,3.4,1.62,1.9,2009,1.9
+371,Internacional,Brazil,2009-05-10,BR1,1,1,0,Corinthians,3.1,3.3,2.29,1.9,2009,1.9
+372,Flamengo RJ,Brazil,2009-05-10,BR1,1,0,2,Cruzeiro,3.6,3.3,1.95,1.75,2009,2.04
+373,Sao Paulo,Brazil,2009-05-10,BR1,1,0,1,Fluminense,2.7,3.3,2.54,1.95,2009,1.85
+374,Nautico,Brazil,2009-05-10,BR1,1,3,3,Goias,6.5,3.6,1.53,1.7,2009,2.1
+375,Santos,Brazil,2009-05-10,BR1,1,1,1,Gremio,4.0,3.5,1.75,1.95,2009,1.85
+376,Botafogo RJ,Brazil,2009-05-10,BR1,1,1,1,Santo Andre,2.88,3.3,2.4,1.9,2009,1.9
+377,Atletico-MG,Brazil,2009-05-09,BR1,1,2,2,Avai,3.25,3.3,2.1,1.75,2009,2.04
+378,Coritiba,Brazil,2009-05-09,BR1,1,1,2,Palmeiras,5.75,3.6,1.6,1.8,2009,2.0
+379,Barueri,Brazil,2009-05-09,BR1,1,1,1,Sport Recife,,,,,2009,

@@ -1,0 +1,381 @@
+,AwayTeam,Country,Date,Div,Division,FTAG,FTHG,HomeTeam,ODDA,ODDD,ODDH,over,season,under
+0,Atletico-MG,Brazil,2014-12-07,BR1,1,0,0,Botafogo RJ,1.83,3.5,4.2,1.85,2014,1.95
+1,Bahia,Brazil,2014-12-07,BR1,1,2,3,Coritiba,3.5,3.3,2.1,2.0,2014,1.8
+2,Fluminense,Brazil,2014-12-07,BR1,1,1,2,Cruzeiro,5.5,3.75,1.62,1.73,2014,2.08
+3,Chapecoense-SC,Brazil,2014-12-07,BR1,1,2,4,Goias,3.8,3.3,2.0,2.3,2014,1.6
+4,Flamengo RJ,Brazil,2014-12-07,BR1,1,1,1,Gremio,7.5,4.2,1.44,2.05,2014,1.75
+5,Atletico-PR,Brazil,2014-12-07,BR1,1,1,1,Palmeiras,8.0,4.75,1.36,1.8,2014,2.0
+6,Sao Paulo,Brazil,2014-12-07,BR1,1,0,1,Sport Recife,3.0,3.4,2.3,1.95,2014,1.85
+7,Santos,Brazil,2014-12-07,BR1,1,1,0,Vitoria,4.5,3.75,1.73,1.95,2014,1.85
+8,Criciuma,Brazil,2014-12-06,BR1,1,1,2,Corinthians,13.0,6.0,1.22,1.65,2014,2.2
+9,Internacional,Brazil,2014-12-06,BR1,1,2,1,Figueirense,1.95,3.5,3.8,2.05,2014,1.75
+10,Coritiba,Brazil,2014-11-30,BR1,1,2,1,Atletico-MG,4.5,3.75,1.73,2.05,2014,1.75
+11,Goias,Brazil,2014-11-30,BR1,1,0,1,Atletico-PR,5.0,3.3,1.8,2.15,2014,1.67
+12,Gremio,Brazil,2014-11-30,BR1,1,0,1,Bahia,2.38,3.2,3.0,2.4,2014,1.53
+13,Cruzeiro,Brazil,2014-11-30,BR1,1,1,1,Chapecoense-SC,2.9,3.2,2.45,2.05,2014,1.75
+14,Vitoria,Brazil,2014-11-30,BR1,1,0,4,Flamengo RJ,2.5,3.4,2.7,2.15,2014,1.67
+15,Corinthians,Brazil,2014-11-30,BR1,1,2,5,Fluminense,2.38,3.2,3.0,2.25,2014,1.62
+16,Botafogo RJ,Brazil,2014-11-30,BR1,1,0,2,Santos,5.75,3.8,1.6,1.95,2014,1.85
+17,Figueirense,Brazil,2014-11-30,BR1,1,1,1,Sao Paulo,9.0,4.2,1.4,2.05,2014,1.75
+18,Sport Recife,Brazil,2014-11-29,BR1,1,2,2,Criciuma,2.6,3.2,2.7,2.1,2014,1.7
+19,Palmeiras,Brazil,2014-11-29,BR1,1,1,3,Internacional,7.0,4.0,1.5,1.85,2014,1.95
+20,Atletico-PR,Brazil,2014-11-23,BR1,1,2,1,Bahia,4.75,3.6,1.73,2.25,2014,1.62
+21,Botafogo RJ,Brazil,2014-11-23,BR1,1,0,2,Chapecoense-SC,4.0,3.4,1.91,2.15,2014,1.67
+22,Gremio,Brazil,2014-11-23,BR1,1,0,1,Corinthians,4.2,3.3,1.91,2.5,2014,1.5
+23,Palmeiras,Brazil,2014-11-23,BR1,1,0,2,Coritiba,4.33,3.6,1.8,2.1,2014,1.7
+24,Goias,Brazil,2014-11-23,BR1,1,1,2,Cruzeiro,9.5,4.75,1.33,1.8,2014,2.0
+25,Vitoria,Brazil,2014-11-23,BR1,1,0,2,Figueirense,3.4,3.4,2.1,2.2,2014,1.65
+26,Criciuma,Brazil,2014-11-23,BR1,1,1,1,Flamengo RJ,6.5,4.0,1.5,1.85,2014,1.95
+27,Sao Paulo,Brazil,2014-11-23,BR1,1,1,0,Santos,2.88,3.3,2.4,2.0,2014,1.8
+28,Fluminense,Brazil,2014-11-23,BR1,1,2,2,Sport Recife,2.88,3.3,2.4,2.1,2014,1.7
+29,Atletico-MG,Brazil,2014-11-22,BR1,1,1,2,Internacional,4.75,3.6,1.73,1.95,2014,1.85
+30,Cruzeiro,Brazil,2014-11-21,BR1,1,2,1,Gremio,3.75,3.25,2.05,2.35,2014,1.57
+31,Flamengo RJ,Brazil,2014-11-20,BR1,1,0,4,Atletico-MG,6.0,3.8,1.57,2.0,2014,1.8
+32,Bahia,Brazil,2014-11-20,BR1,1,1,0,Criciuma,3.4,3.4,2.1,2.08,2014,1.73
+33,Chapecoense-SC,Brazil,2014-11-20,BR1,1,4,1,Fluminense,7.0,4.0,1.5,2.08,2014,1.73
+34,Corinthians,Brazil,2014-11-20,BR1,1,1,0,Goias,2.05,3.25,3.75,2.4,2014,1.53
+35,Sport Recife,Brazil,2014-11-20,BR1,1,2,0,Palmeiras,5.75,3.75,1.62,2.05,2014,1.75
+36,Coritiba,Brazil,2014-11-20,BR1,1,1,1,Vitoria,3.1,3.1,2.4,2.25,2014,1.62
+37,Santos,Brazil,2014-11-19,BR1,1,1,1,Atletico-PR,3.2,3.4,2.2,2.05,2014,1.75
+38,Figueirense,Brazil,2014-11-19,BR1,1,1,0,Botafogo RJ,3.75,3.4,2.0,2.3,2014,1.6
+39,Figueirense,Brazil,2014-11-16,BR1,1,1,1,Atletico-MG,7.0,3.75,1.53,2.05,2014,1.75
+40,Sport Recife,Brazil,2014-11-16,BR1,1,1,0,Atletico-PR,5.5,3.75,1.62,2.1,2014,1.7
+41,Corinthians,Brazil,2014-11-16,BR1,1,2,1,Bahia,2.5,3.1,2.9,2.7,2014,1.44
+42,Vitoria,Brazil,2014-11-16,BR1,1,1,0,Chapecoense-SC,4.2,3.3,1.91,2.25,2014,1.62
+43,Coritiba,Brazil,2014-11-16,BR1,1,2,3,Flamengo RJ,3.8,3.3,2.0,2.25,2014,1.62
+44,Goias,Brazil,2014-11-16,BR1,1,0,1,Internacional,7.0,4.0,1.5,1.95,2014,1.85
+45,Cruzeiro,Brazil,2014-11-16,BR1,1,1,0,Santos,2.8,3.4,2.4,1.85,2014,1.95
+46,Palmeiras,Brazil,2014-11-16,BR1,1,0,2,Sao Paulo,5.0,3.75,1.67,1.9,2014,1.9
+47,Gremio,Brazil,2014-11-15,BR1,1,3,0,Criciuma,2.25,3.1,3.4,2.25,2014,1.62
+48,Botafogo RJ,Brazil,2014-11-15,BR1,1,0,1,Fluminense,5.0,3.75,1.67,1.85,2014,1.95
+49,Internacional,Brazil,2014-11-13,BR1,1,1,1,Sao Paulo,5.5,3.8,1.62,1.85,2014,1.95
+50,Atletico-PR,Brazil,2014-11-09,BR1,1,2,0,Botafogo RJ,3.6,3.1,2.15,2.15,2014,1.67
+51,Santos,Brazil,2014-11-09,BR1,1,0,1,Corinthians,4.2,3.5,1.85,2.15,2014,1.67
+52,Criciuma,Brazil,2014-11-09,BR1,1,1,3,Cruzeiro,11.0,5.0,1.29,1.65,2014,2.2
+53,Chapecoense-SC,Brazil,2014-11-09,BR1,1,0,1,Figueirense,3.4,3.1,2.25,2.5,2014,1.5
+54,Bahia,Brazil,2014-11-09,BR1,1,0,3,Goias,3.8,3.3,2.0,2.25,2014,1.62
+55,Internacional,Brazil,2014-11-09,BR1,1,1,4,Gremio,4.0,3.2,2.0,2.4,2014,1.53
+56,Flamengo RJ,Brazil,2014-11-09,BR1,1,2,2,Sport Recife,3.5,3.3,2.1,2.4,2014,1.53
+57,Sao Paulo,Brazil,2014-11-09,BR1,1,2,1,Vitoria,2.6,3.3,2.63,1.85,2014,1.95
+58,Fluminense,Brazil,2014-11-08,BR1,1,0,1,Coritiba,3.4,3.4,2.1,2.0,2014,1.8
+59,Atletico-MG,Brazil,2014-11-08,BR1,1,2,0,Palmeiras,4.6,3.6,1.75,1.95,2014,1.85
+60,Atletico-MG,Brazil,2014-11-02,BR1,1,0,1,Atletico-PR,3.75,3.5,1.95,1.85,2014,1.95
+61,Palmeiras,Brazil,2014-11-02,BR1,1,1,0,Bahia,3.2,3.2,2.3,2.3,2014,1.6
+62,Coritiba,Brazil,2014-11-02,BR1,1,2,2,Corinthians,4.75,3.5,1.75,2.35,2014,1.57
+63,Sao Paulo,Brazil,2014-11-02,BR1,1,2,1,Criciuma,2.45,3.2,2.9,2.05,2014,1.75
+64,Botafogo RJ,Brazil,2014-11-02,BR1,1,1,2,Cruzeiro,11.0,5.0,1.3,1.67,2014,2.15
+65,Chapecoense-SC,Brazil,2014-11-02,BR1,1,0,3,Flamengo RJ,4.0,3.2,2.0,2.5,2014,1.5
+66,Internacional,Brazil,2014-11-02,BR1,1,2,1,Santos,3.1,3.25,2.3,2.05,2014,1.75
+67,Figueirense,Brazil,2014-11-02,BR1,1,0,1,Sport Recife,5.0,3.5,1.73,2.25,2014,1.62
+68,Fluminense,Brazil,2014-11-01,BR1,1,2,0,Goias,2.88,3.2,2.5,2.15,2014,1.67
+69,Vitoria,Brazil,2014-11-01,BR1,1,0,1,Gremio,9.0,4.2,1.4,2.05,2014,1.75
+70,Goias,Brazil,2014-10-27,BR1,1,0,3,Sao Paulo,5.5,3.75,1.62,2.2,2014,1.65
+71,Flamengo RJ,Brazil,2014-10-26,BR1,1,1,2,Botafogo RJ,2.6,3.2,2.75,2.25,2014,1.62
+72,Bahia,Brazil,2014-10-26,BR1,1,0,2,Internacional,8.0,4.0,1.44,2.0,2014,1.8
+73,Sport Recife,Brazil,2014-10-25,BR1,1,2,3,Atletico-MG,5.25,3.6,1.67,2.05,2014,1.75
+74,Santos,Brazil,2014-10-25,BR1,1,1,1,Chapecoense-SC,3.6,3.25,2.1,2.3,2014,1.6
+75,Gremio,Brazil,2014-10-25,BR1,1,1,1,Coritiba,3.5,3.1,2.2,2.7,2014,1.44
+76,Cruzeiro,Brazil,2014-10-25,BR1,1,1,1,Figueirense,1.83,3.5,4.33,2.08,2014,1.73
+77,Atletico-PR,Brazil,2014-10-25,BR1,1,1,2,Fluminense,5.25,3.8,1.65,2.0,2014,1.8
+78,Corinthians,Brazil,2014-10-25,BR1,1,1,1,Palmeiras,2.6,3.1,2.8,2.4,2014,1.53
+79,Criciuma,Brazil,2014-10-25,BR1,1,1,3,Vitoria,4.2,3.2,1.95,2.15,2014,1.67
+80,Sao Paulo,Brazil,2014-10-23,BR1,1,0,0,Chapecoense-SC,2.7,3.1,2.7,2.25,2014,1.62
+81,Botafogo RJ,Brazil,2014-10-23,BR1,1,0,2,Coritiba,5.5,3.75,1.62,1.85,2014,1.95
+82,Figueirense,Brazil,2014-10-23,BR1,1,0,1,Gremio,7.5,4.2,1.44,2.15,2014,1.67
+83,Fluminense,Brazil,2014-10-23,BR1,1,1,0,Santos,4.75,3.6,1.73,1.9,2014,1.9
+84,Goias,Brazil,2014-10-23,BR1,1,1,0,Sport Recife,4.2,3.2,1.95,2.5,2014,1.5
+85,Atletico-MG,Brazil,2014-10-22,BR1,1,1,1,Bahia,2.5,3.1,2.9,2.35,2014,1.57
+86,Vitoria,Brazil,2014-10-22,BR1,1,1,2,Corinthians,4.75,3.25,1.83,2.35,2014,1.57
+87,Atletico-PR,Brazil,2014-10-22,BR1,1,1,0,Criciuma,3.2,3.2,2.3,2.15,2014,1.67
+88,Palmeiras,Brazil,2014-10-22,BR1,1,1,1,Cruzeiro,8.0,4.75,1.36,1.7,2014,2.1
+89,Internacional,Brazil,2014-10-22,BR1,1,0,2,Flamengo RJ,4.0,3.2,2.0,2.3,2014,1.6
+90,Chapecoense-SC,Brazil,2014-10-19,BR1,1,0,1,Atletico-MG,7.5,4.2,1.44,2.05,2014,1.75
+91,Flamengo RJ,Brazil,2014-10-19,BR1,1,1,2,Atletico-PR,3.7,3.25,2.05,2.35,2014,1.57
+92,Sport Recife,Brazil,2014-10-19,BR1,1,1,1,Botafogo RJ,3.6,3.3,2.05,2.05,2014,1.75
+93,Coritiba,Brazil,2014-10-19,BR1,1,0,4,Figueirense,2.4,3.1,3.0,2.25,2014,1.62
+94,Corinthians,Brazil,2014-10-19,BR1,1,2,1,Internacional,4.33,3.2,1.91,2.4,2014,1.53
+95,Santos,Brazil,2014-10-19,BR1,1,3,1,Palmeiras,2.9,3.2,2.45,2.05,2014,1.75
+96,Cruzeiro,Brazil,2014-10-19,BR1,1,1,0,Vitoria,2.05,3.4,3.5,2.0,2014,1.8
+97,Criciuma,Brazil,2014-10-18,BR1,1,2,4,Fluminense,7.0,4.0,1.5,2.05,2014,1.75
+98,Gremio,Brazil,2014-10-18,BR1,1,0,0,Goias,3.2,3.0,2.38,3.1,2014,1.36
+99,Bahia,Brazil,2014-10-18,BR1,1,1,2,Sao Paulo,9.0,4.2,1.4,2.0,2014,1.8
+100,Sao Paulo,Brazil,2014-10-12,BR1,1,0,1,Atletico-MG,3.8,3.4,1.95,2.08,2014,1.73
+101,Figueirense,Brazil,2014-10-12,BR1,1,0,3,Atletico-PR,7.0,4.0,1.5,2.1,2014,1.7
+102,Chapecoense-SC,Brazil,2014-10-12,BR1,1,1,0,Bahia,4.5,3.3,1.85,2.5,2014,1.5
+103,Santos,Brazil,2014-10-12,BR1,1,0,3,Criciuma,3.1,3.1,2.38,2.1,2014,1.7
+104,Cruzeiro,Brazil,2014-10-12,BR1,1,0,3,Flamengo RJ,2.7,3.1,2.7,2.35,2014,1.57
+105,Fluminense,Brazil,2014-10-12,BR1,1,1,2,Internacional,4.0,3.4,1.91,1.95,2014,1.85
+106,Gremio,Brazil,2014-10-12,BR1,1,1,2,Palmeiras,3.25,3.25,2.25,2.35,2014,1.57
+107,Vitoria,Brazil,2014-10-12,BR1,1,2,1,Sport Recife,3.6,3.3,2.05,2.05,2014,1.75
+108,Coritiba,Brazil,2014-10-11,BR1,1,0,3,Goias,3.1,3.1,2.38,2.4,2014,1.53
+109,Corinthians,Brazil,2014-10-11,BR1,1,0,1,Botafogo RJ,1.91,3.2,4.33,2.35,2014,1.57
+110,Internacional,Brazil,2014-10-10,BR1,1,0,5,Chapecoense-SC,2.3,3.1,3.3,2.35,2014,1.57
+111,Atletico-MG,Brazil,2014-10-10,BR1,1,0,0,Fluminense,3.5,3.4,2.05,1.8,2014,2.0
+112,Bahia,Brazil,2014-10-10,BR1,1,0,1,Santos,5.5,3.8,1.62,2.1,2014,1.7
+113,Palmeiras,Brazil,2014-10-09,BR1,1,1,0,Botafogo RJ,2.8,3.3,2.45,1.9,2014,1.9
+114,Criciuma,Brazil,2014-10-09,BR1,1,0,1,Coritiba,6.0,3.8,1.57,2.05,2014,1.75
+115,Corinthians,Brazil,2014-10-09,BR1,1,1,0,Cruzeiro,6.0,3.6,1.62,2.35,2014,1.57
+116,Flamengo RJ,Brazil,2014-10-09,BR1,1,2,1,Figueirense,2.75,3.1,2.63,2.5,2014,1.5
+117,Sport Recife,Brazil,2014-10-09,BR1,1,0,2,Gremio,7.5,4.2,1.44,2.2,2014,1.65
+118,Atletico-PR,Brazil,2014-10-09,BR1,1,0,1,Sao Paulo,5.5,3.75,1.62,1.8,2014,2.0
+119,Goias,Brazil,2014-10-09,BR1,1,2,2,Vitoria,3.6,3.3,2.05,2.05,2014,1.75
+120,Figueirense,Brazil,2014-10-05,BR1,1,0,1,Goias,4.75,3.5,1.75,2.35,2014,1.57
+121,Sport Recife,Brazil,2014-10-04,BR1,1,0,3,Corinthians,8.0,4.0,1.44,2.35,2014,1.57
+122,Atletico-PR,Brazil,2014-10-04,BR1,1,0,1,Coritiba,4.75,3.3,1.8,2.25,2014,1.62
+123,Atletico-MG,Brazil,2014-10-04,BR1,1,1,3,Criciuma,2.3,3.2,3.2,2.15,2014,1.67
+124,Internacional,Brazil,2014-10-04,BR1,1,1,2,Cruzeiro,5.0,3.75,1.67,2.05,2014,1.75
+125,Santos,Brazil,2014-10-04,BR1,1,1,0,Flamengo RJ,4.0,3.4,1.91,2.15,2014,1.67
+126,Bahia,Brazil,2014-10-04,BR1,1,1,1,Fluminense,4.33,3.4,1.85,2.3,2014,1.6
+127,Sao Paulo,Brazil,2014-10-04,BR1,1,1,0,Gremio,5.25,3.4,1.73,2.4,2014,1.53
+128,Botafogo RJ,Brazil,2014-10-04,BR1,1,1,2,Vitoria,5.0,3.6,1.7,2.0,2014,1.8
+129,Chapecoense-SC,Brazil,2014-10-03,BR1,1,2,4,Palmeiras,4.33,3.4,1.85,2.2,2014,1.65
+130,Vitoria,Brazil,2014-09-28,BR1,1,0,2,Atletico-MG,7.0,4.33,1.44,1.8,2014,2.0
+131,Corinthians,Brazil,2014-09-28,BR1,1,0,1,Atletico-PR,2.9,3.1,2.5,2.7,2014,1.44
+132,Flamengo RJ,Brazil,2014-09-28,BR1,1,1,2,Bahia,3.4,3.1,2.25,2.7,2014,1.44
+133,Gremio,Brazil,2014-09-28,BR1,1,2,0,Botafogo RJ,2.55,3.0,2.9,2.5,2014,1.5
+134,Palmeiras,Brazil,2014-09-28,BR1,1,1,3,Figueirense,3.5,3.2,2.15,2.2,2014,1.65
+135,Coritiba,Brazil,2014-09-28,BR1,1,2,4,Internacional,6.0,3.6,1.62,2.2,2014,1.65
+136,Goias,Brazil,2014-09-28,BR1,1,0,2,Santos,4.75,3.6,1.75,2.0,2014,1.8
+137,Fluminense,Brazil,2014-09-28,BR1,1,3,1,Sao Paulo,5.0,3.5,1.73,1.8,2014,2.0
+138,Criciuma,Brazil,2014-09-27,BR1,1,1,1,Chapecoense-SC,4.75,3.4,1.8,2.7,2014,1.44
+139,Cruzeiro,Brazil,2014-09-27,BR1,1,0,0,Sport Recife,1.91,3.5,4.0,2.0,2014,1.8
+140,Santos,Brazil,2014-09-26,BR1,1,2,3,Atletico-MG,5.5,3.6,1.67,1.8,2014,2.0
+141,Goias,Brazil,2014-09-26,BR1,1,0,1,Botafogo RJ,3.3,3.4,2.15,2.0,2014,1.8
+142,Vitoria,Brazil,2014-09-26,BR1,1,0,2,Palmeiras,4.0,3.5,1.91,1.95,2014,1.85
+143,Sport Recife,Brazil,2014-09-25,BR1,1,0,1,Bahia,4.0,3.4,1.91,2.25,2014,1.62
+144,Atletico-PR,Brazil,2014-09-25,BR1,1,0,3,Chapecoense-SC,3.25,3.1,2.3,2.6,2014,1.48
+145,Cruzeiro,Brazil,2014-09-25,BR1,1,2,1,Coritiba,2.5,3.2,2.88,2.05,2014,1.75
+146,Corinthians,Brazil,2014-09-25,BR1,1,0,1,Figueirense,2.2,3.25,3.25,2.6,2014,1.48
+147,Gremio,Brazil,2014-09-25,BR1,1,0,0,Fluminense,3.2,3.0,2.4,2.5,2014,1.5
+148,Criciuma,Brazil,2014-09-25,BR1,1,0,3,Internacional,8.0,4.0,1.44,2.05,2014,1.75
+149,Flamengo RJ,Brazil,2014-09-25,BR1,1,2,2,Sao Paulo,5.0,3.5,1.73,2.0,2014,1.8
+150,Sao Paulo,Brazil,2014-09-21,BR1,1,2,3,Corinthians,3.4,3.2,2.2,2.5,2014,1.5
+151,Botafogo RJ,Brazil,2014-09-21,BR1,1,1,1,Criciuma,4.0,3.4,1.91,2.15,2014,1.67
+152,Atletico-MG,Brazil,2014-09-21,BR1,1,3,2,Cruzeiro,5.0,3.5,1.73,1.9,2014,1.9
+153,Fluminense,Brazil,2014-09-21,BR1,1,1,1,Flamengo RJ,2.8,3.25,2.5,2.25,2014,1.62
+154,Palmeiras,Brazil,2014-09-21,BR1,1,0,6,Goias,3.6,3.25,2.1,2.3,2014,1.6
+155,Chapecoense-SC,Brazil,2014-09-21,BR1,1,0,1,Gremio,6.0,3.6,1.62,2.6,2014,1.48
+156,Figueirense,Brazil,2014-09-21,BR1,1,1,3,Santos,6.5,3.6,1.57,1.95,2014,1.85
+157,Coritiba,Brazil,2014-09-21,BR1,1,0,1,Sport Recife,3.4,3.1,2.25,2.5,2014,1.5
+158,Bahia,Brazil,2014-09-21,BR1,1,1,2,Vitoria,2.63,3.1,2.75,2.4,2014,1.53
+159,Internacional,Brazil,2014-09-20,BR1,1,1,0,Atletico-PR,2.7,3.1,2.7,2.25,2014,1.62
+160,Chapecoense-SC,Brazil,2014-09-19,BR1,1,1,1,Corinthians,6.5,3.6,1.57,2.35,2014,1.57
+161,Atletico-MG,Brazil,2014-09-19,BR1,1,3,2,Goias,3.0,3.2,2.4,2.5,2014,1.5
+162,Santos,Brazil,2014-09-19,BR1,1,0,0,Gremio,4.5,3.1,1.91,2.35,2014,1.57
+163,Bahia,Brazil,2014-09-18,BR1,1,3,2,Botafogo RJ,5.5,3.3,1.73,2.35,2014,1.57
+164,Sao Paulo,Brazil,2014-09-18,BR1,1,1,3,Coritiba,3.2,3.25,2.25,2.15,2014,1.67
+165,Atletico-PR,Brazil,2014-09-18,BR1,1,0,2,Cruzeiro,10.0,4.75,1.33,1.62,2014,2.25
+166,Criciuma,Brazil,2014-09-18,BR1,1,1,1,Figueirense,3.6,3.2,2.1,2.5,2014,1.5
+167,Flamengo RJ,Brazil,2014-09-18,BR1,1,2,2,Palmeiras,3.0,3.0,2.5,2.35,2014,1.57
+168,Internacional,Brazil,2014-09-18,BR1,1,0,0,Sport Recife,2.5,3.1,2.9,2.35,2014,1.57
+169,Fluminense,Brazil,2014-09-18,BR1,1,1,3,Vitoria,2.38,3.2,3.0,1.9,2014,1.9
+170,Gremio,Brazil,2014-09-14,BR1,1,0,0,Atletico-MG,3.8,3.2,2.05,2.6,2014,1.48
+171,Vitoria,Brazil,2014-09-14,BR1,1,0,2,Atletico-PR,4.75,3.6,1.75,2.05,2014,1.75
+172,Figueirense,Brazil,2014-09-14,BR1,1,0,3,Bahia,4.0,3.1,2.05,2.7,2014,1.44
+173,Goias,Brazil,2014-09-14,BR1,1,0,1,Criciuma,3.2,3.0,2.4,2.6,2014,1.48
+174,Corinthians,Brazil,2014-09-14,BR1,1,0,1,Flamengo RJ,2.6,3.0,2.9,3.1,2014,1.36
+175,Botafogo RJ,Brazil,2014-09-14,BR1,1,0,2,Internacional,7.0,3.75,1.53,2.05,2014,1.75
+176,Coritiba,Brazil,2014-09-14,BR1,1,1,2,Santos,4.0,3.5,1.91,2.25,2014,1.62
+177,Cruzeiro,Brazil,2014-09-14,BR1,1,0,2,Sao Paulo,3.4,3.3,2.15,2.05,2014,1.75
+178,Sport Recife,Brazil,2014-09-13,BR1,1,1,3,Chapecoense-SC,4.0,3.3,1.95,2.7,2014,1.44
+179,Palmeiras,Brazil,2014-09-13,BR1,1,0,3,Fluminense,5.75,4.0,1.57,1.95,2014,1.85
+180,Atletico-MG,Brazil,2014-09-12,BR1,1,0,1,Corinthians,4.0,3.1,2.05,2.7,2014,1.44
+181,Bahia,Brazil,2014-09-12,BR1,1,1,2,Cruzeiro,9.0,5.0,1.33,1.8,2014,2.0
+182,Sao Paulo,Brazil,2014-09-11,BR1,1,4,2,Botafogo RJ,1.62,3.8,5.5,2.05,2014,1.75
+183,Chapecoense-SC,Brazil,2014-09-11,BR1,1,0,3,Coritiba,5.25,3.4,1.73,3.1,2014,1.36
+184,Fluminense,Brazil,2014-09-11,BR1,1,1,1,Figueirense,2.38,3.3,2.9,2.0,2014,1.8
+185,Flamengo RJ,Brazil,2014-09-11,BR1,1,0,1,Goias,2.4,3.1,3.1,2.7,2014,1.44
+186,Atletico-PR,Brazil,2014-09-11,BR1,1,0,1,Gremio,7.5,4.2,1.44,2.1,2014,1.7
+187,Criciuma,Brazil,2014-09-11,BR1,1,0,1,Palmeiras,4.5,3.4,1.83,2.3,2014,1.6
+188,Santos,Brazil,2014-09-11,BR1,1,1,3,Sport Recife,2.8,3.1,2.6,2.25,2014,1.62
+189,Internacional,Brazil,2014-09-11,BR1,1,0,2,Vitoria,2.38,3.2,3.0,2.35,2014,1.57
+190,Botafogo RJ,Brazil,2014-09-07,BR1,1,0,1,Atletico-MG,6.0,3.75,1.57,1.95,2014,1.85
+191,Palmeiras,Brazil,2014-09-07,BR1,1,1,1,Atletico-PR,3.5,3.3,2.1,2.1,2014,1.7
+192,Coritiba,Brazil,2014-09-07,BR1,1,0,0,Bahia,3.1,2.9,2.5,3.1,2014,1.36
+193,Goias,Brazil,2014-09-07,BR1,1,0,0,Chapecoense-SC,3.6,3.1,2.15,2.7,2014,1.44
+194,Corinthians,Brazil,2014-09-07,BR1,1,0,0,Criciuma,2.2,3.1,3.5,2.7,2014,1.44
+195,Cruzeiro,Brazil,2014-09-07,BR1,1,3,3,Fluminense,2.75,3.3,2.5,1.95,2014,1.85
+196,Figueirense,Brazil,2014-09-07,BR1,1,3,2,Internacional,8.5,4.33,1.4,2.08,2014,1.73
+197,Sport Recife,Brazil,2014-09-07,BR1,1,0,2,Sao Paulo,8.0,4.5,1.4,1.95,2014,1.85
+198,Gremio,Brazil,2014-09-06,BR1,1,1,0,Flamengo RJ,3.1,3.1,2.4,2.7,2014,1.44
+199,Vitoria,Brazil,2014-09-06,BR1,1,1,3,Santos,7.5,3.75,1.5,1.95,2014,1.85
+200,Santos,Brazil,2014-08-31,BR1,1,0,1,Botafogo RJ,2.88,3.0,2.6,2.3,2014,1.6
+201,Fluminense,Brazil,2014-08-31,BR1,1,1,1,Corinthians,5.0,3.5,1.73,2.15,2014,1.67
+202,Atletico-MG,Brazil,2014-08-31,BR1,1,0,0,Coritiba,3.1,3.1,2.38,2.05,2014,1.75
+203,Sao Paulo,Brazil,2014-08-31,BR1,1,1,1,Figueirense,2.4,3.3,2.88,2.3,2014,1.6
+204,Atletico-PR,Brazil,2014-08-31,BR1,1,1,3,Goias,3.5,3.2,2.15,2.25,2014,1.62
+205,Bahia,Brazil,2014-08-31,BR1,1,0,1,Gremio,6.5,3.4,1.62,2.5,2014,1.5
+206,Criciuma,Brazil,2014-08-31,BR1,1,0,2,Sport Recife,4.75,3.3,1.8,2.25,2014,1.62
+207,Flamengo RJ,Brazil,2014-08-31,BR1,1,2,1,Vitoria,3.2,3.2,2.3,2.25,2014,1.62
+208,Chapecoense-SC,Brazil,2014-08-30,BR1,1,2,4,Cruzeiro,10.0,5.0,1.3,1.95,2014,1.85
+209,Internacional,Brazil,2014-08-30,BR1,1,1,0,Palmeiras,2.6,3.1,2.8,2.7,2014,1.44
+210,Bahia,Brazil,2014-08-24,BR1,1,0,0,Atletico-PR,4.33,3.4,1.85,2.35,2014,1.57
+211,Flamengo RJ,Brazil,2014-08-24,BR1,1,2,0,Criciuma,3.6,3.0,2.2,2.5,2014,1.5
+212,Sport Recife,Brazil,2014-08-24,BR1,1,0,4,Fluminense,6.0,4.0,1.53,1.95,2014,1.85
+213,Cruzeiro,Brazil,2014-08-24,BR1,1,1,0,Goias,2.05,3.3,3.6,2.25,2014,1.62
+214,Corinthians,Brazil,2014-08-24,BR1,1,1,2,Gremio,3.5,3.1,2.2,2.88,2014,1.4
+215,Coritiba,Brazil,2014-08-24,BR1,1,0,1,Palmeiras,4.0,3.2,2.0,2.2,2014,1.65
+216,Santos,Brazil,2014-08-24,BR1,1,1,2,Sao Paulo,4.5,3.5,1.8,2.1,2014,1.7
+217,Figueirense,Brazil,2014-08-24,BR1,1,1,0,Vitoria,4.33,3.4,1.85,2.05,2014,1.75
+218,Internacional,Brazil,2014-08-23,BR1,1,0,1,Atletico-MG,3.6,3.3,2.05,2.15,2014,1.67
+219,Chapecoense-SC,Brazil,2014-08-23,BR1,1,0,1,Botafogo RJ,4.5,3.4,1.83,2.5,2014,1.5
+220,Goias,Brazil,2014-08-22,BR1,1,2,5,Corinthians,7.5,3.6,1.53,2.5,2014,1.5
+221,Gremio,Brazil,2014-08-22,BR1,1,0,1,Cruzeiro,5.5,3.6,1.67,2.1,2014,1.7
+222,Criciuma,Brazil,2014-08-21,BR1,1,0,0,Bahia,4.5,3.3,1.85,2.6,2014,1.48
+223,Fluminense,Brazil,2014-08-21,BR1,1,0,1,Chapecoense-SC,2.5,3.1,2.9,2.4,2014,1.53
+224,Vitoria,Brazil,2014-08-21,BR1,1,0,2,Coritiba,4.75,3.5,1.75,2.2,2014,1.65
+225,Botafogo RJ,Brazil,2014-08-21,BR1,1,0,1,Figueirense,3.1,3.3,2.3,2.2,2014,1.65
+226,Atletico-MG,Brazil,2014-08-21,BR1,1,1,2,Flamengo RJ,2.6,3.3,2.63,2.1,2014,1.7
+227,Sao Paulo,Brazil,2014-08-21,BR1,1,1,0,Internacional,4.0,3.4,1.91,2.1,2014,1.7
+228,Atletico-PR,Brazil,2014-08-21,BR1,1,0,2,Santos,5.25,3.6,1.67,1.95,2014,1.85
+229,Palmeiras,Brazil,2014-08-21,BR1,1,1,2,Sport Recife,3.2,3.25,2.25,2.25,2014,1.62
+230,Fluminense,Brazil,2014-08-17,BR1,1,0,2,Botafogo RJ,2.0,3.3,3.8,2.1,2014,1.7
+231,Bahia,Brazil,2014-08-17,BR1,1,1,1,Corinthians,9.5,3.75,1.44,2.4,2014,1.53
+232,Flamengo RJ,Brazil,2014-08-17,BR1,1,1,0,Coritiba,4.6,3.25,1.85,2.35,2014,1.57
+233,Santos,Brazil,2014-08-17,BR1,1,0,3,Cruzeiro,7.5,3.8,1.5,1.85,2014,1.95
+234,Atletico-MG,Brazil,2014-08-17,BR1,1,2,2,Figueirense,2.25,3.25,3.25,2.05,2014,1.75
+235,Criciuma,Brazil,2014-08-17,BR1,1,0,2,Gremio,6.5,3.75,1.55,2.15,2014,1.67
+236,Sao Paulo,Brazil,2014-08-17,BR1,1,2,1,Palmeiras,2.7,3.2,2.63,2.15,2014,1.67
+237,Atletico-PR,Brazil,2014-08-17,BR1,1,1,1,Sport Recife,3.25,3.1,2.3,2.15,2014,1.67
+238,Chapecoense-SC,Brazil,2014-08-17,BR1,1,0,0,Vitoria,5.0,3.4,1.75,2.4,2014,1.53
+239,Internacional,Brazil,2014-08-16,BR1,1,1,0,Goias,2.8,3.1,2.6,2.4,2014,1.53
+240,Palmeiras,Brazil,2014-08-10,BR1,1,1,2,Atletico-MG,5.5,3.75,1.62,1.95,2014,1.85
+241,Botafogo RJ,Brazil,2014-08-10,BR1,1,0,2,Atletico-PR,3.2,3.4,2.2,2.0,2014,1.8
+242,Figueirense,Brazil,2014-08-10,BR1,1,1,0,Chapecoense-SC,4.0,3.2,2.0,2.5,2014,1.5
+243,Sport Recife,Brazil,2014-08-10,BR1,1,0,1,Flamengo RJ,5.0,3.5,1.73,2.08,2014,1.73
+244,Coritiba,Brazil,2014-08-10,BR1,1,1,1,Fluminense,4.75,3.6,1.73,1.95,2014,1.85
+245,Gremio,Brazil,2014-08-10,BR1,1,0,2,Internacional,4.0,3.2,2.0,2.6,2014,1.48
+246,Corinthians,Brazil,2014-08-10,BR1,1,1,0,Santos,3.0,3.0,2.5,2.88,2014,1.4
+247,Vitoria,Brazil,2014-08-10,BR1,1,1,3,Sao Paulo,7.0,4.0,1.5,1.85,2014,1.95
+248,Goias,Brazil,2014-08-09,BR1,1,0,1,Bahia,3.5,3.1,2.2,2.7,2014,1.44
+249,Cruzeiro,Brazil,2014-08-09,BR1,1,0,0,Criciuma,1.8,3.7,4.2,1.95,2014,1.85
+250,Atletico-MG,Brazil,2014-08-07,BR1,1,1,1,Chapecoense-SC,2.5,3.1,2.9,2.4,2014,1.53
+251,Atletico-PR,Brazil,2014-08-03,BR1,1,1,3,Atletico-MG,7.0,4.0,1.5,1.7,2014,2.1
+252,Flamengo RJ,Brazil,2014-08-03,BR1,1,0,1,Chapecoense-SC,4.0,3.0,2.1,2.6,2014,1.48
+253,Corinthians,Brazil,2014-08-03,BR1,1,0,0,Coritiba,2.75,2.88,2.8,2.7,2014,1.44
+254,Sport Recife,Brazil,2014-08-03,BR1,1,0,3,Figueirense,3.6,3.0,2.2,2.3,2014,1.6
+255,Goias,Brazil,2014-08-03,BR1,1,0,2,Fluminense,6.0,3.6,1.62,2.1,2014,1.7
+256,Santos,Brazil,2014-08-03,BR1,1,0,1,Internacional,4.75,3.5,1.75,2.08,2014,1.73
+257,Bahia,Brazil,2014-08-03,BR1,1,1,1,Palmeiras,4.75,3.25,1.83,2.35,2014,1.57
+258,Gremio,Brazil,2014-08-03,BR1,1,1,2,Vitoria,2.8,3.1,2.6,2.5,2014,1.5
+259,Cruzeiro,Brazil,2014-08-02,BR1,1,1,1,Botafogo RJ,2.38,3.3,2.9,1.85,2014,1.95
+260,Criciuma,Brazil,2014-08-02,BR1,1,1,1,Sao Paulo,9.0,5.0,1.33,1.85,2014,1.95
+261,Fluminense,Brazil,2014-07-27,BR1,1,3,0,Atletico-PR,2.7,3.2,2.63,2.05,2014,1.75
+262,Internacional,Brazil,2014-07-27,BR1,1,1,0,Bahia,2.1,3.3,3.5,2.3,2014,1.6
+263,Palmeiras,Brazil,2014-07-27,BR1,1,0,2,Corinthians,5.0,3.4,1.75,2.5,2014,1.5
+264,Botafogo RJ,Brazil,2014-07-27,BR1,1,0,1,Flamengo RJ,2.6,3.1,2.8,2.1,2014,1.7
+265,Sao Paulo,Brazil,2014-07-27,BR1,1,1,2,Goias,2.63,3.2,2.7,2.4,2014,1.53
+266,Coritiba,Brazil,2014-07-27,BR1,1,3,2,Gremio,5.25,3.6,1.67,2.5,2014,1.5
+267,Atletico-MG,Brazil,2014-07-27,BR1,1,1,2,Sport Recife,2.3,3.25,3.1,2.25,2014,1.62
+268,Vitoria,Brazil,2014-07-26,BR1,1,3,1,Criciuma,3.5,3.3,2.1,2.35,2014,1.57
+269,Figueirense,Brazil,2014-07-26,BR1,1,0,5,Cruzeiro,15.0,6.0,1.2,1.62,2014,2.25
+270,Chapecoense-SC,Brazil,2014-07-26,BR1,1,0,3,Santos,6.5,3.6,1.57,2.3,2014,1.6
+271,Criciuma,Brazil,2014-07-20,BR1,1,0,2,Atletico-PR,4.5,3.75,1.75,1.9,2014,1.9
+272,Coritiba,Brazil,2014-07-20,BR1,1,0,1,Botafogo RJ,3.5,3.3,2.1,2.25,2014,1.62
+273,Santos,Brazil,2014-07-20,BR1,1,0,1,Fluminense,3.75,3.4,2.0,2.2,2014,1.65
+274,Sport Recife,Brazil,2014-07-20,BR1,1,0,0,Goias,4.75,3.6,1.75,2.3,2014,1.6
+275,Flamengo RJ,Brazil,2014-07-20,BR1,1,0,4,Internacional,6.0,3.6,1.62,2.05,2014,1.75
+276,Cruzeiro,Brazil,2014-07-20,BR1,1,2,1,Palmeiras,2.2,3.3,3.25,2.2,2014,1.65
+277,Corinthians,Brazil,2014-07-20,BR1,1,0,0,Vitoria,2.5,3.0,3.0,2.6,2014,1.48
+278,Bahia,Brazil,2014-07-19,BR1,1,1,1,Atletico-MG,5.25,3.6,1.67,2.15,2014,1.67
+279,Gremio,Brazil,2014-07-19,BR1,1,1,0,Figueirense,2.1,3.25,3.5,2.5,2014,1.5
+280,Chapecoense-SC,Brazil,2014-07-19,BR1,1,1,0,Sao Paulo,10.0,4.75,1.33,2.08,2014,1.73
+281,Internacional,Brazil,2014-07-18,BR1,1,1,2,Corinthians,4.2,3.2,1.95,2.6,2014,1.48
+282,Vitoria,Brazil,2014-07-18,BR1,1,1,3,Cruzeiro,9.0,5.0,1.33,1.73,2014,2.08
+283,Palmeiras,Brazil,2014-07-18,BR1,1,0,2,Santos,4.2,3.2,1.95,2.25,2014,1.62
+284,Sao Paulo,Brazil,2014-07-17,BR1,1,2,0,Bahia,2.25,3.1,3.4,2.4,2014,1.53
+285,Figueirense,Brazil,2014-07-17,BR1,1,2,0,Coritiba,7.5,3.75,1.5,2.15,2014,1.67
+286,Fluminense,Brazil,2014-07-17,BR1,1,2,3,Criciuma,2.15,3.2,3.5,2.35,2014,1.57
+287,Atletico-PR,Brazil,2014-07-17,BR1,1,2,1,Flamengo RJ,3.4,3.4,2.1,1.95,2014,1.85
+288,Goias,Brazil,2014-07-17,BR1,1,0,0,Gremio,7.0,3.5,1.57,2.4,2014,1.53
+289,Botafogo RJ,Brazil,2014-07-17,BR1,1,0,1,Sport Recife,3.4,3.2,2.2,2.05,2014,1.75
+290,Bahia,Brazil,2014-06-05,BR1,1,0,1,Sport Recife,3.2,3.0,2.4,2.5,2014,1.5
+291,Botafogo RJ,Brazil,2014-06-01,BR1,1,1,1,Corinthians,5.25,3.5,1.7,2.2,2014,1.65
+292,Bahia,Brazil,2014-06-01,BR1,1,1,2,Chapecoense-SC,4.0,3.1,2.0,2.7,2014,1.44
+293,Flamengo RJ,Brazil,2014-06-01,BR1,1,0,3,Cruzeiro,5.0,3.4,1.75,2.05,2014,1.75
+294,Atletico-PR,Brazil,2014-06-01,BR1,1,3,1,Figueirense,2.3,3.1,3.0,2.08,2014,1.73
+295,Internacional,Brazil,2014-06-01,BR1,1,1,1,Fluminense,3.75,3.1,2.1,2.25,2014,1.62
+296,Palmeiras,Brazil,2014-06-01,BR1,1,0,0,Gremio,4.75,3.3,1.8,2.4,2014,1.53
+297,Criciuma,Brazil,2014-06-01,BR1,1,0,2,Santos,3.6,3.3,2.05,2.2,2014,1.65
+298,Sport Recife,Brazil,2014-06-01,BR1,1,1,0,Vitoria,5.25,3.6,1.67,1.95,2014,1.85
+299,Goias,Brazil,2014-05-31,BR1,1,0,3,Coritiba,3.4,3.3,2.15,2.15,2014,1.67
+300,Atletico-MG,Brazil,2014-05-31,BR1,1,1,2,Sao Paulo,4.33,3.75,1.75,2.05,2014,1.75
+301,Santos,Brazil,2014-05-30,BR1,1,2,0,Bahia,3.4,3.1,2.25,2.7,2014,1.44
+302,Figueirense,Brazil,2014-05-30,BR1,1,1,1,Flamengo RJ,4.5,3.5,1.8,2.35,2014,1.57
+303,Fluminense,Brazil,2014-05-29,BR1,1,0,2,Atletico-MG,2.5,3.2,2.88,2.2,2014,1.65
+304,Sao Paulo,Brazil,2014-05-29,BR1,1,2,2,Atletico-PR,2.5,3.2,2.8,2.0,2014,1.8
+305,Cruzeiro,Brazil,2014-05-29,BR1,1,0,1,Corinthians,3.1,3.1,2.38,2.4,2014,1.53
+306,Coritiba,Brazil,2014-05-29,BR1,1,0,1,Criciuma,3.2,3.2,2.3,2.4,2014,1.53
+307,Vitoria,Brazil,2014-05-29,BR1,1,0,0,Goias,4.0,3.4,1.91,2.08,2014,1.73
+308,Chapecoense-SC,Brazil,2014-05-29,BR1,1,0,2,Internacional,6.0,3.6,1.62,2.25,2014,1.62
+309,Botafogo RJ,Brazil,2014-05-29,BR1,1,2,0,Palmeiras,3.1,3.1,2.38,2.15,2014,1.67
+310,Gremio,Brazil,2014-05-29,BR1,1,0,0,Sport Recife,2.05,3.2,3.8,2.4,2014,1.53
+311,Criciuma,Brazil,2014-05-25,BR1,1,0,0,Atletico-MG,5.5,3.75,1.62,2.1,2014,1.7
+312,Coritiba,Brazil,2014-05-25,BR1,1,0,2,Atletico-PR,2.45,3.3,2.8,2.25,2014,1.62
+313,Vitoria,Brazil,2014-05-25,BR1,1,1,1,Botafogo RJ,4.0,3.75,1.83,1.8,2014,2.0
+314,Palmeiras,Brazil,2014-05-25,BR1,1,0,2,Chapecoense-SC,3.1,3.1,2.4,2.5,2014,1.5
+315,Goias,Brazil,2014-05-25,BR1,1,1,0,Figueirense,2.8,3.1,2.6,2.5,2014,1.5
+316,Cruzeiro,Brazil,2014-05-25,BR1,1,3,1,Internacional,3.0,3.2,2.4,2.08,2014,1.73
+317,Flamengo RJ,Brazil,2014-05-25,BR1,1,0,0,Santos,3.5,3.25,2.1,2.3,2014,1.6
+318,Gremio,Brazil,2014-05-25,BR1,1,0,1,Sao Paulo,3.8,3.3,2.0,2.15,2014,1.67
+319,Corinthians,Brazil,2014-05-25,BR1,1,4,1,Sport Recife,2.6,3.0,2.9,2.88,2014,1.4
+320,Fluminense,Brazil,2014-05-24,BR1,1,1,0,Bahia,1.8,3.5,4.5,2.3,2014,1.6
+321,Santos,Brazil,2014-05-23,BR1,1,2,2,Goias,4.2,3.2,1.95,2.2,2014,1.65
+322,Figueirense,Brazil,2014-05-23,BR1,1,0,1,Palmeiras,6.5,3.8,1.53,1.95,2014,1.85
+323,Atletico-MG,Brazil,2014-05-23,BR1,1,3,2,Vitoria,3.0,3.2,2.38,2.05,2014,1.75
+324,Atletico-PR,Brazil,2014-05-22,BR1,1,1,1,Corinthians,6.5,3.6,1.57,2.25,2014,1.62
+325,Internacional,Brazil,2014-05-22,BR1,1,1,1,Coritiba,3.4,3.1,2.25,2.35,2014,1.57
+326,Chapecoense-SC,Brazil,2014-05-22,BR1,1,0,1,Criciuma,3.6,3.2,2.1,2.35,2014,1.57
+327,Sport Recife,Brazil,2014-05-22,BR1,1,0,2,Cruzeiro,11.0,5.25,1.29,1.62,2014,2.25
+328,Bahia,Brazil,2014-05-22,BR1,1,1,1,Flamengo RJ,4.75,3.3,1.8,2.25,2014,1.62
+329,Sao Paulo,Brazil,2014-05-22,BR1,1,2,5,Fluminense,3.3,3.1,2.3,2.2,2014,1.65
+330,Botafogo RJ,Brazil,2014-05-22,BR1,1,1,2,Gremio,4.5,3.3,1.85,2.15,2014,1.67
+331,Chapecoense-SC,Brazil,2014-05-18,BR1,1,1,1,Atletico-PR,4.75,3.6,1.75,2.1,2014,1.7
+332,Figueirense,Brazil,2014-05-18,BR1,1,1,0,Corinthians,11.0,5.0,1.29,2.1,2014,1.7
+333,Internacional,Brazil,2014-05-18,BR1,1,0,0,Criciuma,2.2,3.3,3.25,2.05,2014,1.75
+334,Sao Paulo,Brazil,2014-05-18,BR1,1,2,0,Flamengo RJ,3.25,3.2,2.25,2.15,2014,1.67
+335,Fluminense,Brazil,2014-05-18,BR1,1,0,1,Gremio,4.0,3.1,2.05,2.35,2014,1.57
+336,Atletico-MG,Brazil,2014-05-18,BR1,1,2,1,Santos,2.9,3.1,2.5,2.1,2014,1.7
+337,Palmeiras,Brazil,2014-05-18,BR1,1,1,0,Vitoria,3.4,3.2,2.2,2.08,2014,1.73
+338,Coritiba,Brazil,2014-05-17,BR1,1,2,3,Cruzeiro,7.5,4.2,1.44,1.8,2014,2.0
+339,Botafogo RJ,Brazil,2014-05-15,BR1,1,0,2,Goias,2.05,3.2,3.75,2.35,2014,1.57
+340,Cruzeiro,Brazil,2014-05-11,BR1,1,1,2,Atletico-MG,3.4,3.4,2.1,2.15,2014,1.67
+341,Vitoria,Brazil,2014-05-11,BR1,1,1,1,Bahia,3.0,3.2,2.4,2.15,2014,1.67
+342,Criciuma,Brazil,2014-05-11,BR1,1,0,6,Botafogo RJ,6.0,3.8,1.57,2.05,2014,1.75
+343,Gremio,Brazil,2014-05-11,BR1,1,2,1,Chapecoense-SC,2.1,3.25,3.6,2.7,2014,1.44
+344,Sport Recife,Brazil,2014-05-11,BR1,1,1,0,Coritiba,5.75,4.0,1.57,1.95,2014,1.85
+345,Santos,Brazil,2014-05-11,BR1,1,2,0,Figueirense,1.62,3.75,5.5,1.95,2014,1.85
+346,Flamengo RJ,Brazil,2014-05-11,BR1,1,0,2,Fluminense,3.6,3.3,2.05,2.15,2014,1.67
+347,Corinthians,Brazil,2014-05-11,BR1,1,1,1,Sao Paulo,2.7,3.25,2.6,2.7,2014,1.44
+348,Atletico-PR,Brazil,2014-05-10,BR1,1,1,2,Internacional,6.5,3.8,1.53,1.85,2014,1.95
+349,Goias,Brazil,2014-05-10,BR1,1,0,2,Palmeiras,4.0,3.3,1.95,2.2,2014,1.65
+350,Goias,Brazil,2014-05-04,BR1,1,1,0,Atletico-MG,4.0,3.4,1.91,2.1,2014,1.7
+351,Botafogo RJ,Brazil,2014-05-04,BR1,1,0,1,Bahia,3.3,3.25,2.2,2.1,2014,1.7
+352,Corinthians,Brazil,2014-05-04,BR1,1,1,0,Chapecoense-SC,2.25,3.0,3.5,2.7,2014,1.44
+353,Figueirense,Brazil,2014-05-04,BR1,1,0,1,Criciuma,4.33,3.4,1.85,2.05,2014,1.75
+354,Palmeiras,Brazil,2014-05-04,BR1,1,2,4,Flamengo RJ,3.4,3.2,2.2,2.15,2014,1.67
+355,Vitoria,Brazil,2014-05-04,BR1,1,2,1,Fluminense,8.0,4.5,1.4,1.73,2014,2.08
+356,Sport Recife,Brazil,2014-05-04,BR1,1,1,2,Internacional,9.5,4.75,1.33,1.73,2014,2.08
+357,Cruzeiro,Brazil,2014-05-03,BR1,1,3,2,Atletico-PR,2.5,3.2,2.88,2.0,2014,1.8
+358,Gremio,Brazil,2014-05-03,BR1,1,0,0,Santos,3.6,3.25,2.1,2.3,2014,1.6
+359,Coritiba,Brazil,2014-05-03,BR1,1,2,2,Sao Paulo,5.5,3.5,1.67,2.15,2014,1.67
+360,Internacional,Brazil,2014-04-27,BR1,1,2,2,Botafogo RJ,2.8,3.25,2.5,2.08,2014,1.73
+361,Flamengo RJ,Brazil,2014-04-27,BR1,1,0,2,Corinthians,4.33,3.4,1.85,2.6,2014,1.48
+362,Sao Paulo,Brazil,2014-04-27,BR1,1,1,1,Cruzeiro,3.5,3.3,2.1,2.05,2014,1.75
+363,Bahia,Brazil,2014-04-27,BR1,1,2,0,Figueirense,2.4,3.2,3.0,2.08,2014,1.73
+364,Criciuma,Brazil,2014-04-27,BR1,1,0,1,Goias,4.75,3.5,1.75,2.3,2014,1.6
+365,Atletico-MG,Brazil,2014-04-27,BR1,1,1,2,Gremio,2.9,3.1,2.5,2.5,2014,1.5
+366,Fluminense,Brazil,2014-04-27,BR1,1,1,0,Palmeiras,3.0,3.2,2.4,2.15,2014,1.67
+367,Chapecoense-SC,Brazil,2014-04-27,BR1,1,1,2,Sport Recife,4.5,3.5,1.8,2.1,2014,1.7
+368,Atletico-PR,Brazil,2014-04-27,BR1,1,2,2,Vitoria,3.5,3.3,2.1,2.0,2014,1.8
+369,Santos,Brazil,2014-04-26,BR1,1,0,0,Coritiba,3.0,3.2,2.4,2.3,2014,1.6
+370,Corinthians,Brazil,2014-04-20,BR1,1,0,0,Atletico-MG,3.1,3.1,2.38,2.4,2014,1.53
+371,Gremio,Brazil,2014-04-20,BR1,1,0,1,Atletico-PR,2.25,3.4,3.1,2.25,2014,1.62
+372,Cruzeiro,Brazil,2014-04-20,BR1,1,2,1,Bahia,3.0,3.0,2.5,2.08,2014,1.73
+373,Coritiba,Brazil,2014-04-20,BR1,1,0,0,Chapecoense-SC,3.2,3.2,2.3,2.35,2014,1.57
+374,Palmeiras,Brazil,2014-04-20,BR1,1,2,1,Criciuma,2.4,3.2,3.0,2.15,2014,1.67
+375,Goias,Brazil,2014-04-20,BR1,1,0,0,Flamengo RJ,3.3,3.2,2.25,2.05,2014,1.75
+376,Sport Recife,Brazil,2014-04-20,BR1,1,1,1,Santos,8.0,4.5,1.4,1.73,2014,2.08
+377,Botafogo RJ,Brazil,2014-04-20,BR1,1,0,3,Sao Paulo,4.5,3.75,1.73,2.1,2014,1.7
+378,Figueirense,Brazil,2014-04-19,BR1,1,0,3,Fluminense,7.0,3.9,1.5,1.85,2014,1.95
+379,Vitoria,Brazil,2014-04-19,BR1,1,0,1,Internacional,7.5,4.2,1.44,1.8,2014,2.0

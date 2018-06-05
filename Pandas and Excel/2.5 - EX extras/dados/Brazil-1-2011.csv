@@ -1,0 +1,381 @@
+,AwayTeam,Country,Date,Div,Division,FTAG,FTHG,HomeTeam,ODDA,ODDD,ODDH,over,season,under
+0,America MG,Brazil,2011-12-04,BR1,1,1,5,Atletico GO,5.75,3.75,1.6,1.67,2011,2.15
+1,Coritiba,Brazil,2011-12-04,BR1,1,0,1,Atletico-PR,2.4,3.25,2.9,1.95,2011,1.85
+2,Figueirense,Brazil,2011-12-04,BR1,1,1,1,Avai,1.7,3.6,5.0,1.75,2011,2.04
+3,Ceara,Brazil,2011-12-04,BR1,1,1,2,Bahia,2.8,3.4,2.4,1.75,2011,2.04
+4,Fluminense,Brazil,2011-12-04,BR1,1,1,1,Botafogo RJ,1.95,3.5,3.75,1.75,2011,2.04
+5,Palmeiras,Brazil,2011-12-04,BR1,1,0,0,Corinthians,5.25,3.6,1.67,1.85,2011,1.95
+6,Atletico-MG,Brazil,2011-12-04,BR1,1,1,6,Cruzeiro,3.75,3.4,2.0,1.75,2011,2.04
+7,Gremio,Brazil,2011-12-04,BR1,1,0,1,Internacional,5.5,3.6,1.65,1.57,2011,2.35
+8,Santos,Brazil,2011-12-04,BR1,1,1,4,Sao Paulo,5.5,3.6,1.67,1.7,2011,2.1
+9,Flamengo RJ,Brazil,2011-12-04,BR1,1,1,1,Vasco,3.1,3.25,2.29,1.85,2011,1.95
+10,Atletico-PR,Brazil,2011-11-27,BR1,1,1,2,America MG,2.29,3.4,3.0,1.73,2011,2.08
+11,Botafogo RJ,Brazil,2011-11-27,BR1,1,0,4,Atletico-MG,4.75,3.5,1.75,1.85,2011,1.95
+12,Cruzeiro,Brazil,2011-11-27,BR1,1,2,2,Ceara,3.2,3.4,2.2,1.85,2011,1.95
+13,Avai,Brazil,2011-11-27,BR1,1,0,1,Coritiba,10.0,5.0,1.3,1.53,2011,2.4
+14,Corinthians,Brazil,2011-11-27,BR1,1,1,0,Figueirense,3.0,3.25,2.38,2.0,2011,1.8
+15,Internacional,Brazil,2011-11-27,BR1,1,0,1,Flamengo RJ,2.8,3.25,2.5,1.95,2011,1.85
+16,Vasco,Brazil,2011-11-27,BR1,1,2,1,Fluminense,3.1,3.4,2.25,1.8,2011,2.0
+17,Atletico GO,Brazil,2011-11-27,BR1,1,2,2,Gremio,4.5,3.6,1.73,1.67,2011,2.15
+18,Sao Paulo,Brazil,2011-11-27,BR1,1,0,1,Palmeiras,2.63,3.25,2.63,2.08,2011,1.73
+19,Bahia,Brazil,2011-11-27,BR1,1,1,1,Santos,6.0,3.6,1.62,1.75,2011,2.04
+20,Flamengo RJ,Brazil,2011-11-20,BR1,1,0,0,Atletico GO,2.6,3.2,2.75,2.0,2011,1.8
+21,Palmeiras,Brazil,2011-11-20,BR1,1,2,0,Bahia,3.0,3.0,2.5,2.25,2011,1.62
+22,Internacional,Brazil,2011-11-20,BR1,1,2,1,Botafogo RJ,2.7,3.25,2.6,1.95,2011,1.85
+23,Atletico-MG,Brazil,2011-11-20,BR1,1,1,2,Corinthians,6.0,4.0,1.53,1.95,2011,1.85
+24,Santos,Brazil,2011-11-20,BR1,1,0,1,Coritiba,6.0,4.0,1.53,1.6,2011,2.29
+25,Atletico-PR,Brazil,2011-11-20,BR1,1,1,1,Cruzeiro,4.5,3.5,1.8,1.8,2011,2.0
+26,Fluminense,Brazil,2011-11-20,BR1,1,4,0,Figueirense,3.0,3.2,2.4,1.95,2011,1.85
+27,Ceara,Brazil,2011-11-19,BR1,1,3,1,Gremio,4.5,3.75,1.75,1.65,2011,2.2
+28,America MG,Brazil,2011-11-19,BR1,1,1,3,Sao Paulo,5.5,3.75,1.62,1.6,2011,2.29
+29,Avai,Brazil,2011-11-19,BR1,1,0,2,Vasco,10.0,5.25,1.29,1.53,2011,2.4
+30,Coritiba,Brazil,2011-11-17,BR1,1,1,2,Atletico-MG,3.8,3.6,1.91,1.65,2011,2.2
+31,Cruzeiro,Brazil,2011-11-17,BR1,1,0,0,Avai,2.63,3.3,2.6,1.73,2011,2.08
+32,Corinthians,Brazil,2011-11-17,BR1,1,1,0,Ceara,2.5,3.3,2.75,2.0,2011,1.8
+33,Figueirense,Brazil,2011-11-17,BR1,1,0,0,Flamengo RJ,3.75,3.6,1.91,1.65,2011,2.2
+34,Vasco,Brazil,2011-11-17,BR1,1,1,1,Palmeiras,2.4,3.2,3.0,2.0,2011,1.8
+35,Atletico GO,Brazil,2011-11-17,BR1,1,1,1,Santos,6.5,4.2,1.5,1.53,2011,2.4
+36,Botafogo RJ,Brazil,2011-11-16,BR1,1,1,2,America MG,2.7,3.2,2.6,1.73,2011,2.08
+37,Sao Paulo,Brazil,2011-11-16,BR1,1,0,1,Atletico-PR,3.25,3.2,2.25,1.85,2011,1.95
+38,Gremio,Brazil,2011-11-16,BR1,1,4,5,Fluminense,6.5,4.09,1.5,1.6,2011,2.29
+39,Bahia,Brazil,2011-11-16,BR1,1,0,1,Internacional,8.0,4.0,1.44,1.57,2011,2.35
+40,Bahia,Brazil,2011-11-13,BR1,1,1,0,Atletico GO,4.2,3.6,1.83,1.8,2011,2.0
+41,Santos,Brazil,2011-11-13,BR1,1,3,2,Ceara,4.33,3.5,1.73,1.7,2011,2.1
+42,Atletico-PR,Brazil,2011-11-13,BR1,1,1,2,Corinthians,8.0,4.5,1.4,1.62,2011,2.25
+43,Flamengo RJ,Brazil,2011-11-13,BR1,1,0,2,Coritiba,3.75,3.6,1.91,1.65,2011,2.2
+44,Internacional,Brazil,2011-11-13,BR1,1,0,1,Cruzeiro,3.6,3.4,2.04,1.9,2011,1.9
+45,Palmeiras,Brazil,2011-11-13,BR1,1,2,2,Gremio,4.0,3.4,1.91,1.95,2011,1.85
+46,Botafogo RJ,Brazil,2011-11-13,BR1,1,0,2,Vasco,2.6,3.4,2.6,1.95,2011,1.85
+47,Atletico-MG,Brazil,2011-11-12,BR1,1,1,2,Figueirense,3.75,3.4,2.0,1.85,2011,1.95
+48,America MG,Brazil,2011-11-12,BR1,1,2,1,Fluminense,7.0,4.33,1.44,1.57,2011,2.35
+49,Avai,Brazil,2011-11-12,BR1,1,0,2,Sao Paulo,7.0,4.33,1.44,1.48,2011,2.6
+50,Corinthians,Brazil,2011-11-06,BR1,1,1,2,America MG,1.57,3.8,6.0,1.75,2011,2.04
+51,Atletico GO,Brazil,2011-11-06,BR1,1,1,2,Atletico-PR,4.0,3.4,1.91,1.85,2011,1.95
+52,Ceara,Brazil,2011-11-06,BR1,1,2,1,Avai,5.0,3.75,1.67,1.67,2011,2.15
+53,Cruzeiro,Brazil,2011-11-06,BR1,1,1,5,Flamengo RJ,4.0,3.4,1.91,1.85,2011,1.95
+54,Fluminense,Brazil,2011-11-06,BR1,1,2,1,Internacional,4.75,3.75,1.7,1.73,2011,2.08
+55,Coritiba,Brazil,2011-11-06,BR1,1,2,0,Palmeiras,3.4,3.4,2.1,2.04,2011,1.75
+56,Vasco,Brazil,2011-11-06,BR1,1,0,2,Santos,3.4,3.4,2.1,1.75,2011,2.04
+57,Gremio,Brazil,2011-11-05,BR1,1,0,2,Atletico-MG,4.33,3.5,1.85,1.85,2011,1.95
+58,Sao Paulo,Brazil,2011-11-05,BR1,1,3,4,Bahia,2.7,3.25,2.6,2.04,2011,1.75
+59,Figueirense,Brazil,2011-11-05,BR1,1,1,0,Botafogo RJ,4.33,3.5,1.83,1.85,2011,1.95
+60,Internacional,Brazil,2011-10-30,BR1,1,1,0,Atletico GO,2.8,3.2,2.5,2.0,2011,1.8
+61,Palmeiras,Brazil,2011-10-30,BR1,1,1,2,Atletico-MG,3.75,3.4,2.0,2.04,2011,1.75
+62,Avai,Brazil,2011-10-30,BR1,1,1,2,Corinthians,7.5,4.5,1.4,1.65,2011,2.2
+63,America MG,Brazil,2011-10-30,BR1,1,1,3,Coritiba,7.5,4.2,1.44,1.73,2011,2.08
+64,Bahia,Brazil,2011-10-30,BR1,1,1,2,Figueirense,5.5,3.75,1.62,1.9,2011,1.9
+65,Flamengo RJ,Brazil,2011-10-30,BR1,1,2,4,Gremio,3.75,3.4,2.0,2.0,2011,1.8
+66,Sao Paulo,Brazil,2011-10-30,BR1,1,0,0,Vasco,4.75,3.6,1.73,1.95,2011,1.85
+67,Cruzeiro,Brazil,2011-10-29,BR1,1,0,1,Botafogo RJ,4.5,3.5,1.8,1.85,2011,1.95
+68,Fluminense,Brazil,2011-10-29,BR1,1,2,1,Ceara,3.0,3.25,2.38,1.85,2011,1.95
+69,Atletico-PR,Brazil,2011-10-29,BR1,1,1,4,Santos,5.5,3.5,1.67,1.95,2011,1.85
+70,Ceara,Brazil,2011-10-23,BR1,1,0,1,Atletico-PR,5.0,3.5,1.73,2.0,2011,1.8
+71,Vasco,Brazil,2011-10-23,BR1,1,2,0,Bahia,2.8,3.25,2.5,2.1,2011,1.7
+72,Atletico GO,Brazil,2011-10-23,BR1,1,2,3,Cruzeiro,5.0,3.6,1.7,1.9,2011,1.9
+73,Santos,Brazil,2011-10-23,BR1,1,1,1,Flamengo RJ,3.1,3.4,2.25,2.1,2011,1.7
+74,Corinthians,Brazil,2011-10-23,BR1,1,1,1,Internacional,3.75,3.4,2.0,2.25,2011,1.62
+75,Coritiba,Brazil,2011-10-23,BR1,1,0,0,Sao Paulo,4.2,3.5,1.85,1.85,2011,1.95
+76,Gremio,Brazil,2011-10-22,BR1,1,2,2,America MG,2.63,3.3,2.6,1.9,2011,1.9
+77,Botafogo RJ,Brazil,2011-10-22,BR1,1,2,3,Avai,2.4,3.4,2.8,1.7,2011,2.1
+78,Atletico-MG,Brazil,2011-10-22,BR1,1,2,0,Fluminense,4.5,3.5,1.8,1.85,2011,1.95
+79,Figueirense,Brazil,2011-10-22,BR1,1,2,1,Palmeiras,4.59,3.6,1.75,2.08,2011,1.73
+80,Botafogo RJ,Brazil,2011-10-20,BR1,1,0,2,Santos,3.25,3.5,2.1,1.67,2011,2.15
+81,Sao Paulo,Brazil,2011-10-16,BR1,1,0,3,Atletico GO,2.5,3.3,2.8,1.95,2011,1.85
+82,Atletico-PR,Brazil,2011-10-16,BR1,1,0,2,Botafogo RJ,6.0,4.2,1.5,1.75,2011,2.04
+83,Bahia,Brazil,2011-10-16,BR1,1,0,0,Coritiba,6.5,3.8,1.53,1.7,2011,2.1
+84,Corinthians,Brazil,2011-10-16,BR1,1,1,0,Cruzeiro,2.88,3.4,2.38,2.1,2011,1.7
+85,Avai,Brazil,2011-10-16,BR1,1,2,4,Internacional,8.0,4.5,1.4,1.65,2011,2.2
+86,Fluminense,Brazil,2011-10-16,BR1,1,2,1,Palmeiras,3.75,3.4,2.0,2.04,2011,1.75
+87,Gremio,Brazil,2011-10-16,BR1,1,1,0,Santos,3.75,3.4,2.0,2.0,2011,1.8
+88,Atletico-MG,Brazil,2011-10-16,BR1,1,0,2,Vasco,5.5,3.75,1.62,1.7,2011,2.1
+89,Flamengo RJ,Brazil,2011-10-15,BR1,1,1,0,Ceara,2.8,3.3,2.5,2.0,2011,1.8
+90,America MG,Brazil,2011-10-15,BR1,1,1,2,Figueirense,6.25,4.0,1.53,1.7,2011,2.1
+91,Santos,Brazil,2011-10-14,BR1,1,1,2,Atletico-MG,3.1,3.5,2.2,1.73,2011,2.08
+92,Vasco,Brazil,2011-10-14,BR1,1,2,2,Atletico-PR,2.4,3.3,2.9,2.1,2011,1.7
+93,Coritiba,Brazil,2011-10-14,BR1,1,1,3,Fluminense,3.5,3.3,2.1,1.8,2011,2.0
+94,Cruzeiro,Brazil,2011-10-13,BR1,1,0,0,Bahia,2.8,3.3,2.5,1.8,2011,2.0
+95,Botafogo RJ,Brazil,2011-10-13,BR1,1,2,0,Corinthians,4.5,3.5,1.8,1.85,2011,1.95
+96,Palmeiras,Brazil,2011-10-13,BR1,1,1,1,Flamengo RJ,4.0,3.2,2.0,2.29,2011,1.6
+97,Ceara,Brazil,2011-10-12,BR1,1,1,4,America MG,3.1,3.3,2.29,1.85,2011,1.95
+98,Atletico GO,Brazil,2011-10-12,BR1,1,2,2,Avai,3.25,3.5,2.1,1.75,2011,2.04
+99,Figueirense,Brazil,2011-10-12,BR1,1,3,1,Gremio,5.5,3.8,1.62,1.8,2011,2.0
+100,Internacional,Brazil,2011-10-12,BR1,1,0,0,Sao Paulo,4.0,3.4,1.91,1.9,2011,1.9
+101,Atletico-PR,Brazil,2011-10-09,BR1,1,0,3,Avai,3.1,3.4,2.25,1.9,2011,1.9
+102,Figueirense,Brazil,2011-10-09,BR1,1,1,1,Ceara,3.5,3.3,2.1,1.95,2011,1.85
+103,Atletico GO,Brazil,2011-10-09,BR1,1,0,3,Corinthians,6.0,3.75,1.57,1.85,2011,1.95
+104,Fluminense,Brazil,2011-10-09,BR1,1,2,3,Flamengo RJ,2.38,3.2,3.0,2.04,2011,1.75
+105,Vasco,Brazil,2011-10-09,BR1,1,0,3,Internacional,3.75,3.4,2.0,1.95,2011,1.85
+106,Palmeiras,Brazil,2011-10-09,BR1,1,0,1,Santos,3.0,3.2,2.38,2.25,2011,1.62
+107,Atletico-MG,Brazil,2011-10-08,BR1,1,0,0,America MG,2.1,3.4,3.4,1.8,2011,2.0
+108,Bahia,Brazil,2011-10-08,BR1,1,2,2,Botafogo RJ,5.5,3.8,1.62,1.85,2011,1.95
+109,Gremio,Brazil,2011-10-08,BR1,1,0,2,Coritiba,4.5,3.4,1.8,1.95,2011,1.85
+110,Sao Paulo,Brazil,2011-10-06,BR1,1,3,3,Cruzeiro,3.0,3.4,2.29,1.95,2011,1.85
+111,Santos,Brazil,2011-10-06,BR1,1,0,1,Gremio,4.2,3.5,1.83,1.8,2011,2.0
+112,Botafogo RJ,Brazil,2011-10-02,BR1,1,0,2,Atletico GO,2.25,3.2,3.25,2.0,2011,1.8
+113,Ceara,Brazil,2011-10-02,BR1,1,1,1,Atletico-MG,5.0,3.6,1.7,1.7,2011,2.1
+114,Internacional,Brazil,2011-10-02,BR1,1,0,2,Atletico-PR,2.63,3.3,2.63,2.08,2011,1.73
+115,Coritiba,Brazil,2011-10-02,BR1,1,0,0,Figueirense,2.9,3.3,2.38,1.9,2011,1.9
+116,Cruzeiro,Brazil,2011-10-02,BR1,1,0,2,Gremio,5.0,3.75,1.67,1.8,2011,2.0
+117,Flamengo RJ,Brazil,2011-10-02,BR1,1,2,1,Sao Paulo,4.33,3.5,1.83,1.8,2011,2.0
+118,Corinthians,Brazil,2011-10-02,BR1,1,2,2,Vasco,4.0,3.4,1.91,2.25,2011,1.62
+119,Avai,Brazil,2011-10-01,BR1,1,2,3,Bahia,4.75,3.6,1.73,1.8,2011,2.0
+120,Santos,Brazil,2011-10-01,BR1,1,2,3,Fluminense,3.4,3.4,2.1,1.9,2011,1.9
+121,America MG,Brazil,2011-10-01,BR1,1,1,1,Palmeiras,7.0,4.33,1.44,1.73,2011,2.08
+122,Palmeiras,Brazil,2011-09-25,BR1,1,1,1,Atletico GO,2.6,3.2,2.75,2.1,2011,1.7
+123,Gremio,Brazil,2011-09-25,BR1,1,2,1,Avai,2.29,3.4,3.0,1.75,2011,2.04
+124,Sao Paulo,Brazil,2011-09-25,BR1,1,2,2,Botafogo RJ,3.75,3.5,1.95,2.0,2011,1.8
+125,Coritiba,Brazil,2011-09-25,BR1,1,2,3,Ceara,2.88,3.3,2.4,1.85,2011,1.95
+126,Bahia,Brazil,2011-09-25,BR1,1,0,1,Corinthians,7.5,4.2,1.44,1.8,2011,2.0
+127,Vasco,Brazil,2011-09-25,BR1,1,3,0,Cruzeiro,3.2,3.4,2.2,2.04,2011,1.75
+128,Atletico-MG,Brazil,2011-09-25,BR1,1,1,2,Internacional,5.25,3.6,1.67,1.8,2011,2.0
+129,Fluminense,Brazil,2011-09-24,BR1,1,1,1,Atletico-PR,2.75,3.2,2.6,2.04,2011,1.75
+130,America MG,Brazil,2011-09-24,BR1,1,1,2,Flamengo RJ,6.0,3.6,1.62,1.85,2011,1.95
+131,Figueirense,Brazil,2011-09-24,BR1,1,3,2,Santos,5.25,3.6,1.67,1.8,2011,2.0
+132,Botafogo RJ,Brazil,2011-09-23,BR1,1,1,0,Gremio,3.75,3.6,1.91,1.8,2011,2.0
+133,Ceara,Brazil,2011-09-23,BR1,1,0,1,Palmeiras,6.5,4.0,1.5,1.85,2011,1.95
+134,Atletico GO,Brazil,2011-09-23,BR1,1,1,1,Vasco,6.5,4.2,1.5,1.73,2011,2.08
+135,Santos,Brazil,2011-09-22,BR1,1,2,1,America MG,1.83,3.5,4.33,1.8,2011,2.0
+136,Flamengo RJ,Brazil,2011-09-22,BR1,1,1,1,Atletico-MG,2.8,3.4,2.4,1.8,2011,2.0
+137,Atletico-PR,Brazil,2011-09-22,BR1,1,0,1,Bahia,4.0,3.4,1.91,2.0,2011,1.8
+138,Cruzeiro,Brazil,2011-09-22,BR1,1,1,2,Coritiba,5.0,3.5,1.73,1.7,2011,2.1
+139,Internacional,Brazil,2011-09-22,BR1,1,1,1,Figueirense,2.88,3.3,2.4,1.95,2011,1.85
+140,Avai,Brazil,2011-09-22,BR1,1,1,3,Fluminense,7.5,4.5,1.4,1.57,2011,2.35
+141,Corinthians,Brazil,2011-09-22,BR1,1,0,0,Sao Paulo,3.25,3.3,2.2,2.0,2011,1.8
+142,Figueirense,Brazil,2011-09-18,BR1,1,0,0,Atletico-PR,3.75,3.4,2.0,2.04,2011,1.75
+143,Palmeiras,Brazil,2011-09-18,BR1,1,1,1,Avai,2.38,3.4,2.88,1.8,2011,2.0
+144,Fluminense,Brazil,2011-09-18,BR1,1,0,3,Bahia,2.5,3.3,2.8,2.0,2011,1.8
+145,Flamengo RJ,Brazil,2011-09-18,BR1,1,1,1,Botafogo RJ,2.8,3.2,2.5,1.95,2011,1.85
+146,Santos,Brazil,2011-09-18,BR1,1,3,1,Corinthians,4.33,3.6,1.8,1.8,2011,2.0
+147,America MG,Brazil,2011-09-18,BR1,1,0,0,Cruzeiro,5.0,3.5,1.73,1.65,2011,2.2
+148,Coritiba,Brazil,2011-09-18,BR1,1,1,1,Internacional,3.75,3.4,2.0,1.73,2011,2.08
+149,Atletico-MG,Brazil,2011-09-17,BR1,1,0,1,Atletico GO,3.0,3.5,2.25,1.85,2011,1.95
+150,Ceara,Brazil,2011-09-17,BR1,1,0,4,Sao Paulo,6.0,3.8,1.57,1.85,2011,1.95
+151,Gremio,Brazil,2011-09-17,BR1,1,0,4,Vasco,4.0,3.3,1.95,2.0,2011,1.8
+152,Bahia,Brazil,2011-09-11,BR1,1,0,2,Atletico-MG,4.75,3.75,1.7,1.65,2011,2.2
+153,Atletico GO,Brazil,2011-09-11,BR1,1,1,1,Ceara,4.33,3.5,1.83,1.8,2011,2.0
+154,Botafogo RJ,Brazil,2011-09-11,BR1,1,0,5,Coritiba,3.6,3.5,2.0,1.75,2011,2.04
+155,Vasco,Brazil,2011-09-11,BR1,1,1,1,Figueirense,3.4,3.4,2.1,1.9,2011,1.9
+156,Atletico-PR,Brazil,2011-09-11,BR1,1,2,1,Flamengo RJ,5.25,3.6,1.67,1.8,2011,2.0
+157,Corinthians,Brazil,2011-09-11,BR1,1,0,1,Fluminense,3.2,3.25,2.25,2.08,2011,1.73
+158,Sao Paulo,Brazil,2011-09-11,BR1,1,0,1,Gremio,3.4,3.4,2.1,1.75,2011,2.04
+159,Internacional,Brazil,2011-09-11,BR1,1,3,0,Palmeiras,3.75,3.4,2.0,1.95,2011,1.85
+160,Avai,Brazil,2011-09-10,BR1,1,2,2,America MG,3.75,3.5,1.95,1.65,2011,2.2
+161,Cruzeiro,Brazil,2011-09-10,BR1,1,0,1,Santos,3.8,3.6,1.91,1.73,2011,2.08
+162,Gremio,Brazil,2011-09-09,BR1,1,2,1,Bahia,2.9,3.3,2.4,2.0,2011,1.8
+163,Flamengo RJ,Brazil,2011-09-09,BR1,1,1,2,Corinthians,3.6,3.5,2.0,1.95,2011,1.85
+164,Coritiba,Brazil,2011-09-09,BR1,1,0,2,Vasco,4.75,3.6,1.73,1.73,2011,2.08
+165,Figueirense,Brazil,2011-09-08,BR1,1,1,1,Atletico GO,3.75,3.4,2.0,1.8,2011,2.0
+166,Palmeiras,Brazil,2011-09-08,BR1,1,2,2,Atletico-PR,2.5,3.2,2.88,2.08,2011,1.73
+167,Fluminense,Brazil,2011-09-08,BR1,1,2,1,Cruzeiro,3.1,3.4,2.25,1.9,2011,1.9
+168,Santos,Brazil,2011-09-07,BR1,1,2,1,Avai,2.4,3.4,2.8,1.65,2011,2.2
+169,Ceara,Brazil,2011-09-07,BR1,1,0,4,Botafogo RJ,7.5,4.2,1.44,1.7,2011,2.1
+170,America MG,Brazil,2011-09-07,BR1,1,2,4,Internacional,7.0,4.75,1.4,1.65,2011,2.2
+171,Atletico-MG,Brazil,2011-09-07,BR1,1,1,2,Sao Paulo,5.0,3.75,1.67,1.67,2011,2.15
+172,Vasco,Brazil,2011-09-04,BR1,1,1,4,America MG,2.1,3.4,3.4,1.85,2011,1.95
+173,Internacional,Brazil,2011-09-04,BR1,1,1,1,Ceara,3.6,3.5,2.0,1.95,2011,1.85
+174,Corinthians,Brazil,2011-09-04,BR1,1,0,1,Coritiba,3.4,3.4,2.1,2.0,2011,1.8
+175,Bahia,Brazil,2011-09-04,BR1,1,3,1,Flamengo RJ,8.0,4.5,1.4,1.73,2011,2.08
+176,Atletico-PR,Brazil,2011-09-04,BR1,1,0,4,Gremio,4.75,3.6,1.73,1.73,2011,2.08
+177,Cruzeiro,Brazil,2011-09-04,BR1,1,1,1,Palmeiras,5.0,3.75,1.67,1.75,2011,2.04
+178,Avai,Brazil,2011-09-03,BR1,1,0,2,Atletico-MG,6.5,3.8,1.53,1.53,2011,2.4
+179,Sao Paulo,Brazil,2011-09-03,BR1,1,2,1,Figueirense,3.5,3.5,2.04,1.95,2011,1.85
+180,Atletico GO,Brazil,2011-09-03,BR1,1,2,3,Fluminense,4.75,3.75,1.7,1.95,2011,1.85
+181,America MG,Brazil,2011-09-02,BR1,1,0,0,Bahia,5.0,3.8,1.67,1.65,2011,2.2
+182,Coritiba,Brazil,2011-09-01,BR1,1,1,3,Atletico GO,2.6,3.4,2.63,1.9,2011,1.9
+183,Atletico-MG,Brazil,2011-09-01,BR1,1,1,0,Atletico-PR,3.4,3.3,2.15,1.7,2011,2.1
+184,Flamengo RJ,Brazil,2011-09-01,BR1,1,2,3,Avai,2.15,3.5,3.25,1.75,2011,2.04
+185,Palmeiras,Brazil,2011-09-01,BR1,1,1,3,Botafogo RJ,3.75,3.25,2.04,2.25,2011,1.62
+186,Figueirense,Brazil,2011-09-01,BR1,1,4,2,Cruzeiro,3.5,3.2,2.15,1.85,2011,1.95
+187,Santos,Brazil,2011-09-01,BR1,1,3,3,Internacional,4.5,3.75,1.75,1.73,2011,2.08
+188,Fluminense,Brazil,2011-09-01,BR1,1,2,1,Sao Paulo,4.0,3.2,2.0,1.95,2011,1.85
+189,Gremio,Brazil,2011-08-31,BR1,1,2,3,Corinthians,6.0,3.8,1.57,1.85,2011,1.95
+190,Ceara,Brazil,2011-08-31,BR1,1,1,3,Vasco,5.0,3.8,1.67,1.75,2011,2.04
+191,Cruzeiro,Brazil,2011-08-28,BR1,1,2,1,Atletico-MG,2.4,3.3,2.88,1.75,2011,2.04
+192,Bahia,Brazil,2011-08-28,BR1,1,0,3,Ceara,5.0,3.6,1.7,1.85,2011,1.95
+193,Avai,Brazil,2011-08-28,BR1,1,3,2,Figueirense,4.75,3.6,1.73,1.8,2011,2.0
+194,Vasco,Brazil,2011-08-28,BR1,1,0,0,Flamengo RJ,3.5,3.3,2.1,1.95,2011,1.85
+195,Internacional,Brazil,2011-08-28,BR1,1,1,2,Gremio,3.0,3.2,2.38,1.95,2011,1.85
+196,Corinthians,Brazil,2011-08-28,BR1,1,1,2,Palmeiras,2.8,3.25,2.5,2.1,2011,1.7
+197,Sao Paulo,Brazil,2011-08-28,BR1,1,1,1,Santos,3.0,3.4,2.29,1.95,2011,1.85
+198,Atletico GO,Brazil,2011-08-27,BR1,1,2,1,America MG,3.0,3.4,2.29,1.85,2011,1.95
+199,Atletico-PR,Brazil,2011-08-27,BR1,1,1,1,Coritiba,4.75,3.5,1.75,1.7,2011,2.1
+200,Botafogo RJ,Brazil,2011-08-27,BR1,1,2,1,Fluminense,2.6,3.2,2.75,2.04,2011,1.75
+201,Fluminense,Brazil,2011-08-25,BR1,1,1,2,Santos,3.5,3.4,2.04,1.85,2011,1.95
+202,Gremio,Brazil,2011-08-21,BR1,1,0,1,Atletico GO,3.1,3.3,2.29,2.0,2011,1.8
+203,America MG,Brazil,2011-08-21,BR1,1,2,2,Atletico-PR,5.5,3.8,1.62,1.8,2011,2.0
+204,Coritiba,Brazil,2011-08-21,BR1,1,0,0,Avai,2.29,3.5,2.9,1.8,2011,2.0
+205,Santos,Brazil,2011-08-21,BR1,1,2,1,Bahia,3.2,3.5,2.15,1.8,2011,2.0
+206,Flamengo RJ,Brazil,2011-08-21,BR1,1,2,2,Internacional,3.2,3.4,2.2,2.04,2011,1.75
+207,Palmeiras,Brazil,2011-08-21,BR1,1,1,1,Sao Paulo,3.1,3.2,2.29,2.04,2011,1.75
+208,Fluminense,Brazil,2011-08-21,BR1,1,1,1,Vasco,2.75,3.2,2.6,2.0,2011,1.8
+209,Atletico-MG,Brazil,2011-08-20,BR1,1,1,3,Botafogo RJ,4.0,3.5,1.91,1.7,2011,2.1
+210,Figueirense,Brazil,2011-08-20,BR1,1,2,0,Corinthians,6.0,3.8,1.57,1.85,2011,1.95
+211,Ceara,Brazil,2011-08-20,BR1,1,0,1,Cruzeiro,6.0,3.8,1.57,1.8,2011,2.0
+212,Sao Paulo,Brazil,2011-08-19,BR1,1,1,1,America MG,2.2,3.2,3.4,1.8,2011,2.0
+213,Atletico GO,Brazil,2011-08-19,BR1,1,4,1,Flamengo RJ,7.0,4.33,1.44,1.9,2011,1.9
+214,Bahia,Brazil,2011-08-19,BR1,1,1,1,Palmeiras,8.0,4.5,1.4,1.8,2011,2.0
+215,Corinthians,Brazil,2011-08-18,BR1,1,3,2,Atletico-MG,2.63,3.5,2.5,1.85,2011,1.95
+216,Cruzeiro,Brazil,2011-08-18,BR1,1,1,2,Atletico-PR,2.7,3.3,2.6,2.0,2011,1.8
+217,Vasco,Brazil,2011-08-18,BR1,1,2,0,Avai,2.38,3.4,2.88,1.8,2011,2.0
+218,Gremio,Brazil,2011-08-18,BR1,1,0,3,Ceara,3.5,3.3,2.1,1.95,2011,1.85
+219,Figueirense,Brazil,2011-08-18,BR1,1,0,3,Fluminense,4.75,3.4,1.8,2.0,2011,1.8
+220,Botafogo RJ,Brazil,2011-08-18,BR1,1,0,1,Internacional,4.33,3.5,1.83,1.85,2011,1.95
+221,Coritiba,Brazil,2011-08-18,BR1,1,3,2,Santos,3.5,3.3,2.1,1.73,2011,2.08
+222,Internacional,Brazil,2011-08-14,BR1,1,1,1,Bahia,3.2,3.25,2.25,1.85,2011,1.95
+223,America MG,Brazil,2011-08-14,BR1,1,2,4,Botafogo RJ,8.0,4.0,1.44,1.7,2011,2.1
+224,Ceara,Brazil,2011-08-14,BR1,1,2,2,Corinthians,7.5,4.2,1.44,1.85,2011,1.95
+225,Atletico-MG,Brazil,2011-08-14,BR1,1,0,3,Coritiba,5.5,3.8,1.62,1.62,2011,2.25
+226,Flamengo RJ,Brazil,2011-08-14,BR1,1,2,2,Figueirense,2.5,3.3,2.75,2.15,2011,1.67
+227,Fluminense,Brazil,2011-08-14,BR1,1,1,2,Gremio,4.33,3.5,1.83,1.95,2011,1.85
+228,Palmeiras,Brazil,2011-08-14,BR1,1,0,1,Vasco,3.6,3.2,2.1,2.04,2011,1.75
+229,Santos,Brazil,2011-08-13,BR1,1,0,2,Atletico GO,2.5,3.25,2.8,2.0,2011,1.8
+230,Avai,Brazil,2011-08-13,BR1,1,0,5,Cruzeiro,6.5,4.2,1.5,1.7,2011,2.1
+231,Atletico-PR,Brazil,2011-08-13,BR1,1,2,2,Sao Paulo,4.75,3.5,1.75,1.8,2011,2.0
+232,Corinthians,Brazil,2011-08-11,BR1,1,0,0,Santos,2.75,3.3,2.5,2.08,2011,1.73
+233,Fluminense,Brazil,2011-08-07,BR1,1,0,3,America MG,2.1,3.3,3.5,1.95,2011,1.85
+234,Figueirense,Brazil,2011-08-07,BR1,1,2,1,Atletico-MG,5.0,3.6,1.7,1.8,2011,2.0
+235,Corinthians,Brazil,2011-08-07,BR1,1,1,1,Atletico-PR,2.8,3.2,2.5,2.04,2011,1.75
+236,Sao Paulo,Brazil,2011-08-07,BR1,1,2,1,Avai,2.4,3.3,2.9,1.75,2011,2.04
+237,Atletico GO,Brazil,2011-08-07,BR1,1,1,2,Bahia,4.0,3.5,1.91,1.95,2011,1.85
+238,Vasco,Brazil,2011-08-07,BR1,1,0,4,Botafogo RJ,3.0,3.2,2.4,2.0,2011,1.8
+239,Cruzeiro,Brazil,2011-08-07,BR1,1,2,3,Internacional,3.25,3.3,2.2,2.0,2011,1.8
+240,Ceara,Brazil,2011-08-07,BR1,1,0,1,Santos,6.0,3.8,1.57,1.73,2011,2.08
+241,Coritiba,Brazil,2011-08-06,BR1,1,0,1,Flamengo RJ,5.0,3.4,1.75,1.7,2011,2.1
+242,Gremio,Brazil,2011-08-06,BR1,1,0,0,Palmeiras,5.0,3.4,1.75,2.0,2011,1.8
+243,Atletico-PR,Brazil,2011-08-05,BR1,1,3,0,Atletico GO,3.5,3.6,2.0,2.0,2011,1.8
+244,Internacional,Brazil,2011-08-05,BR1,1,0,2,Fluminense,3.5,3.3,2.1,2.0,2011,1.8
+245,Bahia,Brazil,2011-08-05,BR1,1,0,3,Sao Paulo,7.5,4.2,1.44,1.65,2011,2.2
+246,Avai,Brazil,2011-08-04,BR1,1,3,0,Ceara,5.0,3.8,1.67,1.75,2011,2.04
+247,America MG,Brazil,2011-08-04,BR1,1,1,2,Corinthians,9.0,5.0,1.33,1.62,2011,2.25
+248,Palmeiras,Brazil,2011-08-04,BR1,1,1,1,Coritiba,3.75,3.4,2.0,1.85,2011,1.95
+249,Flamengo RJ,Brazil,2011-08-04,BR1,1,1,0,Cruzeiro,3.3,3.2,2.25,1.95,2011,1.85
+250,Botafogo RJ,Brazil,2011-08-04,BR1,1,0,2,Figueirense,3.0,3.2,2.4,2.1,2011,1.7
+251,Atletico-MG,Brazil,2011-08-04,BR1,1,2,2,Gremio,4.75,3.5,1.75,1.8,2011,2.0
+252,Santos,Brazil,2011-08-04,BR1,1,0,2,Vasco,3.6,3.8,1.91,1.7,2011,2.1
+253,Coritiba,Brazil,2011-07-31,BR1,1,3,1,America MG,2.2,3.25,3.3,1.95,2011,1.85
+254,Santos,Brazil,2011-07-31,BR1,1,2,3,Atletico-PR,2.4,3.4,2.8,1.8,2011,2.0
+255,Corinthians,Brazil,2011-07-31,BR1,1,2,3,Avai,2.1,3.25,3.5,2.0,2011,1.8
+256,Figueirense,Brazil,2011-07-31,BR1,1,1,3,Bahia,3.75,3.4,2.0,1.85,2011,1.95
+257,Ceara,Brazil,2011-07-31,BR1,1,0,4,Fluminense,5.0,3.5,1.73,1.8,2011,2.0
+258,Atletico GO,Brazil,2011-07-31,BR1,1,0,0,Internacional,4.75,3.5,1.75,1.85,2011,1.95
+259,Atletico-MG,Brazil,2011-07-31,BR1,1,2,3,Palmeiras,4.75,3.5,1.75,1.95,2011,1.85
+260,Vasco,Brazil,2011-07-31,BR1,1,2,0,Sao Paulo,3.75,3.4,2.0,1.75,2011,2.04
+261,Botafogo RJ,Brazil,2011-07-30,BR1,1,1,0,Cruzeiro,5.5,3.5,1.67,1.73,2011,2.08
+262,Gremio,Brazil,2011-07-30,BR1,1,0,2,Flamengo RJ,7.0,3.75,1.53,1.65,2011,2.2
+263,Atletico-PR,Brazil,2011-07-29,BR1,1,1,2,Ceara,6.0,3.6,1.62,1.85,2011,1.95
+264,Bahia,Brazil,2011-07-29,BR1,1,1,1,Vasco,8.0,4.5,1.4,1.6,2011,2.29
+265,Cruzeiro,Brazil,2011-07-28,BR1,1,0,2,Atletico GO,2.04,3.4,3.6,2.0,2011,1.8
+266,Fluminense,Brazil,2011-07-28,BR1,1,0,1,Atletico-MG,3.0,3.2,2.4,1.75,2011,2.04
+267,Avai,Brazil,2011-07-28,BR1,1,1,2,Botafogo RJ,5.75,3.5,1.65,1.62,2011,2.25
+268,Sao Paulo,Brazil,2011-07-28,BR1,1,4,3,Coritiba,3.4,3.4,2.1,1.8,2011,2.0
+269,Palmeiras,Brazil,2011-07-28,BR1,1,1,0,Figueirense,3.0,3.2,2.4,2.15,2011,1.67
+270,America MG,Brazil,2011-07-28,BR1,1,1,1,Gremio,8.0,4.5,1.4,1.65,2011,2.2
+271,Flamengo RJ,Brazil,2011-07-28,BR1,1,5,4,Santos,3.8,3.3,2.0,1.85,2011,1.95
+272,Vasco,Brazil,2011-07-24,BR1,1,2,1,Atletico-MG,3.3,3.4,2.15,1.73,2011,2.08
+273,Coritiba,Brazil,2011-07-24,BR1,1,0,0,Bahia,2.5,3.4,2.7,1.8,2011,2.0
+274,Cruzeiro,Brazil,2011-07-24,BR1,1,1,0,Corinthians,3.4,3.4,2.1,2.0,2011,1.8
+275,Ceara,Brazil,2011-07-24,BR1,1,1,1,Flamengo RJ,4.33,3.25,1.91,1.8,2011,2.0
+276,Palmeiras,Brazil,2011-07-24,BR1,1,0,1,Fluminense,2.88,3.3,2.4,2.15,2011,1.67
+277,Figueirense,Brazil,2011-07-23,BR1,1,0,0,America MG,2.6,3.25,2.7,2.0,2011,1.8
+278,Botafogo RJ,Brazil,2011-07-23,BR1,1,1,2,Atletico-PR,3.5,3.3,2.1,2.0,2011,1.8
+279,Atletico GO,Brazil,2011-07-23,BR1,1,2,2,Sao Paulo,8.0,4.0,1.45,1.75,2011,2.04
+280,Internacional,Brazil,2011-07-22,BR1,1,3,1,Avai,2.1,3.4,3.5,1.8,2011,2.0
+281,Corinthians,Brazil,2011-07-21,BR1,1,2,0,Botafogo RJ,3.0,3.25,2.4,2.1,2011,1.7
+282,Gremio,Brazil,2011-07-21,BR1,1,0,0,Figueirense,3.1,3.5,2.2,1.75,2011,2.04
+283,Flamengo RJ,Brazil,2011-07-21,BR1,1,0,0,Palmeiras,3.4,3.3,2.15,2.0,2011,1.8
+284,America MG,Brazil,2011-07-17,BR1,1,0,4,Ceara,5.5,3.75,1.62,1.67,2011,2.15
+285,Bahia,Brazil,2011-07-17,BR1,1,1,2,Cruzeiro,9.0,4.5,1.36,1.6,2011,2.29
+286,Sao Paulo,Brazil,2011-07-17,BR1,1,3,0,Internacional,4.33,3.5,1.83,1.95,2011,1.85
+287,Atletico-MG,Brazil,2011-07-17,BR1,1,1,2,Santos,3.5,3.3,2.1,1.73,2011,2.08
+288,Avai,Brazil,2011-07-16,BR1,1,1,0,Atletico GO,5.0,4.0,1.62,1.8,2011,2.0
+289,Fluminense,Brazil,2011-07-16,BR1,1,1,3,Coritiba,5.5,3.5,1.67,1.95,2011,1.85
+290,Atletico-PR,Brazil,2011-07-16,BR1,1,1,2,Vasco,7.0,4.0,1.5,1.85,2011,1.95
+291,Internacional,Brazil,2011-07-15,BR1,1,0,1,Corinthians,4.5,3.5,1.8,1.85,2011,1.95
+292,Corinthians,Brazil,2011-07-10,BR1,1,1,0,Atletico GO,2.29,3.4,3.0,2.0,2011,1.8
+293,America MG,Brazil,2011-07-10,BR1,1,0,2,Atletico-MG,4.75,3.6,1.75,1.6,2011,2.29
+294,Avai,Brazil,2011-07-10,BR1,1,0,0,Atletico-PR,5.5,3.8,1.62,1.65,2011,2.2
+295,Botafogo RJ,Brazil,2011-07-10,BR1,1,1,1,Bahia,3.0,3.4,2.29,2.04,2011,1.75
+296,Ceara,Brazil,2011-07-10,BR1,1,1,1,Figueirense,5.5,3.6,1.67,1.7,2011,2.1
+297,Flamengo RJ,Brazil,2011-07-10,BR1,1,1,0,Fluminense,2.1,3.25,3.5,1.9,2011,1.9
+298,Coritiba,Brazil,2011-07-10,BR1,1,0,2,Gremio,4.0,3.4,1.91,1.75,2011,2.04
+299,Santos,Brazil,2011-07-10,BR1,1,0,3,Palmeiras,4.0,3.5,1.91,1.95,2011,1.85
+300,Cruzeiro,Brazil,2011-07-09,BR1,1,1,2,Sao Paulo,2.9,3.3,2.4,2.04,2011,1.75
+301,Internacional,Brazil,2011-07-09,BR1,1,0,2,Vasco,3.3,3.5,2.1,1.8,2011,2.0
+302,Palmeiras,Brazil,2011-07-08,BR1,1,1,1,America MG,2.29,3.3,3.1,1.95,2011,1.85
+303,Atletico GO,Brazil,2011-07-08,BR1,1,1,1,Botafogo RJ,7.0,3.75,1.53,1.65,2011,2.2
+304,Figueirense,Brazil,2011-07-08,BR1,1,0,3,Coritiba,4.75,3.8,1.7,1.6,2011,2.29
+305,Bahia,Brazil,2011-07-07,BR1,1,2,2,Avai,3.5,3.75,1.95,1.67,2011,2.15
+306,Atletico-MG,Brazil,2011-07-07,BR1,1,0,3,Ceara,3.25,3.25,2.25,1.73,2011,2.08
+307,Vasco,Brazil,2011-07-07,BR1,1,1,2,Corinthians,4.75,3.4,1.8,1.75,2011,2.04
+308,Gremio,Brazil,2011-07-07,BR1,1,0,2,Cruzeiro,6.5,4.2,1.5,1.53,2011,2.4
+309,Sao Paulo,Brazil,2011-07-07,BR1,1,0,1,Flamengo RJ,5.0,3.5,1.73,1.8,2011,2.0
+310,Atletico-PR,Brazil,2011-07-07,BR1,1,0,1,Internacional,7.0,3.8,1.53,1.7,2011,2.1
+311,America MG,Brazil,2011-07-02,BR1,1,0,1,Santos,5.75,4.0,1.57,1.62,2011,2.25
+312,Internacional,Brazil,2011-07-01,BR1,1,4,0,Atletico-MG,3.2,3.6,2.1,1.6,2011,2.29
+313,Ceara,Brazil,2011-07-01,BR1,1,1,3,Coritiba,6.5,4.2,1.5,1.6,2011,2.29
+314,Atletico-PR,Brazil,2011-07-01,BR1,1,1,3,Fluminense,6.5,3.75,1.57,1.8,2011,2.0
+315,Atletico GO,Brazil,2011-07-01,BR1,1,0,2,Palmeiras,6.0,3.75,1.6,1.8,2011,2.0
+316,Flamengo RJ,Brazil,2011-06-30,BR1,1,3,2,America MG,2.04,3.6,3.4,1.7,2011,2.1
+317,Corinthians,Brazil,2011-06-30,BR1,1,1,0,Bahia,2.1,3.3,3.5,1.95,2011,1.85
+318,Santos,Brazil,2011-06-30,BR1,1,1,2,Figueirense,3.3,3.5,2.1,1.95,2011,1.85
+319,Avai,Brazil,2011-06-30,BR1,1,2,2,Gremio,8.5,4.75,1.36,1.44,2011,2.7
+320,Botafogo RJ,Brazil,2011-06-30,BR1,1,2,0,Sao Paulo,4.5,3.5,1.8,1.8,2011,2.0
+321,Cruzeiro,Brazil,2011-06-30,BR1,1,3,0,Vasco,3.0,3.4,2.29,1.8,2011,2.0
+322,Vasco,Brazil,2011-06-26,BR1,1,1,0,Atletico GO,2.63,3.3,2.6,1.95,2011,1.85
+323,Fluminense,Brazil,2011-06-26,BR1,1,1,0,Avai,2.4,3.3,2.9,1.75,2011,2.04
+324,Gremio,Brazil,2011-06-26,BR1,1,1,2,Botafogo RJ,4.0,3.4,1.91,1.75,2011,2.04
+325,Palmeiras,Brazil,2011-06-26,BR1,1,0,2,Ceara,2.5,3.4,2.7,2.04,2011,1.75
+326,Sao Paulo,Brazil,2011-06-26,BR1,1,0,5,Corinthians,3.5,3.25,2.1,1.85,2011,1.95
+327,Coritiba,Brazil,2011-06-26,BR1,1,1,2,Cruzeiro,5.5,3.8,1.62,1.62,2011,2.25
+328,Figueirense,Brazil,2011-06-26,BR1,1,1,4,Internacional,5.5,3.5,1.67,1.73,2011,2.08
+329,Bahia,Brazil,2011-06-25,BR1,1,2,0,Atletico-PR,6.0,4.0,1.55,1.7,2011,2.1
+330,Atletico-MG,Brazil,2011-06-25,BR1,1,1,4,Flamengo RJ,3.5,3.5,2.04,1.73,2011,2.08
+331,Cruzeiro,Brazil,2011-06-19,BR1,1,1,1,America MG,1.53,4.0,6.0,1.65,2011,2.2
+332,Atletico GO,Brazil,2011-06-19,BR1,1,2,2,Atletico-MG,6.0,4.0,1.53,1.65,2011,2.2
+333,Sao Paulo,Brazil,2011-06-19,BR1,1,2,0,Ceara,2.25,3.5,3.0,2.08,2011,1.73
+334,Internacional,Brazil,2011-06-19,BR1,1,1,1,Coritiba,3.2,3.6,2.1,1.75,2011,2.04
+335,Atletico-PR,Brazil,2011-06-19,BR1,1,0,2,Figueirense,4.5,3.4,1.83,1.85,2011,1.95
+336,Botafogo RJ,Brazil,2011-06-19,BR1,1,0,0,Flamengo RJ,3.75,3.4,2.0,1.95,2011,1.85
+337,Vasco,Brazil,2011-06-19,BR1,1,1,1,Gremio,4.0,3.4,1.91,1.73,2011,2.08
+338,Avai,Brazil,2011-06-19,BR1,1,0,5,Palmeiras,7.5,4.5,1.4,1.75,2011,2.04
+339,Bahia,Brazil,2011-06-18,BR1,1,1,0,Fluminense,9.5,4.75,1.33,1.57,2011,2.35
+340,Ceara,Brazil,2011-06-12,BR1,1,1,4,Atletico GO,4.33,3.4,1.85,2.0,2011,1.8
+341,Flamengo RJ,Brazil,2011-06-12,BR1,1,1,1,Atletico-PR,2.9,3.3,2.4,1.9,2011,1.9
+342,Atletico-MG,Brazil,2011-06-12,BR1,1,1,1,Bahia,2.8,3.25,2.5,1.65,2011,2.2
+343,Coritiba,Brazil,2011-06-12,BR1,1,1,3,Botafogo RJ,3.25,3.2,2.25,1.73,2011,2.08
+344,Fluminense,Brazil,2011-06-12,BR1,1,0,2,Corinthians,3.8,3.3,2.0,1.95,2011,1.85
+345,Palmeiras,Brazil,2011-06-12,BR1,1,2,2,Internacional,4.5,3.5,1.8,1.95,2011,1.85
+346,Figueirense,Brazil,2011-06-12,BR1,1,1,1,Vasco,4.09,3.4,1.91,1.8,2011,2.0
+347,America MG,Brazil,2011-06-11,BR1,1,2,2,Avai,4.09,3.6,1.85,1.73,2011,2.08
+348,Santos,Brazil,2011-06-11,BR1,1,1,1,Cruzeiro,7.0,4.33,1.44,1.65,2011,2.2
+349,Gremio,Brazil,2011-06-11,BR1,1,1,3,Sao Paulo,4.75,3.6,1.75,1.8,2011,2.0
+350,Sao Paulo,Brazil,2011-06-09,BR1,1,1,0,Atletico-MG,3.4,3.4,2.1,1.62,2011,2.25
+351,Internacional,Brazil,2011-06-05,BR1,1,4,2,America MG,1.85,3.6,4.0,1.73,2011,2.08
+352,Vasco,Brazil,2011-06-05,BR1,1,1,5,Coritiba,3.1,3.25,2.29,1.95,2011,1.85
+353,Atletico GO,Brazil,2011-06-05,BR1,1,0,2,Figueirense,4.75,3.6,1.73,1.8,2011,2.0
+354,Corinthians,Brazil,2011-06-05,BR1,1,1,1,Flamengo RJ,3.6,3.5,2.0,1.85,2011,1.95
+355,Bahia,Brazil,2011-06-05,BR1,1,0,2,Gremio,7.0,4.33,1.44,1.57,2011,2.35
+356,Avai,Brazil,2011-06-05,BR1,1,1,3,Santos,6.5,4.0,1.5,1.6,2011,2.29
+357,Botafogo RJ,Brazil,2011-06-04,BR1,1,2,2,Ceara,3.6,3.25,2.1,2.1,2011,1.7
+358,Cruzeiro,Brazil,2011-06-04,BR1,1,1,2,Fluminense,2.75,3.3,2.5,1.8,2011,2.0
+359,Atletico-PR,Brazil,2011-06-04,BR1,1,0,1,Palmeiras,4.75,3.6,1.73,2.0,2011,1.8
+360,Fluminense,Brazil,2011-05-29,BR1,1,1,0,Atletico GO,2.8,3.4,2.4,1.85,2011,1.95
+361,Gremio,Brazil,2011-05-29,BR1,1,1,0,Atletico-PR,3.5,3.3,2.1,1.85,2011,1.95
+362,Flamengo RJ,Brazil,2011-05-29,BR1,1,3,3,Bahia,2.2,3.5,3.1,1.8,2011,2.0
+363,Coritiba,Brazil,2011-05-29,BR1,1,1,2,Corinthians,5.5,3.8,1.6,1.75,2011,2.04
+364,Palmeiras,Brazil,2011-05-29,BR1,1,1,1,Cruzeiro,5.0,3.8,1.65,1.85,2011,1.95
+365,Figueirense,Brazil,2011-05-29,BR1,1,0,1,Sao Paulo,6.0,3.9,1.57,1.8,2011,2.0
+366,America MG,Brazil,2011-05-29,BR1,1,0,3,Vasco,4.5,3.5,1.8,1.8,2011,2.0
+367,Atletico-MG,Brazil,2011-05-28,BR1,1,3,1,Avai,2.63,3.4,2.6,1.67,2011,2.15
+368,Santos,Brazil,2011-05-28,BR1,1,0,1,Botafogo RJ,4.5,3.75,1.75,1.8,2011,2.0
+369,Ceara,Brazil,2011-05-28,BR1,1,1,0,Internacional,11.0,4.5,1.3,1.67,2011,2.15
+370,Bahia,Brazil,2011-05-22,BR1,1,1,2,America MG,3.75,3.6,1.91,1.85,2011,1.95
+371,Atletico GO,Brazil,2011-05-22,BR1,1,1,0,Coritiba,5.5,3.8,1.62,1.7,2011,2.1
+372,Cruzeiro,Brazil,2011-05-22,BR1,1,0,1,Figueirense,2.1,3.5,3.3,1.8,2011,2.0
+373,Sao Paulo,Brazil,2011-05-22,BR1,1,2,0,Fluminense,3.5,3.4,2.04,1.85,2011,1.95
+374,Corinthians,Brazil,2011-05-22,BR1,1,2,1,Gremio,4.0,3.4,1.91,1.8,2011,2.0
+375,Botafogo RJ,Brazil,2011-05-22,BR1,1,0,1,Palmeiras,3.75,3.3,2.0,2.0,2011,1.8
+376,Internacional,Brazil,2011-05-22,BR1,1,1,1,Santos,2.6,3.2,2.7,2.0,2011,1.8
+377,Atletico-PR,Brazil,2011-05-21,BR1,1,0,3,Atletico-MG,4.5,3.5,1.8,1.75,2011,2.04
+378,Vasco,Brazil,2011-05-21,BR1,1,3,1,Ceara,3.2,3.25,2.25,2.15,2011,1.67
+379,Avai,Brazil,2011-05-21,BR1,1,0,4,Flamengo RJ,7.5,4.2,1.44,1.8,2011,2.0

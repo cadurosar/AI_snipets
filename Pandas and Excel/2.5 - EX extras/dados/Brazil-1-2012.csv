@@ -1,0 +1,381 @@
+,AwayTeam,Country,Date,Div,Division,FTAG,FTHG,HomeTeam,ODDA,ODDD,ODDH,over,season,under
+0,Bahia,Brazil,2012-12-02,BR1,1,1,0,Atletico GO,2.25,3.4,3.1,1.8,2012,2.0
+1,Cruzeiro,Brazil,2012-12-02,BR1,1,2,3,Atletico-MG,5.0,3.8,1.65,1.6,2012,2.29
+2,Figueirense,Brazil,2012-12-02,BR1,1,0,3,Coritiba,7.5,5.0,1.36,1.6,2012,2.29
+3,Vasco,Brazil,2012-12-02,BR1,1,2,1,Fluminense,3.1,3.4,2.25,1.85,2012,1.95
+4,Internacional,Brazil,2012-12-02,BR1,1,0,0,Gremio,5.0,3.8,1.65,1.8,2012,2.0
+5,Sport Recife,Brazil,2012-12-02,BR1,1,0,1,Nautico,2.63,3.3,2.6,1.8,2012,2.0
+6,Ponte Preta,Brazil,2012-12-02,BR1,1,0,0,Portuguesa,5.0,3.5,1.73,1.95,2012,1.85
+7,Corinthians,Brazil,2012-12-02,BR1,1,1,3,Sao Paulo,2.2,3.25,3.25,2.1,2012,1.7
+8,Botafogo RJ,Brazil,2012-12-01,BR1,1,2,2,Flamengo RJ,3.0,3.2,2.4,1.85,2012,1.95
+9,Palmeiras,Brazil,2012-12-01,BR1,1,1,3,Santos,6.0,4.0,1.53,1.8,2012,2.0
+10,Nautico,Brazil,2012-11-25,BR1,1,1,1,Bahia,5.5,3.75,1.62,2.08,2012,1.73
+11,Atletico-MG,Brazil,2012-11-25,BR1,1,3,2,Botafogo RJ,2.7,3.4,2.5,1.8,2012,2.0
+12,Coritiba,Brazil,2012-11-25,BR1,1,1,2,Cruzeiro,3.1,3.4,2.25,1.8,2012,2.0
+13,Gremio,Brazil,2012-11-25,BR1,1,4,2,Figueirense,1.67,3.75,5.0,1.73,2012,2.08
+14,Portuguesa,Brazil,2012-11-25,BR1,1,2,0,Internacional,3.0,3.4,2.29,1.95,2012,1.85
+15,Atletico GO,Brazil,2012-11-25,BR1,1,2,1,Palmeiras,3.75,3.6,1.91,1.57,2012,2.35
+16,Sao Paulo,Brazil,2012-11-25,BR1,1,0,0,Ponte Preta,3.6,3.5,2.0,1.95,2012,1.85
+17,Fluminense,Brazil,2012-11-25,BR1,1,1,1,Sport Recife,3.9,3.8,1.83,1.7,2012,2.1
+18,Santos,Brazil,2012-11-24,BR1,1,1,1,Corinthians,4.75,3.6,1.75,1.95,2012,1.85
+19,Flamengo RJ,Brazil,2012-11-24,BR1,1,1,1,Vasco,2.29,3.2,3.2,2.04,2012,1.75
+20,Atletico GO,Brazil,2012-11-18,BR1,1,2,2,Atletico-MG,12.0,5.5,1.25,1.53,2012,2.4
+21,Ponte Preta,Brazil,2012-11-18,BR1,1,0,1,Bahia,4.75,3.6,1.73,2.04,2012,1.75
+22,Palmeiras,Brazil,2012-11-18,BR1,1,1,1,Flamengo RJ,2.8,3.4,2.4,1.7,2012,2.1
+23,Cruzeiro,Brazil,2012-11-18,BR1,1,2,0,Fluminense,5.0,3.6,1.7,1.67,2012,2.15
+24,Corinthians,Brazil,2012-11-18,BR1,1,2,0,Internacional,3.3,3.3,2.2,2.04,2012,1.75
+25,Gremio,Brazil,2012-11-18,BR1,1,2,2,Portuguesa,2.63,3.3,2.63,2.08,2012,1.73
+26,Nautico,Brazil,2012-11-18,BR1,1,1,2,Sao Paulo,9.0,5.0,1.33,1.65,2012,2.2
+27,Botafogo RJ,Brazil,2012-11-18,BR1,1,0,2,Sport Recife,3.0,3.5,2.25,1.7,2012,2.1
+28,Vasco,Brazil,2012-11-17,BR1,1,2,1,Coritiba,4.75,3.75,1.7,1.8,2012,2.0
+29,Figueirense,Brazil,2012-11-17,BR1,1,0,2,Santos,9.0,5.0,1.33,1.5,2012,2.5
+30,Coritiba,Brazil,2012-11-11,BR1,1,1,5,Corinthians,4.5,3.5,1.8,2.0,2012,1.8
+31,Bahia,Brazil,2012-11-11,BR1,1,1,3,Cruzeiro,3.5,3.3,2.1,2.25,2012,1.62
+32,Sport Recife,Brazil,2012-11-11,BR1,1,1,1,Figueirense,2.63,3.5,2.5,1.67,2012,2.15
+33,Sao Paulo,Brazil,2012-11-11,BR1,1,1,2,Gremio,2.9,3.3,2.38,1.95,2012,1.85
+34,Flamengo RJ,Brazil,2012-11-11,BR1,1,1,0,Nautico,5.25,3.6,1.67,1.95,2012,1.85
+35,Fluminense,Brazil,2012-11-11,BR1,1,3,2,Palmeiras,2.8,3.4,2.4,1.85,2012,1.95
+36,Internacional,Brazil,2012-11-11,BR1,1,0,1,Ponte Preta,2.9,3.3,2.4,1.95,2012,1.85
+37,Atletico-MG,Brazil,2012-11-11,BR1,1,1,1,Vasco,2.5,3.3,2.8,1.8,2012,2.0
+38,Santos,Brazil,2012-11-10,BR1,1,1,2,Atletico GO,1.67,4.0,4.75,1.6,2012,2.29
+39,Portuguesa,Brazil,2012-11-10,BR1,1,0,3,Botafogo RJ,4.5,3.75,1.73,1.95,2012,1.85
+40,Corinthians,Brazil,2012-11-04,BR1,1,2,0,Atletico GO,1.7,3.8,4.75,1.85,2012,1.95
+41,Atletico-MG,Brazil,2012-11-04,BR1,1,0,1,Coritiba,2.63,3.5,2.5,1.75,2012,2.04
+42,Figueirense,Brazil,2012-11-04,BR1,1,0,1,Flamengo RJ,5.5,4.0,1.57,1.85,2012,1.95
+43,Internacional,Brazil,2012-11-04,BR1,1,0,3,Nautico,3.2,3.3,2.25,2.04,2012,1.75
+44,Botafogo RJ,Brazil,2012-11-04,BR1,1,2,2,Palmeiras,3.9,3.4,1.95,2.0,2012,1.8
+45,Bahia,Brazil,2012-11-04,BR1,1,1,0,Portuguesa,4.2,3.3,1.91,2.04,2012,1.75
+46,Fluminense,Brazil,2012-11-04,BR1,1,1,1,Sao Paulo,3.75,3.6,1.91,1.75,2012,2.04
+47,Sport Recife,Brazil,2012-11-04,BR1,1,3,0,Vasco,7.0,4.33,1.44,1.6,2012,2.29
+48,Santos,Brazil,2012-11-03,BR1,1,4,0,Cruzeiro,2.9,3.25,2.4,1.85,2012,1.95
+49,Ponte Preta,Brazil,2012-11-03,BR1,1,0,1,Gremio,8.0,4.5,1.4,1.65,2012,2.2
+50,Flamengo RJ,Brazil,2012-11-01,BR1,1,1,1,Atletico-MG,6.0,3.8,1.57,1.65,2012,2.2
+51,Gremio,Brazil,2012-10-27,BR1,1,1,1,Bahia,2.8,3.25,2.5,2.1,2012,1.7
+52,Atletico GO,Brazil,2012-10-27,BR1,1,0,4,Botafogo RJ,7.0,4.33,1.44,1.62,2012,2.25
+53,Vasco,Brazil,2012-10-27,BR1,1,0,1,Corinthians,4.33,3.5,1.83,2.04,2012,1.75
+54,Portuguesa,Brazil,2012-10-27,BR1,1,0,0,Figueirense,2.8,3.5,2.38,1.7,2012,2.1
+55,Palmeiras,Brazil,2012-10-27,BR1,1,1,2,Internacional,4.5,3.75,1.73,1.95,2012,1.85
+56,Sao Paulo,Brazil,2012-10-27,BR1,1,4,2,Sport Recife,2.38,3.5,2.8,1.95,2012,1.85
+57,Coritiba,Brazil,2012-10-26,BR1,1,1,2,Fluminense,5.5,3.8,1.62,1.62,2012,2.25
+58,Cruzeiro,Brazil,2012-10-26,BR1,1,0,1,Ponte Preta,3.2,3.3,2.25,1.95,2012,1.85
+59,Nautico,Brazil,2012-10-26,BR1,1,0,0,Santos,6.0,4.09,1.53,1.6,2012,2.29
+60,Botafogo RJ,Brazil,2012-10-25,BR1,1,2,0,Figueirense,2.75,3.5,2.4,1.8,2012,2.0
+61,Internacional,Brazil,2012-10-25,BR1,1,2,1,Vasco,3.25,3.25,2.25,2.1,2012,1.7
+62,Sport Recife,Brazil,2012-10-21,BR1,1,1,0,Atletico GO,2.8,3.4,2.4,1.7,2012,2.1
+63,Fluminense,Brazil,2012-10-21,BR1,1,2,3,Atletico-MG,3.5,3.3,2.1,1.8,2012,2.0
+64,Sao Paulo,Brazil,2012-10-21,BR1,1,0,1,Flamengo RJ,2.29,3.25,3.1,2.1,2012,1.7
+65,Portuguesa,Brazil,2012-10-21,BR1,1,0,0,Nautico,5.0,3.6,1.7,2.0,2012,1.8
+66,Santos,Brazil,2012-10-21,BR1,1,0,1,Ponte Preta,2.29,3.4,3.0,1.75,2012,2.04
+67,Bahia,Brazil,2012-10-20,BR1,1,1,1,Corinthians,4.75,3.5,1.75,2.04,2012,1.75
+68,Coritiba,Brazil,2012-10-20,BR1,1,0,0,Gremio,6.0,4.0,1.57,1.8,2012,2.0
+69,Cruzeiro,Brazil,2012-10-20,BR1,1,0,2,Palmeiras,4.0,3.6,1.85,1.95,2012,1.85
+70,Vasco,Brazil,2012-10-19,BR1,1,2,3,Botafogo RJ,2.75,3.5,2.4,2.1,2012,1.7
+71,Atletico GO,Brazil,2012-10-19,BR1,1,0,2,Sao Paulo,10.0,6.0,1.25,1.57,2012,2.35
+72,Ponte Preta,Brazil,2012-10-19,BR1,1,1,3,Sport Recife,3.5,3.5,2.04,1.95,2012,1.85
+73,Palmeiras,Brazil,2012-10-18,BR1,1,1,0,Bahia,3.2,3.3,2.25,2.15,2012,1.67
+74,Nautico,Brazil,2012-10-18,BR1,1,1,2,Coritiba,6.0,4.0,1.53,1.6,2012,2.29
+75,Corinthians,Brazil,2012-10-18,BR1,1,0,2,Cruzeiro,3.75,3.4,2.0,2.1,2012,1.7
+76,Gremio,Brazil,2012-10-18,BR1,1,2,2,Fluminense,3.5,3.4,2.04,1.85,2012,1.95
+77,Figueirense,Brazil,2012-10-18,BR1,1,3,2,Internacional,8.0,4.75,1.36,1.57,2012,2.35
+78,Flamengo RJ,Brazil,2012-10-18,BR1,1,0,0,Portuguesa,3.5,3.4,2.04,1.95,2012,1.85
+79,Atletico-MG,Brazil,2012-10-18,BR1,1,2,2,Santos,3.3,3.5,2.1,1.8,2012,2.0
+80,Sport Recife,Brazil,2012-10-14,BR1,1,1,2,Atletico-MG,10.0,5.5,1.29,1.44,2012,2.7
+81,Bahia,Brazil,2012-10-14,BR1,1,1,2,Coritiba,5.5,3.6,1.65,1.95,2012,1.85
+82,Ponte Preta,Brazil,2012-10-14,BR1,1,1,2,Fluminense,6.5,4.2,1.5,1.73,2012,2.08
+83,Botafogo RJ,Brazil,2012-10-14,BR1,1,1,1,Gremio,5.75,3.8,1.6,1.73,2012,2.08
+84,Palmeiras,Brazil,2012-10-14,BR1,1,0,1,Nautico,4.5,3.75,1.73,1.8,2012,2.0
+85,Corinthians,Brazil,2012-10-14,BR1,1,1,1,Portuguesa,2.8,3.3,2.5,2.0,2012,1.8
+86,Vasco,Brazil,2012-10-14,BR1,1,0,2,Santos,3.5,3.3,2.1,2.04,2012,1.75
+87,Figueirense,Brazil,2012-10-14,BR1,1,0,2,Sao Paulo,12.0,5.5,1.25,1.5,2012,2.5
+88,Internacional,Brazil,2012-10-13,BR1,1,1,3,Atletico GO,1.85,3.6,4.0,2.0,2012,1.8
+89,Cruzeiro,Brazil,2012-10-13,BR1,1,1,1,Flamengo RJ,3.6,3.4,2.04,1.85,2012,1.95
+90,Coritiba,Brazil,2012-10-12,BR1,1,1,0,Palmeiras,3.6,3.5,2.0,1.95,2012,1.85
+91,Gremio,Brazil,2012-10-12,BR1,1,3,1,Sport Recife,3.0,3.25,2.38,1.85,2012,1.95
+92,Fluminense,Brazil,2012-10-11,BR1,1,2,0,Bahia,2.4,3.2,3.0,2.25,2012,1.62
+93,Santos,Brazil,2012-10-11,BR1,1,2,0,Botafogo RJ,4.2,4.0,1.75,1.95,2012,1.85
+94,Flamengo RJ,Brazil,2012-10-11,BR1,1,2,3,Corinthians,4.33,3.6,1.8,1.95,2012,1.85
+95,Portuguesa,Brazil,2012-10-11,BR1,1,0,2,Cruzeiro,3.0,3.3,2.29,1.85,2012,1.95
+96,Atletico GO,Brazil,2012-10-11,BR1,1,1,3,Figueirense,3.8,3.6,1.91,1.75,2012,2.04
+97,Atletico-MG,Brazil,2012-10-11,BR1,1,0,3,Internacional,3.5,3.3,2.1,1.95,2012,1.85
+98,Nautico,Brazil,2012-10-11,BR1,1,1,2,Ponte Preta,5.25,4.0,1.6,1.75,2012,2.04
+99,Sao Paulo,Brazil,2012-10-11,BR1,1,2,0,Vasco,2.63,3.3,2.63,2.2,2012,1.65
+100,Vasco,Brazil,2012-10-06,BR1,1,1,0,Atletico GO,2.1,3.25,3.5,2.1,2012,1.7
+101,Figueirense,Brazil,2012-10-06,BR1,1,0,6,Atletico-MG,9.5,4.75,1.33,1.6,2012,2.29
+102,Botafogo RJ,Brazil,2012-10-06,BR1,1,0,1,Fluminense,3.4,3.4,2.1,1.9,2012,1.9
+103,Cruzeiro,Brazil,2012-10-06,BR1,1,1,2,Gremio,6.5,4.2,1.5,1.7,2012,2.1
+104,Corinthians,Brazil,2012-10-06,BR1,1,1,2,Nautico,2.9,3.3,2.38,2.08,2012,1.73
+105,Internacional,Brazil,2012-10-06,BR1,1,1,1,Santos,2.7,3.1,2.7,2.35,2012,1.57
+106,Palmeiras,Brazil,2012-10-06,BR1,1,0,3,Sao Paulo,3.75,3.3,2.0,1.95,2012,1.95
+107,Ponte Preta,Brazil,2012-10-05,BR1,1,0,1,Coritiba,4.75,3.5,1.75,1.7,2012,2.1
+108,Bahia,Brazil,2012-10-05,BR1,1,0,0,Flamengo RJ,4.0,3.5,1.91,2.08,2012,1.73
+109,Sport Recife,Brazil,2012-10-05,BR1,1,1,5,Portuguesa,5.5,4.0,1.57,1.8,2012,2.0
+110,Botafogo RJ,Brazil,2012-09-30,BR1,1,0,2,Bahia,2.88,3.3,2.4,2.04,2012,1.75
+111,Sport Recife,Brazil,2012-09-30,BR1,1,0,3,Corinthians,7.0,3.9,1.5,2.0,2012,1.8
+112,Sao Paulo,Brazil,2012-09-30,BR1,1,1,1,Coritiba,2.9,3.3,2.4,1.95,2012,1.85
+113,Fluminense,Brazil,2012-09-30,BR1,1,1,0,Flamengo RJ,2.1,3.25,3.6,2.0,2012,1.8
+114,Santos,Brazil,2012-09-30,BR1,1,1,1,Gremio,5.0,3.75,1.67,1.67,2012,2.15
+115,Ponte Preta,Brazil,2012-09-30,BR1,1,0,3,Palmeiras,5.5,3.8,1.62,1.85,2012,1.95
+116,Internacional,Brazil,2012-09-29,BR1,1,0,0,Cruzeiro,2.5,3.25,2.8,2.1,2012,1.7
+117,Atletico GO,Brazil,2012-09-29,BR1,1,0,2,Nautico,4.75,3.75,1.7,1.73,2012,2.08
+118,Atletico-MG,Brazil,2012-09-29,BR1,1,1,1,Portuguesa,2.7,3.2,2.63,2.04,2012,1.75
+119,Figueirense,Brazil,2012-09-29,BR1,1,1,3,Vasco,6.0,4.09,1.53,1.62,2012,2.25
+120,Atletico-MG,Brazil,2012-09-27,BR1,1,1,2,Flamengo RJ,2.25,3.25,3.25,2.1,2012,1.7
+121,Flamengo RJ,Brazil,2012-09-23,BR1,1,2,1,Atletico GO,3.2,3.4,2.2,2.0,2012,1.8
+122,Gremio,Brazil,2012-09-23,BR1,1,0,0,Atletico-MG,4.0,3.5,1.91,2.0,2012,1.8
+123,Corinthians,Brazil,2012-09-23,BR1,1,2,2,Botafogo RJ,3.6,3.3,2.04,2.35,2012,1.57
+124,Bahia,Brazil,2012-09-23,BR1,1,1,3,Internacional,7.0,4.33,1.44,1.8,2012,2.0
+125,Vasco,Brazil,2012-09-23,BR1,1,0,0,Ponte Preta,2.75,3.3,2.5,2.1,2012,1.7
+126,Portuguesa,Brazil,2012-09-23,BR1,1,3,1,Santos,3.4,3.3,2.15,2.1,2012,1.7
+127,Cruzeiro,Brazil,2012-09-23,BR1,1,0,1,Sao Paulo,6.0,3.75,1.57,1.8,2012,2.0
+128,Coritiba,Brazil,2012-09-23,BR1,1,0,1,Sport Recife,3.3,3.4,2.15,1.8,2012,2.0
+129,Palmeiras,Brazil,2012-09-22,BR1,1,3,1,Figueirense,2.6,3.3,2.7,2.0,2012,1.8
+130,Nautico,Brazil,2012-09-22,BR1,1,1,2,Fluminense,9.0,5.0,1.33,1.73,2012,2.08
+131,Figueirense,Brazil,2012-09-16,BR1,1,1,2,Bahia,4.33,3.5,1.83,2.04,2012,1.75
+132,Santos,Brazil,2012-09-16,BR1,1,2,1,Coritiba,3.6,3.5,2.0,1.7,2012,2.1
+133,Vasco,Brazil,2012-09-16,BR1,1,1,1,Cruzeiro,2.75,3.3,2.5,2.08,2012,1.73
+134,Gremio,Brazil,2012-09-16,BR1,1,1,1,Flamengo RJ,2.5,3.2,2.8,1.95,2012,1.85
+135,Sport Recife,Brazil,2012-09-16,BR1,1,2,2,Internacional,9.0,5.0,1.33,1.8,2012,2.0
+136,Atletico-MG,Brazil,2012-09-16,BR1,1,0,1,Nautico,2.4,3.3,2.9,1.85,2012,1.95
+137,Corinthians,Brazil,2012-09-16,BR1,1,2,0,Palmeiras,2.8,3.2,2.5,2.35,2012,1.57
+138,Botafogo RJ,Brazil,2012-09-16,BR1,1,0,0,Ponte Preta,3.1,3.4,2.25,1.95,2012,1.85
+139,Atletico GO,Brazil,2012-09-15,BR1,1,2,1,Fluminense,6.5,4.09,1.5,1.8,2012,2.0
+140,Portuguesa,Brazil,2012-09-15,BR1,1,1,3,Sao Paulo,5.0,3.75,1.67,1.75,2012,2.04
+141,Internacional,Brazil,2012-09-14,BR1,1,1,1,Botafogo RJ,3.4,3.3,2.15,2.08,2012,1.73
+142,Nautico,Brazil,2012-09-14,BR1,1,0,2,Gremio,10.0,5.5,1.3,1.6,2012,2.29
+143,Coritiba,Brazil,2012-09-13,BR1,1,2,1,Atletico GO,3.2,3.4,2.2,1.95,2012,1.85
+144,Sao Paulo,Brazil,2012-09-13,BR1,1,0,1,Atletico-MG,4.5,3.75,1.73,1.9,2012,1.9
+145,Ponte Preta,Brazil,2012-09-13,BR1,1,1,1,Corinthians,4.5,3.75,1.75,1.75,2012,2.04
+146,Cruzeiro,Brazil,2012-09-13,BR1,1,0,2,Figueirense,3.1,3.4,2.25,2.04,2012,1.75
+147,Fluminense,Brazil,2012-09-13,BR1,1,2,0,Portuguesa,2.38,3.25,3.0,2.0,2012,1.8
+148,Flamengo RJ,Brazil,2012-09-13,BR1,1,0,2,Santos,4.75,3.75,1.7,1.73,2012,2.08
+149,Bahia,Brazil,2012-09-13,BR1,1,1,1,Sport Recife,2.9,3.3,2.4,2.15,2012,1.67
+150,Palmeiras,Brazil,2012-09-13,BR1,1,1,3,Vasco,3.25,3.25,2.25,2.15,2012,1.67
+151,Portuguesa,Brazil,2012-09-09,BR1,1,1,1,Atletico GO,2.9,3.3,2.4,2.04,2012,1.75
+152,Palmeiras,Brazil,2012-09-09,BR1,1,0,3,Atletico-MG,5.5,3.8,1.62,1.8,2012,2.0
+153,Nautico,Brazil,2012-09-09,BR1,1,1,3,Botafogo RJ,5.0,3.75,1.67,1.8,2012,2.0
+154,Gremio,Brazil,2012-09-09,BR1,1,1,3,Corinthians,2.8,3.25,2.5,2.15,2012,1.67
+155,Fluminense,Brazil,2012-09-09,BR1,1,1,0,Internacional,2.8,3.25,2.5,2.15,2012,1.67
+156,Sao Paulo,Brazil,2012-09-09,BR1,1,0,0,Santos,2.25,3.4,3.1,1.95,2012,1.85
+157,Cruzeiro,Brazil,2012-09-09,BR1,1,1,2,Sport Recife,2.7,3.25,2.6,2.08,2012,1.73
+158,Bahia,Brazil,2012-09-09,BR1,1,4,0,Vasco,5.5,3.8,1.62,2.0,2012,1.8
+159,Flamengo RJ,Brazil,2012-09-08,BR1,1,0,3,Coritiba,5.0,3.8,1.65,1.8,2012,2.0
+160,Figueirense,Brazil,2012-09-08,BR1,1,2,2,Ponte Preta,4.5,3.6,1.75,1.7,2012,2.1
+161,Santos,Brazil,2012-09-07,BR1,1,1,3,Fluminense,5.25,3.75,1.67,1.85,2012,1.85
+162,Sport Recife,Brazil,2012-09-07,BR1,1,1,3,Palmeiras,7.0,3.75,1.53,2.08,2012,1.73
+163,Atletico-MG,Brazil,2012-09-06,BR1,1,0,0,Bahia,2.5,3.25,2.8,2.25,2012,1.62
+164,Botafogo RJ,Brazil,2012-09-06,BR1,1,3,1,Cruzeiro,3.75,3.6,1.91,1.85,2012,1.95
+165,Corinthians,Brazil,2012-09-06,BR1,1,0,1,Figueirense,2.7,3.2,2.63,2.2,2012,1.65
+166,Ponte Preta,Brazil,2012-09-06,BR1,1,1,0,Flamengo RJ,3.6,3.4,2.04,1.85,2012,1.95
+167,Atletico GO,Brazil,2012-09-06,BR1,1,1,2,Gremio,9.5,4.5,1.36,1.7,2012,2.1
+168,Vasco,Brazil,2012-09-06,BR1,1,1,1,Nautico,3.1,3.4,2.25,2.15,2012,1.67
+169,Coritiba,Brazil,2012-09-06,BR1,1,0,3,Portuguesa,3.75,3.4,2.0,1.73,2012,2.08
+170,Internacional,Brazil,2012-09-06,BR1,1,1,1,Sao Paulo,4.33,3.5,1.83,2.04,2012,1.75
+171,Sao Paulo,Brazil,2012-09-02,BR1,1,0,1,Bahia,2.45,3.1,3.0,2.15,2012,1.67
+172,Coritiba,Brazil,2012-09-02,BR1,1,0,2,Botafogo RJ,4.0,3.4,1.91,1.8,2012,2.0
+173,Atletico-MG,Brazil,2012-09-02,BR1,1,0,1,Corinthians,3.1,3.3,2.25,2.15,2012,1.67
+174,Nautico,Brazil,2012-09-02,BR1,1,0,3,Cruzeiro,5.5,4.0,1.57,1.73,2012,2.08
+175,Flamengo RJ,Brazil,2012-09-02,BR1,1,1,4,Internacional,5.0,3.75,1.67,2.04,2012,1.75
+176,Atletico GO,Brazil,2012-09-02,BR1,1,1,3,Ponte Preta,3.75,3.4,2.0,2.0,2012,1.8
+177,Santos,Brazil,2012-09-02,BR1,1,1,2,Sport Recife,2.9,3.25,2.4,2.2,2012,1.65
+178,Portuguesa,Brazil,2012-09-02,BR1,1,0,2,Vasco,5.0,3.75,1.67,2.0,2012,1.8
+179,Fluminense,Brazil,2012-09-01,BR1,1,2,2,Figueirense,2.38,3.25,3.0,2.25,2012,1.62
+180,Gremio,Brazil,2012-09-01,BR1,1,0,0,Palmeiras,2.88,3.2,2.5,2.15,2012,1.67
+181,Sport Recife,Brazil,2012-08-31,BR1,1,1,1,Flamengo RJ,6.0,4.0,1.55,2.0,2012,1.8
+182,Botafogo RJ,Brazil,2012-08-31,BR1,1,0,4,Sao Paulo,5.0,3.75,1.67,1.7,2012,2.1
+183,Cruzeiro,Brazil,2012-08-30,BR1,1,2,0,Atletico GO,3.1,3.4,2.25,1.9,2012,1.9
+184,Ponte Preta,Brazil,2012-08-30,BR1,1,2,2,Atletico-MG,8.5,4.33,1.4,1.65,2012,2.2
+185,Internacional,Brazil,2012-08-30,BR1,1,0,1,Coritiba,2.7,3.25,2.6,2.15,2012,1.67
+186,Corinthians,Brazil,2012-08-30,BR1,1,1,1,Fluminense,3.5,3.3,2.1,2.1,2012,1.7
+187,Vasco,Brazil,2012-08-30,BR1,1,0,2,Gremio,4.33,3.5,1.83,2.04,2012,1.75
+188,Figueirense,Brazil,2012-08-30,BR1,1,2,3,Nautico,4.75,3.6,1.73,1.85,2012,1.95
+189,Palmeiras,Brazil,2012-08-30,BR1,1,0,3,Portuguesa,2.5,3.2,2.88,2.25,2012,1.62
+190,Bahia,Brazil,2012-08-30,BR1,1,3,1,Santos,8.5,4.75,1.36,1.67,2012,2.15
+191,Atletico GO,Brazil,2012-08-26,BR1,1,1,1,Bahia,3.5,3.3,2.1,2.04,2012,1.75
+192,Flamengo RJ,Brazil,2012-08-26,BR1,1,0,0,Botafogo RJ,3.25,3.3,2.2,2.04,2012,1.75
+193,Sao Paulo,Brazil,2012-08-26,BR1,1,2,1,Corinthians,3.2,3.25,2.25,2.08,2012,1.73
+194,Atletico-MG,Brazil,2012-08-26,BR1,1,2,2,Cruzeiro,2.2,3.25,3.3,2.0,2012,1.8
+195,Coritiba,Brazil,2012-08-26,BR1,1,1,3,Figueirense,2.5,3.3,2.75,1.8,2012,2.0
+196,Gremio,Brazil,2012-08-26,BR1,1,1,0,Internacional,3.3,3.25,2.2,2.15,2012,1.67
+197,Portuguesa,Brazil,2012-08-26,BR1,1,1,2,Ponte Preta,2.8,3.2,2.5,2.08,2012,1.73
+198,Nautico,Brazil,2012-08-26,BR1,1,0,0,Sport Recife,2.8,3.25,2.5,2.0,2012,1.8
+199,Santos,Brazil,2012-08-25,BR1,1,2,1,Palmeiras,2.8,3.25,2.5,1.9,2012,1.9
+200,Fluminense,Brazil,2012-08-25,BR1,1,2,1,Vasco,2.25,3.25,3.2,2.1,2012,1.7
+201,Palmeiras,Brazil,2012-08-19,BR1,1,1,2,Atletico GO,2.7,3.2,2.6,2.1,2012,1.7
+202,Botafogo RJ,Brazil,2012-08-19,BR1,1,2,3,Atletico-MG,4.75,3.5,1.75,2.0,2012,1.8
+203,Cruzeiro,Brazil,2012-08-19,BR1,1,0,4,Coritiba,4.2,3.5,1.85,1.7,2012,2.1
+204,Vasco,Brazil,2012-08-19,BR1,1,0,1,Flamengo RJ,2.5,3.1,2.9,2.04,2012,1.75
+205,Figueirense,Brazil,2012-08-19,BR1,1,0,4,Gremio,8.0,4.4,1.4,1.7,2012,2.1
+206,Internacional,Brazil,2012-08-19,BR1,1,1,1,Portuguesa,2.25,3.25,3.2,2.25,2012,1.62
+207,Corinthians,Brazil,2012-08-19,BR1,1,2,3,Santos,3.3,3.25,2.2,2.15,2012,1.67
+208,Ponte Preta,Brazil,2012-08-19,BR1,1,0,3,Sao Paulo,5.5,3.75,1.62,1.73,2012,2.08
+209,Sport Recife,Brazil,2012-08-18,BR1,1,0,1,Fluminense,6.0,4.0,1.55,1.8,2012,2.0
+210,Bahia,Brazil,2012-08-18,BR1,1,0,1,Nautico,3.75,3.4,2.0,1.95,2012,1.85
+211,Internacional,Brazil,2012-08-17,BR1,1,0,1,Corinthians,4.0,3.25,2.0,2.5,2012,1.5
+212,Santos,Brazil,2012-08-17,BR1,1,3,1,Figueirense,2.63,3.3,2.63,2.0,2012,1.8
+213,Coritiba,Brazil,2012-08-17,BR1,1,2,2,Vasco,4.75,3.6,1.75,1.73,2012,2.08
+214,Atletico-MG,Brazil,2012-08-16,BR1,1,1,1,Atletico GO,2.1,3.3,3.5,2.0,2012,1.8
+215,Sport Recife,Brazil,2012-08-16,BR1,1,0,2,Botafogo RJ,8.0,4.5,1.4,1.75,2012,2.04
+216,Fluminense,Brazil,2012-08-16,BR1,1,1,1,Cruzeiro,2.88,3.2,2.5,2.25,2012,1.62
+217,Portuguesa,Brazil,2012-08-16,BR1,1,2,1,Gremio,5.5,3.75,1.62,1.8,2012,2.0
+218,Sao Paulo,Brazil,2012-08-16,BR1,1,0,3,Nautico,2.88,3.4,2.38,2.0,2012,1.8
+219,Flamengo RJ,Brazil,2012-08-16,BR1,1,0,1,Palmeiras,4.5,3.5,1.8,1.85,2012,1.95
+220,Bahia,Brazil,2012-08-16,BR1,1,2,0,Ponte Preta,6.0,3.8,1.57,1.73,2012,2.08
+221,Vasco,Brazil,2012-08-12,BR1,1,0,1,Atletico-MG,4.75,3.5,1.75,2.0,2012,1.8
+222,Corinthians,Brazil,2012-08-12,BR1,1,2,1,Coritiba,2.63,3.3,2.6,2.1,2012,1.7
+223,Nautico,Brazil,2012-08-12,BR1,1,0,2,Flamengo RJ,4.33,3.5,1.83,1.8,2012,2.0
+224,Palmeiras,Brazil,2012-08-12,BR1,1,0,1,Fluminense,4.5,3.5,1.8,2.04,2012,1.75
+225,Ponte Preta,Brazil,2012-08-12,BR1,1,1,2,Internacional,6.0,4.0,1.53,2.0,2012,1.8
+226,Botafogo RJ,Brazil,2012-08-12,BR1,1,1,1,Portuguesa,2.9,3.3,2.4,2.04,2012,1.75
+227,Gremio,Brazil,2012-08-12,BR1,1,2,1,Sao Paulo,3.25,3.3,2.2,2.04,2012,1.75
+228,Cruzeiro,Brazil,2012-08-11,BR1,1,1,0,Bahia,2.5,3.25,2.8,2.25,2012,1.62
+229,Atletico GO,Brazil,2012-08-11,BR1,1,2,2,Santos,4.5,3.5,1.8,1.9,2012,1.9
+230,Figueirense,Brazil,2012-08-11,BR1,1,1,0,Sport Recife,5.0,3.6,1.7,1.95,2012,1.95
+231,Coritiba,Brazil,2012-08-10,BR1,1,0,1,Atletico-MG,8.0,4.75,1.36,1.57,2012,2.35
+232,Sao Paulo,Brazil,2012-08-10,BR1,1,1,2,Fluminense,3.5,3.3,2.1,2.15,2012,1.67
+233,Gremio,Brazil,2012-08-10,BR1,1,0,0,Ponte Preta,2.5,3.3,2.75,1.75,2012,2.04
+234,Portuguesa,Brazil,2012-08-09,BR1,1,0,0,Bahia,3.0,3.0,2.5,2.1,2012,1.7
+235,Palmeiras,Brazil,2012-08-09,BR1,1,2,1,Botafogo RJ,4.33,3.5,1.83,2.04,2012,1.75
+236,Atletico GO,Brazil,2012-08-09,BR1,1,1,1,Corinthians,6.5,3.75,1.53,2.04,2012,1.75
+237,Flamengo RJ,Brazil,2012-08-09,BR1,1,2,0,Figueirense,3.3,3.25,2.2,2.0,2012,1.8
+238,Nautico,Brazil,2012-08-09,BR1,1,0,0,Internacional,8.0,4.5,1.4,1.7,2012,2.1
+239,Cruzeiro,Brazil,2012-08-09,BR1,1,2,4,Santos,3.0,3.2,2.38,2.0,2012,1.8
+240,Vasco,Brazil,2012-08-09,BR1,1,2,0,Sport Recife,2.4,3.25,2.9,2.15,2012,1.67
+241,Fluminense,Brazil,2012-08-05,BR1,1,2,0,Coritiba,2.7,3.4,2.5,1.8,2012,2.0
+242,Ponte Preta,Brazil,2012-08-05,BR1,1,2,1,Cruzeiro,5.5,3.8,1.62,1.75,2012,2.04
+243,Bahia,Brazil,2012-08-05,BR1,1,1,3,Gremio,9.5,4.75,1.33,1.7,2012,2.1
+244,Santos,Brazil,2012-08-05,BR1,1,0,3,Nautico,3.6,3.3,2.04,2.1,2012,1.7
+245,Figueirense,Brazil,2012-08-05,BR1,1,0,2,Portuguesa,4.75,3.6,1.75,1.85,2012,1.95
+246,Sport Recife,Brazil,2012-08-05,BR1,1,0,1,Sao Paulo,8.0,4.5,1.4,1.65,2012,2.2
+247,Corinthians,Brazil,2012-08-05,BR1,1,0,0,Vasco,3.4,3.4,2.1,2.15,2012,1.67
+248,Botafogo RJ,Brazil,2012-08-04,BR1,1,2,1,Atletico GO,2.38,3.4,2.88,1.95,2012,1.85
+249,Internacional,Brazil,2012-08-04,BR1,1,1,0,Palmeiras,3.25,3.25,2.25,2.35,2012,1.57
+250,Corinthians,Brazil,2012-07-29,BR1,1,0,0,Bahia,2.38,3.2,3.0,2.2,2012,1.65
+251,Figueirense,Brazil,2012-07-29,BR1,1,0,1,Botafogo RJ,6.5,4.0,1.5,1.73,2012,2.08
+252,Palmeiras,Brazil,2012-07-29,BR1,1,1,2,Cruzeiro,4.2,3.3,1.91,2.0,2012,1.8
+253,Atletico-MG,Brazil,2012-07-29,BR1,1,0,0,Fluminense,3.25,3.3,2.2,1.8,2012,2.0
+254,Nautico,Brazil,2012-07-29,BR1,1,1,3,Portuguesa,5.5,3.8,1.62,1.7,2012,2.1
+255,Ponte Preta,Brazil,2012-07-29,BR1,1,1,2,Santos,3.75,3.4,2.0,1.9,2012,1.9
+256,Flamengo RJ,Brazil,2012-07-29,BR1,1,1,4,Sao Paulo,5.0,3.75,1.67,1.85,2012,1.95
+257,Atletico GO,Brazil,2012-07-29,BR1,1,0,0,Sport Recife,3.75,3.3,2.0,1.85,2012,1.95
+258,Gremio,Brazil,2012-07-28,BR1,1,1,2,Coritiba,2.8,3.4,2.4,1.85,2012,1.95
+259,Vasco,Brazil,2012-07-28,BR1,1,0,0,Internacional,3.75,3.4,2.0,2.08,2012,1.73
+260,Santos,Brazil,2012-07-27,BR1,1,0,2,Atletico-MG,6.0,4.0,1.53,1.8,2012,2.0
+261,Portuguesa,Brazil,2012-07-27,BR1,1,0,0,Flamengo RJ,4.75,3.5,1.75,1.85,2012,1.95
+262,Bahia,Brazil,2012-07-27,BR1,1,2,0,Palmeiras,7.5,3.8,1.5,1.8,2012,2.0
+263,Sao Paulo,Brazil,2012-07-26,BR1,1,3,4,Atletico GO,2.6,3.3,2.63,2.04,2012,1.75
+264,Cruzeiro,Brazil,2012-07-26,BR1,1,0,2,Corinthians,4.0,3.4,1.91,2.15,2012,1.67
+265,Internacional,Brazil,2012-07-26,BR1,1,1,0,Figueirense,2.63,3.3,2.6,2.08,2012,1.73
+266,Fluminense,Brazil,2012-07-26,BR1,1,0,1,Gremio,4.75,3.6,1.73,1.85,2012,1.95
+267,Coritiba,Brazil,2012-07-26,BR1,1,4,3,Nautico,3.25,3.5,2.1,1.73,2012,2.08
+268,Sport Recife,Brazil,2012-07-26,BR1,1,1,1,Ponte Preta,5.0,3.75,1.67,1.62,2012,2.25
+269,Botafogo RJ,Brazil,2012-07-26,BR1,1,0,1,Vasco,2.8,3.4,2.4,1.8,2012,2.0
+270,Coritiba,Brazil,2012-07-22,BR1,1,2,2,Bahia,3.1,3.4,2.25,2.04,2012,1.75
+271,Gremio,Brazil,2012-07-22,BR1,1,1,0,Botafogo RJ,3.5,3.6,2.0,1.73,2012,2.08
+272,Portuguesa,Brazil,2012-07-22,BR1,1,1,1,Corinthians,5.0,3.8,1.67,1.95,2012,1.85
+273,Flamengo RJ,Brazil,2012-07-22,BR1,1,0,1,Cruzeiro,4.5,3.75,1.73,1.8,2012,2.0
+274,Sao Paulo,Brazil,2012-07-22,BR1,1,2,0,Figueirense,3.0,3.2,2.4,1.95,2012,1.85
+275,Atletico GO,Brazil,2012-07-22,BR1,1,1,4,Internacional,5.75,3.9,1.57,1.95,2012,1.85
+276,Nautico,Brazil,2012-07-22,BR1,1,0,3,Palmeiras,6.0,3.9,1.55,1.8,2012,2.0
+277,Fluminense,Brazil,2012-07-22,BR1,1,2,1,Ponte Preta,2.2,3.5,3.1,2.0,2012,1.8
+278,Atletico-MG,Brazil,2012-07-21,BR1,1,4,1,Sport Recife,2.1,3.4,3.5,1.85,2012,1.95
+279,Santos,Brazil,2012-07-21,BR1,1,0,2,Vasco,4.5,3.75,1.75,2.0,2012,1.8
+280,Figueirense,Brazil,2012-07-20,BR1,1,2,3,Atletico GO,4.0,3.4,1.95,1.9,2012,1.9
+281,Palmeiras,Brazil,2012-07-20,BR1,1,1,1,Coritiba,4.2,3.6,1.85,2.0,2012,1.8
+282,Bahia,Brazil,2012-07-20,BR1,1,0,4,Fluminense,9.0,5.0,1.33,1.7,2012,2.1
+283,Internacional,Brazil,2012-07-19,BR1,1,1,3,Atletico-MG,5.0,3.8,1.67,1.95,2012,1.85
+284,Corinthians,Brazil,2012-07-19,BR1,1,3,0,Flamengo RJ,2.9,3.3,2.4,2.08,2012,1.73
+285,Sport Recife,Brazil,2012-07-19,BR1,1,1,3,Gremio,8.5,4.75,1.36,1.6,2012,2.29
+286,Ponte Preta,Brazil,2012-07-19,BR1,1,0,3,Nautico,3.2,3.4,2.2,1.8,2012,2.0
+287,Cruzeiro,Brazil,2012-07-19,BR1,1,2,0,Portuguesa,2.8,3.3,2.5,2.04,2012,1.75
+288,Botafogo RJ,Brazil,2012-07-19,BR1,1,0,0,Santos,3.2,3.4,2.2,1.85,2012,1.95
+289,Vasco,Brazil,2012-07-19,BR1,1,1,0,Sao Paulo,4.2,3.6,1.83,1.95,2012,1.85
+290,Flamengo RJ,Brazil,2012-07-15,BR1,1,2,1,Bahia,3.0,3.3,2.29,2.0,2012,1.8
+291,Fluminense,Brazil,2012-07-15,BR1,1,1,1,Botafogo RJ,2.7,3.4,2.5,1.95,2012,1.85
+292,Gremio,Brazil,2012-07-15,BR1,1,3,1,Cruzeiro,4.2,3.5,1.85,1.95,2012,1.85
+293,Santos,Brazil,2012-07-15,BR1,1,0,0,Internacional,4.0,3.4,1.91,2.08,2012,1.73
+294,Sao Paulo,Brazil,2012-07-15,BR1,1,1,1,Palmeiras,2.75,3.2,2.63,2.2,2012,1.65
+295,Coritiba,Brazil,2012-07-15,BR1,1,1,4,Ponte Preta,3.2,3.3,2.2,2.04,2012,1.75
+296,Portuguesa,Brazil,2012-07-15,BR1,1,1,2,Sport Recife,3.2,3.4,2.2,1.95,2012,1.85
+297,Atletico GO,Brazil,2012-07-15,BR1,1,0,1,Vasco,5.5,3.8,1.62,1.7,2012,2.1
+298,Nautico,Brazil,2012-07-14,BR1,1,1,2,Corinthians,7.5,4.5,1.4,1.85,2012,1.95
+299,Atletico-MG,Brazil,2012-07-14,BR1,1,4,3,Figueirense,2.63,3.4,2.54,1.95,2012,1.85
+300,Botafogo RJ,Brazil,2012-07-12,BR1,1,3,1,Corinthians,3.75,3.4,2.0,2.1,2012,1.7
+301,Nautico,Brazil,2012-07-08,BR1,1,1,0,Atletico GO,5.0,4.09,1.62,1.8,2012,2.0
+302,Portuguesa,Brazil,2012-07-08,BR1,1,0,2,Atletico-MG,7.5,4.5,1.4,1.6,2012,2.29
+303,Vasco,Brazil,2012-07-08,BR1,1,1,1,Figueirense,3.0,3.4,2.29,2.04,2012,1.75
+304,Flamengo RJ,Brazil,2012-07-08,BR1,1,0,1,Fluminense,3.75,3.5,1.95,1.95,2012,1.85
+305,Palmeiras,Brazil,2012-07-08,BR1,1,0,1,Ponte Preta,3.3,3.25,2.2,2.15,2012,1.67
+306,Gremio,Brazil,2012-07-08,BR1,1,2,4,Santos,4.0,3.4,1.91,1.95,2012,1.85
+307,Coritiba,Brazil,2012-07-08,BR1,1,1,3,Sao Paulo,7.5,4.2,1.44,1.75,2012,2.04
+308,Corinthians,Brazil,2012-07-08,BR1,1,1,1,Sport Recife,3.1,3.3,2.29,2.08,2012,1.73
+309,Bahia,Brazil,2012-07-07,BR1,1,0,3,Botafogo RJ,6.0,4.09,1.53,1.67,2012,2.15
+310,Cruzeiro,Brazil,2012-07-07,BR1,1,1,2,Internacional,4.5,3.5,1.8,1.85,2012,1.95
+311,Internacional,Brazil,2012-07-01,BR1,1,1,1,Bahia,2.38,3.2,3.0,2.08,2012,1.73
+312,Sport Recife,Brazil,2012-07-01,BR1,1,3,2,Coritiba,5.0,3.8,1.65,1.95,2012,1.85
+313,Atletico GO,Brazil,2012-07-01,BR1,1,2,3,Flamengo RJ,4.75,3.75,1.7,1.7,2012,2.1
+314,Atletico-MG,Brazil,2012-07-01,BR1,1,1,0,Gremio,3.75,3.5,1.95,1.95,2012,1.85
+315,Figueirense,Brazil,2012-07-01,BR1,1,1,3,Palmeiras,4.0,3.3,1.95,2.04,2012,1.75
+316,Santos,Brazil,2012-07-01,BR1,1,0,0,Portuguesa,2.0,3.4,3.75,2.04,2012,1.75
+317,Sao Paulo,Brazil,2012-06-30,BR1,1,3,2,Cruzeiro,3.75,3.4,2.0,2.08,2012,1.73
+318,Fluminense,Brazil,2012-06-30,BR1,1,2,0,Nautico,2.29,3.4,3.0,2.15,2012,1.67
+319,Ponte Preta,Brazil,2012-06-30,BR1,1,2,3,Vasco,6.5,4.0,1.5,1.73,2012,2.08
+320,Fluminense,Brazil,2012-06-24,BR1,1,4,1,Atletico GO,2.5,3.25,2.8,2.0,2012,1.8
+321,Nautico,Brazil,2012-06-24,BR1,1,1,5,Atletico-MG,9.0,5.0,1.33,1.6,2012,2.29
+322,Ponte Preta,Brazil,2012-06-24,BR1,1,2,1,Botafogo RJ,5.5,3.75,1.62,1.7,2012,2.1
+323,Palmeiras,Brazil,2012-06-24,BR1,1,1,2,Corinthians,2.63,3.25,2.63,2.35,2012,1.57
+324,Bahia,Brazil,2012-06-24,BR1,1,1,1,Figueirense,6.0,3.75,1.57,1.7,2012,2.1
+325,Flamengo RJ,Brazil,2012-06-24,BR1,1,0,2,Gremio,5.5,3.75,1.62,1.85,2012,1.95
+326,Coritiba,Brazil,2012-06-24,BR1,1,2,2,Santos,5.5,4.0,1.57,1.85,2012,1.95
+327,Internacional,Brazil,2012-06-24,BR1,1,2,0,Sport Recife,2.25,3.25,3.25,2.15,2012,1.67
+328,Sao Paulo,Brazil,2012-06-23,BR1,1,0,1,Portuguesa,2.2,3.4,3.2,2.0,2012,1.8
+329,Cruzeiro,Brazil,2012-06-23,BR1,1,3,1,Vasco,4.75,3.6,1.75,1.85,2012,1.95
+330,Sport Recife,Brazil,2012-06-17,BR1,1,1,2,Bahia,4.0,3.4,1.91,2.04,2012,1.75
+331,Atletico GO,Brazil,2012-06-17,BR1,1,0,3,Coritiba,4.33,3.5,1.83,1.85,2012,1.95
+332,Santos,Brazil,2012-06-17,BR1,1,0,1,Flamengo RJ,5.0,3.75,1.67,1.85,2012,1.95
+333,Portuguesa,Brazil,2012-06-17,BR1,1,1,4,Fluminense,6.5,4.2,1.5,1.75,2012,2.04
+334,Gremio,Brazil,2012-06-17,BR1,1,0,1,Nautico,2.7,3.4,2.5,1.85,2012,1.95
+335,Vasco,Brazil,2012-06-17,BR1,1,1,1,Palmeiras,3.0,3.25,2.38,2.08,2012,1.73
+336,Corinthians,Brazil,2012-06-17,BR1,1,0,1,Ponte Preta,3.4,3.2,2.2,2.25,2012,1.62
+337,Atletico-MG,Brazil,2012-06-17,BR1,1,0,1,Sao Paulo,3.5,3.25,2.1,1.85,2012,1.95
+338,Figueirense,Brazil,2012-06-16,BR1,1,0,1,Cruzeiro,4.75,3.6,1.73,1.95,2012,1.85
+339,Botafogo RJ,Brazil,2012-06-16,BR1,1,2,1,Internacional,6.5,3.8,1.55,1.73,2012,2.08
+340,Vasco,Brazil,2012-06-10,BR1,1,2,1,Bahia,2.38,3.25,3.0,2.0,2012,1.8
+341,Sport Recife,Brazil,2012-06-10,BR1,1,0,1,Cruzeiro,6.0,4.0,1.53,1.75,2012,2.04
+342,Ponte Preta,Brazil,2012-06-10,BR1,1,0,0,Figueirense,4.5,3.75,1.75,1.85,2012,1.95
+343,Internacional,Brazil,2012-06-10,BR1,1,0,0,Fluminense,4.5,3.3,1.85,2.29,2012,1.6
+344,Corinthians,Brazil,2012-06-10,BR1,1,0,2,Gremio,7.0,4.0,1.5,1.9,2012,1.9
+345,Botafogo RJ,Brazil,2012-06-10,BR1,1,2,3,Nautico,3.0,3.5,2.25,1.65,2012,2.2
+346,Atletico-MG,Brazil,2012-06-10,BR1,1,1,0,Palmeiras,3.8,3.3,2.0,2.0,2012,1.8
+347,Atletico GO,Brazil,2012-06-10,BR1,1,0,2,Portuguesa,3.6,3.3,2.04,2.04,2012,1.75
+348,Santos,Brazil,2012-06-10,BR1,1,0,1,Sao Paulo,4.33,3.6,1.8,2.08,2012,1.73
+349,Coritiba,Brazil,2012-06-09,BR1,1,1,3,Flamengo RJ,3.75,3.4,2.0,1.8,2012,2.0
+350,Cruzeiro,Brazil,2012-06-08,BR1,1,3,2,Botafogo RJ,3.3,3.4,2.15,1.8,2012,2.0
+351,Figueirense,Brazil,2012-06-08,BR1,1,1,1,Corinthians,5.5,4.0,1.57,1.9,2012,1.9
+352,Gremio,Brazil,2012-06-07,BR1,1,1,0,Atletico GO,3.1,3.3,2.29,1.95,2012,1.85
+353,Bahia,Brazil,2012-06-07,BR1,1,1,1,Atletico-MG,8.5,4.5,1.4,1.67,2012,2.15
+354,Portuguesa,Brazil,2012-06-07,BR1,1,0,2,Coritiba,5.0,3.75,1.67,1.8,2012,2.0
+355,Sao Paulo,Brazil,2012-06-07,BR1,1,0,1,Internacional,4.5,3.5,1.8,1.95,2012,1.85
+356,Flamengo RJ,Brazil,2012-06-07,BR1,1,2,2,Ponte Preta,2.8,3.3,2.5,2.0,2012,1.8
+357,Fluminense,Brazil,2012-06-07,BR1,1,1,1,Santos,3.4,3.2,2.2,2.29,2012,1.6
+358,Palmeiras,Brazil,2012-06-07,BR1,1,1,2,Sport Recife,2.75,3.2,2.6,2.15,2012,1.67
+359,Nautico,Brazil,2012-06-07,BR1,1,2,4,Vasco,8.5,4.75,1.36,1.67,2012,2.15
+360,Corinthians,Brazil,2012-05-27,BR1,1,0,1,Atletico-MG,3.75,3.4,2.0,2.1,2012,1.7
+361,Botafogo RJ,Brazil,2012-05-27,BR1,1,3,2,Coritiba,4.5,3.75,1.73,1.73,2012,2.08
+362,Figueirense,Brazil,2012-05-27,BR1,1,2,2,Fluminense,5.5,3.8,1.6,1.95,2012,1.85
+363,Palmeiras,Brazil,2012-05-27,BR1,1,0,1,Gremio,3.75,3.4,2.0,2.0,2012,1.8
+364,Cruzeiro,Brazil,2012-05-27,BR1,1,0,0,Nautico,2.4,3.3,2.9,2.1,2012,1.7
+365,Sport Recife,Brazil,2012-05-27,BR1,1,0,0,Santos,8.0,4.5,1.4,1.73,2012,2.08
+366,Bahia,Brazil,2012-05-27,BR1,1,0,1,Sao Paulo,7.5,4.2,1.44,1.67,2012,2.15
+367,Ponte Preta,Brazil,2012-05-26,BR1,1,1,1,Atletico GO,5.5,3.8,1.62,1.8,2012,2.0
+368,Internacional,Brazil,2012-05-26,BR1,1,3,3,Flamengo RJ,3.5,3.3,2.1,2.15,2012,1.67
+369,Vasco,Brazil,2012-05-26,BR1,1,1,0,Portuguesa,2.63,3.3,2.63,2.0,2012,1.8
+370,Santos,Brazil,2012-05-20,BR1,1,0,0,Bahia,3.0,3.4,2.29,2.1,2012,1.7
+371,Sao Paulo,Brazil,2012-05-20,BR1,1,2,4,Botafogo RJ,3.0,3.25,2.38,1.9,2012,1.9
+372,Fluminense,Brazil,2012-05-20,BR1,1,1,0,Corinthians,4.2,3.5,1.85,2.15,2012,1.67
+373,Atletico GO,Brazil,2012-05-20,BR1,1,0,0,Cruzeiro,4.5,3.5,1.8,1.8,2012,2.0
+374,Nautico,Brazil,2012-05-20,BR1,1,1,2,Figueirense,6.5,3.75,1.55,2.08,2012,1.73
+375,Coritiba,Brazil,2012-05-20,BR1,1,0,2,Internacional,5.25,3.5,1.7,2.04,2012,1.75
+376,Atletico-MG,Brazil,2012-05-20,BR1,1,1,0,Ponte Preta,2.4,3.25,2.9,1.8,2012,2.0
+377,Gremio,Brazil,2012-05-20,BR1,1,1,2,Vasco,3.3,3.3,2.2,2.08,2012,1.73
+378,Portuguesa,Brazil,2012-05-19,BR1,1,1,1,Palmeiras,4.75,3.75,1.7,1.85,2012,1.95
+379,Flamengo RJ,Brazil,2012-05-19,BR1,1,1,1,Sport Recife,2.6,3.4,2.63,1.95,2012,1.85

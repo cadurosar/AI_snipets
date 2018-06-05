@@ -1,0 +1,381 @@
+,AwayTeam,Country,Date,Div,Division,FTAG,FTHG,HomeTeam,ODDA,ODDD,ODDH,over,season,under
+0,Chapecoense-SC,Brazil,2015-12-06,BR1,1,0,3,Atletico-MG,10.0,5.0,1.3,1.62,2015,2.25
+1,Avai,Brazil,2015-12-06,BR1,1,1,1,Corinthians,6.0,3.8,1.57,1.73,2015,2.08
+2,Vasco,Brazil,2015-12-06,BR1,1,0,0,Coritiba,3.0,3.2,2.38,2.25,2015,1.62
+3,Fluminense,Brazil,2015-12-06,BR1,1,0,1,Figueirense,11.0,4.5,1.33,1.8,2015,2.0
+4,Palmeiras,Brazil,2015-12-06,BR1,1,2,1,Flamengo RJ,5.75,4.0,1.55,1.75,2015,2.05
+5,Sao Paulo,Brazil,2015-12-06,BR1,1,1,0,Goias,2.6,3.4,2.6,1.73,2015,2.08
+6,Cruzeiro,Brazil,2015-12-06,BR1,1,0,2,Internacional,4.6,3.6,1.75,1.95,2015,1.85
+7,Gremio,Brazil,2015-12-06,BR1,1,2,0,Joinville,1.8,3.5,4.5,2.05,2015,1.75
+8,Sport Recife,Brazil,2015-12-06,BR1,1,1,0,Ponte Preta,2.75,3.3,2.5,1.95,2015,1.85
+9,Atletico-PR,Brazil,2015-12-06,BR1,1,1,5,Santos,5.5,3.75,1.62,1.8,2015,2.0
+10,Flamengo RJ,Brazil,2015-11-29,BR1,1,0,3,Atletico-PR,3.0,3.2,2.4,2.05,2015,1.75
+11,Ponte Preta,Brazil,2015-11-29,BR1,1,0,1,Avai,4.75,3.6,1.75,2.1,2015,1.7
+12,Goias,Brazil,2015-11-29,BR1,1,3,1,Chapecoense-SC,3.75,3.4,2.0,2.15,2015,1.67
+13,Joinville,Brazil,2015-11-29,BR1,1,0,3,Cruzeiro,9.5,5.25,1.3,1.8,2015,2.0
+14,Atletico-MG,Brazil,2015-11-29,BR1,1,1,2,Gremio,3.5,3.5,2.05,1.95,2015,1.85
+15,Coritiba,Brazil,2015-11-29,BR1,1,2,0,Palmeiras,2.45,3.3,2.8,2.1,2015,1.7
+16,Corinthians,Brazil,2015-11-29,BR1,1,0,2,Sport Recife,3.4,3.3,2.15,1.95,2015,1.85
+17,Santos,Brazil,2015-11-29,BR1,1,0,1,Vasco,5.75,3.8,1.6,2.15,2015,1.67
+18,Internacional,Brazil,2015-11-28,BR1,1,1,1,Fluminense,2.2,3.4,3.2,2.15,2015,1.67
+19,Figueirense,Brazil,2015-11-28,BR1,1,2,3,Sao Paulo,7.5,3.75,1.5,2.0,2015,1.8
+20,Goias,Brazil,2015-11-22,BR1,1,2,2,Atletico-MG,6.5,4.5,1.44,1.62,2015,2.25
+21,Sao Paulo,Brazil,2015-11-22,BR1,1,1,6,Corinthians,2.88,3.2,2.5,2.05,2015,1.75
+22,Santos,Brazil,2015-11-22,BR1,1,0,1,Coritiba,2.6,3.3,2.63,2.05,2015,1.75
+23,Chapecoense-SC,Brazil,2015-11-22,BR1,1,0,0,Figueirense,4.33,3.6,1.8,2.3,2015,1.6
+24,Ponte Preta,Brazil,2015-11-22,BR1,1,1,1,Flamengo RJ,5.0,3.5,1.73,2.08,2015,1.73
+25,Avai,Brazil,2015-11-22,BR1,1,1,3,Fluminense,3.6,3.4,2.05,2.25,2015,1.62
+26,Gremio,Brazil,2015-11-22,BR1,1,0,1,Internacional,2.7,3.2,2.6,2.35,2015,1.57
+27,Vasco,Brazil,2015-11-22,BR1,1,2,1,Joinville,2.55,3.4,2.63,2.1,2015,1.7
+28,Atletico-PR,Brazil,2015-11-22,BR1,1,0,0,Sport Recife,5.0,3.5,1.73,2.0,2015,1.8
+29,Cruzeiro,Brazil,2015-11-21,BR1,1,1,1,Palmeiras,2.2,3.2,3.4,2.05,2015,1.75
+30,Flamengo RJ,Brazil,2015-11-20,BR1,1,0,0,Santos,5.75,3.5,1.65,1.85,2015,1.95
+31,Atletico-MG,Brazil,2015-11-20,BR1,1,2,4,Sao Paulo,3.75,3.4,2.0,1.73,2015,2.08
+32,Corinthians,Brazil,2015-11-20,BR1,1,1,1,Vasco,2.6,3.1,2.8,2.4,2015,1.53
+33,Palmeiras,Brazil,2015-11-19,BR1,1,3,3,Atletico-PR,3.1,3.25,2.3,2.08,2015,1.73
+34,Joinville,Brazil,2015-11-19,BR1,1,1,2,Avai,4.33,3.25,1.91,2.35,2015,1.57
+35,Internacional,Brazil,2015-11-19,BR1,1,0,1,Chapecoense-SC,2.9,3.1,2.5,2.5,2015,1.5
+36,Fluminense,Brazil,2015-11-19,BR1,1,0,1,Gremio,6.5,3.8,1.55,2.05,2015,1.75
+37,Figueirense,Brazil,2015-11-19,BR1,1,1,0,Ponte Preta,4.0,3.3,1.95,2.25,2015,1.62
+38,Coritiba,Brazil,2015-11-18,BR1,1,3,1,Goias,4.0,3.3,1.95,2.2,2015,1.65
+39,Sport Recife,Brazil,2015-11-15,BR1,1,0,3,Cruzeiro,7.0,4.0,1.5,1.95,2015,1.85
+40,Sao Paulo,Brazil,2015-11-08,BR1,1,1,2,Cruzeiro,3.8,3.3,2.0,2.25,2015,1.62
+41,Atletico-MG,Brazil,2015-11-08,BR1,1,1,0,Figueirense,2.38,3.2,3.0,2.05,2015,1.75
+42,Goias,Brazil,2015-11-08,BR1,1,1,4,Flamengo RJ,6.0,3.75,1.57,2.05,2015,1.75
+43,Chapecoense-SC,Brazil,2015-11-08,BR1,1,3,2,Fluminense,4.2,3.3,1.91,2.6,2015,1.48
+44,Santos,Brazil,2015-11-08,BR1,1,0,0,Joinville,1.91,3.4,4.0,2.0,2015,1.8
+45,Vasco,Brazil,2015-11-08,BR1,1,2,0,Palmeiras,6.0,4.0,1.53,1.85,2015,1.95
+46,Gremio,Brazil,2015-11-08,BR1,1,0,1,Sport Recife,3.2,3.2,2.3,2.25,2015,1.62
+47,Avai,Brazil,2015-11-07,BR1,1,1,2,Atletico-PR,4.2,3.5,1.85,2.15,2015,1.67
+48,Coritiba,Brazil,2015-11-07,BR1,1,1,2,Corinthians,9.5,4.75,1.33,1.95,2015,1.85
+49,Ponte Preta,Brazil,2015-11-07,BR1,1,0,1,Internacional,7.0,3.75,1.53,2.08,2015,1.73
+50,Corinthians,Brazil,2015-11-01,BR1,1,3,0,Atletico-MG,4.6,3.6,1.75,1.9,2015,1.9
+51,Atletico-PR,Brazil,2015-11-01,BR1,1,0,0,Chapecoense-SC,4.2,3.3,1.91,2.5,2015,1.5
+52,Figueirense,Brazil,2015-11-01,BR1,1,1,1,Coritiba,3.6,3.25,2.1,2.6,2015,1.48
+53,Internacional,Brazil,2015-11-01,BR1,1,1,2,Goias,3.5,3.1,2.2,2.35,2015,1.57
+54,Flamengo RJ,Brazil,2015-11-01,BR1,1,0,2,Gremio,5.5,3.6,1.67,2.25,2015,1.62
+55,Palmeiras,Brazil,2015-11-01,BR1,1,1,2,Santos,4.5,3.6,1.75,1.8,2015,2.0
+56,Fluminense,Brazil,2015-11-01,BR1,1,1,0,Vasco,3.25,3.2,2.25,2.35,2015,1.57
+57,Cruzeiro,Brazil,2015-10-31,BR1,1,1,1,Avai,2.6,3.2,2.75,2.35,2015,1.57
+58,Joinville,Brazil,2015-10-31,BR1,1,0,1,Ponte Preta,6.0,3.75,1.57,2.1,2015,1.7
+59,Sport Recife,Brazil,2015-10-31,BR1,1,0,3,Sao Paulo,8.0,4.0,1.44,1.85,2015,1.95
+60,Ponte Preta,Brazil,2015-10-25,BR1,1,1,2,Atletico-MG,8.5,4.75,1.36,1.65,2015,2.2
+61,Avai,Brazil,2015-10-25,BR1,1,0,0,Chapecoense-SC,4.5,3.5,1.8,2.3,2015,1.6
+62,Flamengo RJ,Brazil,2015-10-25,BR1,1,0,1,Corinthians,5.25,3.75,1.65,2.1,2015,1.7
+63,Sao Paulo,Brazil,2015-10-25,BR1,1,2,1,Coritiba,2.9,3.2,2.45,2.15,2015,1.67
+64,Cruzeiro,Brazil,2015-10-25,BR1,1,1,0,Goias,3.2,3.1,2.3,2.4,2015,1.53
+65,Sport Recife,Brazil,2015-10-25,BR1,1,2,0,Palmeiras,4.5,3.75,1.73,1.95,2015,1.85
+66,Gremio,Brazil,2015-10-25,BR1,1,0,0,Vasco,3.0,3.2,2.38,2.25,2015,1.62
+67,Santos,Brazil,2015-10-24,BR1,1,0,0,Figueirense,2.5,3.2,2.8,2.1,2015,1.7
+68,Atletico-PR,Brazil,2015-10-24,BR1,1,1,0,Fluminense,3.8,3.4,1.95,2.25,2015,1.62
+69,Joinville,Brazil,2015-10-24,BR1,1,0,1,Internacional,8.5,4.33,1.4,2.05,2015,1.75
+70,Corinthians,Brazil,2015-10-18,BR1,1,4,1,Atletico-PR,2.4,3.25,2.9,2.25,2015,1.62
+71,Fluminense,Brazil,2015-10-18,BR1,1,0,2,Cruzeiro,4.75,3.6,1.73,2.15,2015,1.67
+72,Internacional,Brazil,2015-10-18,BR1,1,1,0,Flamengo RJ,4.5,3.5,1.8,2.05,2015,1.75
+73,Chapecoense-SC,Brazil,2015-10-18,BR1,1,3,2,Gremio,7.0,4.0,1.5,2.2,2015,1.65
+74,Figueirense,Brazil,2015-10-18,BR1,1,0,1,Joinville,3.25,3.2,2.25,2.4,2015,1.53
+75,Coritiba,Brazil,2015-10-18,BR1,1,0,3,Ponte Preta,5.0,3.5,1.73,2.3,2015,1.6
+76,Goias,Brazil,2015-10-18,BR1,1,1,3,Santos,7.0,4.0,1.5,2.0,2015,1.8
+77,Vasco,Brazil,2015-10-18,BR1,1,2,2,Sao Paulo,6.5,4.0,1.5,2.05,2015,1.75
+78,Atletico-MG,Brazil,2015-10-18,BR1,1,1,4,Sport Recife,2.25,3.4,3.1,2.0,2015,1.8
+79,Palmeiras,Brazil,2015-10-17,BR1,1,3,1,Avai,2.8,3.25,2.5,2.15,2015,1.67
+80,Goias,Brazil,2015-10-16,BR1,1,0,3,Corinthians,7.0,3.75,1.53,2.05,2015,1.75
+81,Santos,Brazil,2015-10-16,BR1,1,0,1,Gremio,3.6,3.3,2.05,2.05,2015,1.75
+82,Chapecoense-SC,Brazil,2015-10-16,BR1,1,1,1,Vasco,3.5,3.2,2.15,2.4,2015,1.53
+83,Internacional,Brazil,2015-10-15,BR1,1,1,2,Atletico-MG,7.0,4.2,1.45,1.7,2015,2.1
+84,Cruzeiro,Brazil,2015-10-15,BR1,1,2,2,Atletico-PR,3.3,3.1,2.3,2.4,2015,1.53
+85,Flamengo RJ,Brazil,2015-10-15,BR1,1,0,3,Figueirense,2.4,3.2,3.0,2.25,2015,1.62
+86,Sao Paulo,Brazil,2015-10-15,BR1,1,0,2,Fluminense,3.2,3.3,2.25,2.15,2015,1.67
+87,Coritiba,Brazil,2015-10-15,BR1,1,1,3,Joinville,2.8,3.1,2.55,2.5,2015,1.5
+88,Ponte Preta,Brazil,2015-10-15,BR1,1,1,0,Palmeiras,6.0,3.9,1.55,1.85,2015,1.95
+89,Avai,Brazil,2015-10-15,BR1,1,0,3,Sport Recife,4.75,3.5,1.75,2.1,2015,1.7
+90,Vasco,Brazil,2015-10-04,BR1,1,1,1,Avai,3.75,3.25,2.05,2.15,2015,1.67
+91,Palmeiras,Brazil,2015-10-04,BR1,1,1,5,Chapecoense-SC,2.63,3.1,2.75,2.5,2015,1.5
+92,Gremio,Brazil,2015-10-04,BR1,1,0,0,Cruzeiro,4.0,3.1,2.05,2.3,2015,1.6
+93,Joinville,Brazil,2015-10-04,BR1,1,0,2,Flamengo RJ,9.0,4.2,1.4,2.0,2015,1.8
+94,Figueirense,Brazil,2015-10-04,BR1,1,3,2,Goias,6.5,3.8,1.55,2.35,2015,1.57
+95,Corinthians,Brazil,2015-10-04,BR1,1,2,2,Ponte Preta,2.3,3.1,3.2,2.3,2015,1.6
+96,Fluminense,Brazil,2015-10-04,BR1,1,1,3,Santos,7.0,3.75,1.5,2.0,2015,1.8
+97,Atletico-PR,Brazil,2015-10-04,BR1,1,0,1,Sao Paulo,4.75,3.6,1.75,2.25,2015,1.62
+98,Atletico-MG,Brazil,2015-10-03,BR1,1,3,0,Coritiba,2.25,3.4,3.1,2.05,2015,1.75
+99,Sport Recife,Brazil,2015-10-03,BR1,1,1,2,Internacional,5.5,3.6,1.67,2.1,2015,1.7
+100,Ponte Preta,Brazil,2015-09-27,BR1,1,2,1,Atletico-PR,4.33,3.4,1.85,2.4,2015,1.53
+101,Coritiba,Brazil,2015-09-27,BR1,1,0,2,Cruzeiro,7.5,4.2,1.44,2.1,2015,1.7
+102,Corinthians,Brazil,2015-09-27,BR1,1,3,1,Figueirense,2.25,3.2,3.25,2.4,2015,1.53
+103,Vasco,Brazil,2015-09-27,BR1,1,2,1,Flamengo RJ,4.75,3.5,1.75,2.0,2015,1.8
+104,Avai,Brazil,2015-09-27,BR1,1,1,3,Gremio,8.0,4.0,1.44,2.1,2015,1.7
+105,Atletico-MG,Brazil,2015-09-27,BR1,1,2,2,Joinville,1.75,3.6,4.6,2.08,2015,1.73
+106,Internacional,Brazil,2015-09-27,BR1,1,1,3,Santos,4.75,3.75,1.7,2.25,2015,1.62
+107,Palmeiras,Brazil,2015-09-27,BR1,1,1,1,Sao Paulo,3.7,3.4,2.0,1.95,2015,1.85
+108,Chapecoense-SC,Brazil,2015-09-27,BR1,1,0,3,Sport Recife,4.75,3.4,1.8,2.5,2015,1.5
+109,Goias,Brazil,2015-09-26,BR1,1,0,2,Fluminense,4.33,3.4,1.85,2.3,2015,1.6
+110,Flamengo RJ,Brazil,2015-09-20,BR1,1,1,4,Atletico-MG,5.0,3.6,1.7,1.9,2015,1.9
+111,Sao Paulo,Brazil,2015-09-20,BR1,1,1,2,Avai,3.0,3.2,2.4,2.3,2015,1.6
+112,Cruzeiro,Brazil,2015-09-20,BR1,1,2,0,Chapecoense-SC,3.0,3.0,2.5,2.7,2015,1.44
+113,Santos,Brazil,2015-09-20,BR1,1,0,2,Corinthians,3.4,3.2,2.2,2.15,2015,1.67
+114,Atletico-PR,Brazil,2015-09-20,BR1,1,0,2,Coritiba,2.75,3.0,2.7,2.7,2015,1.44
+115,Joinville,Brazil,2015-09-20,BR1,1,0,3,Goias,7.0,3.6,1.55,2.35,2015,1.57
+116,Fluminense,Brazil,2015-09-20,BR1,1,1,3,Ponte Preta,3.0,3.2,2.4,2.25,2015,1.62
+117,Sport Recife,Brazil,2015-09-20,BR1,1,1,2,Vasco,3.75,3.1,2.1,2.25,2015,1.62
+118,Figueirense,Brazil,2015-09-19,BR1,1,1,1,Internacional,5.0,3.5,1.73,2.3,2015,1.6
+119,Gremio,Brazil,2015-09-19,BR1,1,2,3,Palmeiras,4.0,3.3,1.95,2.15,2015,1.67
+120,Coritiba,Brazil,2015-09-18,BR1,1,2,0,Flamengo RJ,5.5,3.8,1.62,2.2,2015,1.65
+121,Chapecoense-SC,Brazil,2015-09-18,BR1,1,0,0,Sao Paulo,8.5,4.33,1.4,2.15,2015,1.67
+122,Gremio,Brazil,2015-09-17,BR1,1,2,1,Atletico-PR,2.7,3.2,2.6,2.3,2015,1.6
+123,Vasco,Brazil,2015-09-17,BR1,1,2,2,Cruzeiro,9.0,4.2,1.4,1.9,2015,1.9
+124,Avai,Brazil,2015-09-17,BR1,1,1,0,Figueirense,3.5,3.2,2.15,2.4,2015,1.53
+125,Palmeiras,Brazil,2015-09-17,BR1,1,4,1,Fluminense,3.2,3.2,2.3,2.2,2015,1.65
+126,Ponte Preta,Brazil,2015-09-17,BR1,1,2,1,Goias,4.5,3.5,1.8,2.1,2015,1.7
+127,Corinthians,Brazil,2015-09-17,BR1,1,1,2,Internacional,3.4,3.1,2.25,2.4,2015,1.53
+128,Sport Recife,Brazil,2015-09-17,BR1,1,1,1,Joinville,2.75,3.1,2.63,2.4,2015,1.53
+129,Atletico-MG,Brazil,2015-09-17,BR1,1,0,4,Santos,3.4,3.25,2.15,1.85,2015,1.95
+130,Goias,Brazil,2015-09-13,BR1,1,1,2,Avai,3.6,3.2,2.1,2.6,2015,1.48
+131,Flamengo RJ,Brazil,2015-09-13,BR1,1,3,1,Chapecoense-SC,2.8,3.0,2.65,2.88,2015,1.4
+132,Joinville,Brazil,2015-09-13,BR1,1,0,3,Corinthians,10.0,4.33,1.36,2.08,2015,1.73
+133,Atletico-MG,Brazil,2015-09-13,BR1,1,1,1,Cruzeiro,2.75,3.2,2.6,2.25,2015,1.62
+134,Sao Paulo,Brazil,2015-09-13,BR1,1,2,1,Gremio,4.2,3.3,1.91,2.08,2015,1.73
+135,Figueirense,Brazil,2015-09-13,BR1,1,0,2,Palmeiras,7.0,4.33,1.44,1.95,2015,1.85
+136,Santos,Brazil,2015-09-13,BR1,1,1,3,Ponte Preta,2.4,3.3,2.88,2.25,2015,1.62
+137,Fluminense,Brazil,2015-09-13,BR1,1,0,1,Sport Recife,3.5,3.3,2.1,2.15,2015,1.67
+138,Atletico-PR,Brazil,2015-09-13,BR1,1,0,2,Vasco,3.1,3.2,2.3,2.4,2015,1.53
+139,Internacional,Brazil,2015-09-12,BR1,1,1,0,Coritiba,3.1,3.25,2.3,2.5,2015,1.5
+140,Cruzeiro,Brazil,2015-09-11,BR1,1,0,2,Flamengo RJ,4.2,3.1,2.0,2.4,2015,1.53
+141,Sport Recife,Brazil,2015-09-11,BR1,1,0,1,Goias,4.0,3.4,1.91,2.4,2015,1.53
+142,Chapecoense-SC,Brazil,2015-09-11,BR1,1,0,0,Joinville,3.3,2.9,2.38,2.7,2015,1.44
+143,Avai,Brazil,2015-09-10,BR1,1,0,2,Atletico-MG,10.0,6.0,1.25,1.62,2015,2.25
+144,Gremio,Brazil,2015-09-10,BR1,1,1,1,Corinthians,4.5,3.1,1.91,2.35,2015,1.57
+145,Fluminense,Brazil,2015-09-10,BR1,1,1,1,Coritiba,3.6,3.1,2.15,2.4,2015,1.53
+146,Atletico-PR,Brazil,2015-09-10,BR1,1,1,1,Figueirense,2.9,3.0,2.6,2.4,2015,1.53
+147,Palmeiras,Brazil,2015-09-10,BR1,1,0,1,Internacional,4.75,3.6,1.75,2.05,2015,1.75
+148,Vasco,Brazil,2015-09-10,BR1,1,1,0,Ponte Preta,5.5,3.75,1.62,2.2,2015,1.65
+149,Sao Paulo,Brazil,2015-09-10,BR1,1,0,3,Santos,3.4,3.2,2.2,2.1,2015,1.7
+150,Joinville,Brazil,2015-09-06,BR1,1,0,0,Atletico-PR,7.0,3.75,1.53,2.2,2015,1.65
+151,Coritiba,Brazil,2015-09-06,BR1,1,2,0,Avai,3.7,3.25,2.05,2.4,2015,1.53
+152,Ponte Preta,Brazil,2015-09-06,BR1,1,0,0,Chapecoense-SC,4.0,3.3,1.95,2.4,2015,1.53
+153,Figueirense,Brazil,2015-09-06,BR1,1,1,5,Cruzeiro,7.0,3.9,1.5,2.15,2015,1.67
+154,Flamengo RJ,Brazil,2015-09-06,BR1,1,3,1,Fluminense,2.2,3.4,3.2,2.35,2015,1.57
+155,Goias,Brazil,2015-09-06,BR1,1,1,2,Gremio,5.0,3.5,1.73,2.5,2015,1.5
+156,Corinthians,Brazil,2015-09-06,BR1,1,3,3,Palmeiras,3.6,3.25,2.1,2.25,2015,1.62
+157,Internacional,Brazil,2015-09-06,BR1,1,0,2,Sao Paulo,3.4,3.2,2.2,2.15,2015,1.67
+158,Santos,Brazil,2015-09-06,BR1,1,1,1,Sport Recife,3.4,3.4,2.1,2.15,2015,1.67
+159,Atletico-MG,Brazil,2015-09-06,BR1,1,2,1,Vasco,1.7,3.75,4.75,2.0,2015,1.8
+160,Gremio,Brazil,2015-09-04,BR1,1,2,0,Figueirense,2.9,3.1,2.5,2.7,2015,1.44
+161,Chapecoense-SC,Brazil,2015-09-04,BR1,1,1,3,Santos,7.5,3.75,1.5,2.1,2015,1.7
+162,Atletico-PR,Brazil,2015-09-03,BR1,1,1,0,Atletico-MG,8.0,4.5,1.4,1.8,2015,2.0
+163,Fluminense,Brazil,2015-09-03,BR1,1,0,2,Corinthians,5.0,3.4,1.75,2.4,2015,1.53
+164,Sport Recife,Brazil,2015-09-03,BR1,1,0,0,Coritiba,4.0,3.4,1.91,2.25,2015,1.62
+165,Avai,Brazil,2015-09-03,BR1,1,0,3,Flamengo RJ,5.5,3.75,1.62,2.0,2015,1.8
+166,Palmeiras,Brazil,2015-09-03,BR1,1,0,1,Goias,3.2,3.1,2.3,2.35,2015,1.57
+167,Vasco,Brazil,2015-09-03,BR1,1,0,6,Internacional,7.5,3.75,1.5,2.05,2015,1.75
+168,Sao Paulo,Brazil,2015-09-03,BR1,1,0,0,Joinville,2.5,3.2,2.88,2.05,2015,1.75
+169,Cruzeiro,Brazil,2015-09-03,BR1,1,2,1,Ponte Preta,3.25,3.1,2.3,2.35,2015,1.57
+170,Goias,Brazil,2015-08-30,BR1,1,0,3,Atletico-PR,3.8,3.3,2.0,2.4,2015,1.53
+171,Internacional,Brazil,2015-08-30,BR1,1,0,3,Avai,2.45,3.1,3.0,2.25,2015,1.62
+172,Corinthians,Brazil,2015-08-30,BR1,1,3,1,Chapecoense-SC,3.0,3.1,2.45,2.88,2015,1.4
+173,Santos,Brazil,2015-08-30,BR1,1,1,0,Cruzeiro,3.5,3.3,2.1,2.3,2015,1.6
+174,Atletico-MG,Brazil,2015-08-30,BR1,1,2,1,Fluminense,2.45,3.2,2.9,2.05,2015,1.75
+175,Coritiba,Brazil,2015-08-30,BR1,1,0,0,Gremio,7.0,3.75,1.53,2.2,2015,1.65
+176,Joinville,Brazil,2015-08-30,BR1,1,2,3,Palmeiras,8.0,4.33,1.4,2.0,2015,1.8
+177,Ponte Preta,Brazil,2015-08-30,BR1,1,0,3,Sao Paulo,5.25,3.4,1.73,2.1,2015,1.7
+178,Flamengo RJ,Brazil,2015-08-30,BR1,1,1,0,Sport Recife,3.3,3.4,2.15,2.08,2015,1.73
+179,Figueirense,Brazil,2015-08-29,BR1,1,1,0,Vasco,3.75,3.3,2.0,2.5,2015,1.5
+180,Palmeiras,Brazil,2015-08-23,BR1,1,1,2,Atletico-MG,5.5,4.0,1.57,1.85,2015,1.95
+181,Cruzeiro,Brazil,2015-08-23,BR1,1,0,3,Corinthians,3.75,3.3,2.0,2.4,2015,1.53
+182,Chapecoense-SC,Brazil,2015-08-23,BR1,1,0,1,Coritiba,4.2,3.3,1.91,2.5,2015,1.5
+183,Sport Recife,Brazil,2015-08-23,BR1,1,1,2,Figueirense,3.3,3.3,2.2,2.25,2015,1.62
+184,Sao Paulo,Brazil,2015-08-23,BR1,1,1,2,Flamengo RJ,4.33,3.4,1.85,2.08,2015,1.73
+185,Atletico-PR,Brazil,2015-08-23,BR1,1,0,2,Internacional,4.5,3.3,1.85,2.25,2015,1.62
+186,Fluminense,Brazil,2015-08-23,BR1,1,1,2,Joinville,2.8,3.1,2.6,2.5,2015,1.5
+187,Gremio,Brazil,2015-08-23,BR1,1,0,0,Ponte Preta,3.0,3.1,2.45,2.4,2015,1.53
+188,Vasco,Brazil,2015-08-22,BR1,1,0,3,Goias,5.5,3.6,1.67,2.25,2015,1.62
+189,Avai,Brazil,2015-08-22,BR1,1,2,5,Santos,8.0,4.5,1.4,1.85,2015,1.95
+190,Corinthians,Brazil,2015-08-16,BR1,1,2,1,Avai,2.38,3.1,3.1,2.4,2015,1.53
+191,Atletico-MG,Brazil,2015-08-16,BR1,1,1,2,Chapecoense-SC,2.3,3.2,3.2,2.15,2015,1.67
+192,Internacional,Brazil,2015-08-16,BR1,1,0,0,Cruzeiro,5.5,3.5,1.67,2.35,2015,1.57
+193,Figueirense,Brazil,2015-08-16,BR1,1,1,2,Fluminense,5.5,3.6,1.65,2.15,2015,1.67
+194,Joinville,Brazil,2015-08-16,BR1,1,1,2,Gremio,8.5,4.33,1.4,2.15,2015,1.67
+195,Flamengo RJ,Brazil,2015-08-16,BR1,1,2,4,Palmeiras,3.8,3.3,2.0,2.15,2015,1.67
+196,Goias,Brazil,2015-08-16,BR1,1,3,0,Sao Paulo,5.5,3.6,1.67,2.25,2015,1.62
+197,Ponte Preta,Brazil,2015-08-16,BR1,1,1,1,Sport Recife,4.5,3.4,1.83,2.05,2015,1.75
+198,Santos,Brazil,2015-08-15,BR1,1,0,0,Atletico-PR,3.0,3.2,2.4,2.15,2015,1.67
+199,Coritiba,Brazil,2015-08-15,BR1,1,1,0,Vasco,3.4,3.2,2.2,2.35,2015,1.57
+200,Gremio,Brazil,2015-08-14,BR1,1,2,0,Atletico-MG,5.0,3.6,1.7,2.1,2015,1.7
+201,Cruzeiro,Brazil,2015-08-14,BR1,1,0,3,Joinville,2.3,3.1,3.3,2.6,2015,1.48
+202,Avai,Brazil,2015-08-14,BR1,1,0,2,Ponte Preta,5.5,3.8,1.62,2.05,2015,1.75
+203,Sport Recife,Brazil,2015-08-13,BR1,1,3,4,Corinthians,6.5,3.75,1.55,2.1,2015,1.7
+204,Palmeiras,Brazil,2015-08-13,BR1,1,1,2,Coritiba,2.5,3.1,2.9,2.35,2015,1.57
+205,Sao Paulo,Brazil,2015-08-13,BR1,1,2,0,Figueirense,2.4,3.2,3.0,2.3,2015,1.6
+206,Atletico-PR,Brazil,2015-08-13,BR1,1,2,3,Flamengo RJ,4.33,3.5,1.83,2.1,2015,1.7
+207,Chapecoense-SC,Brazil,2015-08-13,BR1,1,0,0,Goias,4.75,3.25,1.83,2.6,2015,1.48
+208,Fluminense,Brazil,2015-08-13,BR1,1,0,1,Internacional,3.75,3.25,2.05,2.3,2015,1.6
+209,Vasco,Brazil,2015-08-13,BR1,1,0,1,Santos,7.0,4.75,1.4,1.8,2015,2.0
+210,Sport Recife,Brazil,2015-08-09,BR1,1,1,1,Atletico-PR,4.75,3.6,1.73,2.3,2015,1.6
+211,Figueirense,Brazil,2015-08-09,BR1,1,2,2,Chapecoense-SC,4.33,3.2,1.91,2.7,2015,1.44
+212,Palmeiras,Brazil,2015-08-09,BR1,1,1,2,Cruzeiro,3.8,3.2,2.05,2.25,2015,1.62
+213,Atletico-MG,Brazil,2015-08-09,BR1,1,0,0,Goias,2.38,3.1,3.1,2.15,2015,1.67
+214,Internacional,Brazil,2015-08-09,BR1,1,0,5,Gremio,4.75,3.5,1.75,2.3,2015,1.6
+215,Flamengo RJ,Brazil,2015-08-09,BR1,1,0,1,Ponte Preta,2.75,3.1,2.63,2.15,2015,1.67
+216,Coritiba,Brazil,2015-08-09,BR1,1,0,3,Santos,6.5,3.8,1.53,1.95,2015,1.85
+217,Corinthians,Brazil,2015-08-09,BR1,1,1,1,Sao Paulo,3.1,3.0,2.45,2.7,2015,1.44
+218,Joinville,Brazil,2015-08-09,BR1,1,0,0,Vasco,4.33,3.4,1.85,2.6,2015,1.48
+219,Fluminense,Brazil,2015-08-08,BR1,1,0,1,Avai,3.0,3.2,2.4,2.25,2015,1.62
+220,Goias,Brazil,2015-08-02,BR1,1,1,1,Coritiba,4.2,3.3,1.91,2.6,2015,1.48
+221,Ponte Preta,Brazil,2015-08-02,BR1,1,1,3,Figueirense,3.6,3.25,2.1,2.4,2015,1.53
+222,Santos,Brazil,2015-08-02,BR1,1,2,2,Flamengo RJ,4.2,3.3,1.91,2.1,2015,1.7
+223,Chapecoense-SC,Brazil,2015-08-02,BR1,1,0,0,Internacional,6.5,3.4,1.62,2.35,2015,1.57
+224,Avai,Brazil,2015-08-02,BR1,1,0,2,Joinville,3.0,3.2,2.4,2.4,2015,1.53
+225,Atletico-PR,Brazil,2015-08-02,BR1,1,1,0,Palmeiras,8.0,4.0,1.44,1.95,2015,1.85
+226,Cruzeiro,Brazil,2015-08-02,BR1,1,0,0,Sport Recife,3.5,3.2,2.15,2.25,2015,1.62
+227,Gremio,Brazil,2015-08-01,BR1,1,0,1,Fluminense,3.75,3.1,2.1,2.5,2015,1.5
+228,Sao Paulo,Brazil,2015-07-30,BR1,1,1,3,Atletico-MG,5.25,3.6,1.67,2.0,2015,1.8
+229,Vasco,Brazil,2015-07-30,BR1,1,0,3,Corinthians,9.5,4.0,1.4,2.1,2015,1.7
+230,Figueirense,Brazil,2015-07-26,BR1,1,0,1,Atletico-MG,13.0,5.25,1.25,1.65,2015,2.2
+231,Fluminense,Brazil,2015-07-26,BR1,1,1,2,Chapecoense-SC,3.5,3.3,2.1,2.35,2015,1.57
+232,Corinthians,Brazil,2015-07-26,BR1,1,1,1,Coritiba,2.6,3.0,2.88,2.7,2015,1.44
+233,Flamengo RJ,Brazil,2015-07-26,BR1,1,1,0,Goias,2.88,3.2,2.5,2.5,2015,1.5
+234,Sport Recife,Brazil,2015-07-26,BR1,1,1,1,Gremio,6.5,3.6,1.57,2.05,2015,1.75
+235,Internacional,Brazil,2015-07-26,BR1,1,0,0,Ponte Preta,3.6,3.2,2.1,2.25,2015,1.62
+236,Joinville,Brazil,2015-07-26,BR1,1,0,2,Santos,6.0,4.0,1.53,2.1,2015,1.7
+237,Cruzeiro,Brazil,2015-07-26,BR1,1,0,1,Sao Paulo,3.75,3.4,2.0,2.25,2015,1.62
+238,Palmeiras,Brazil,2015-07-26,BR1,1,4,1,Vasco,2.38,3.2,3.0,2.35,2015,1.57
+239,Atletico-PR,Brazil,2015-07-25,BR1,1,2,1,Avai,3.2,3.2,2.25,2.25,2015,1.62
+240,Chapecoense-SC,Brazil,2015-07-19,BR1,1,0,1,Atletico-PR,3.75,3.25,2.05,2.4,2015,1.53
+241,Atletico-MG,Brazil,2015-07-19,BR1,1,0,1,Corinthians,3.2,3.25,2.25,2.1,2015,1.7
+242,Avai,Brazil,2015-07-19,BR1,1,1,1,Cruzeiro,7.5,4.2,1.44,1.8,2015,2.0
+243,Coritiba,Brazil,2015-07-19,BR1,1,0,0,Figueirense,3.5,3.25,2.1,2.4,2015,1.53
+244,Vasco,Brazil,2015-07-19,BR1,1,2,1,Fluminense,6.0,3.6,1.62,2.05,2015,1.75
+245,Ponte Preta,Brazil,2015-07-19,BR1,1,1,1,Joinville,2.7,3.2,2.63,2.5,2015,1.5
+246,Santos,Brazil,2015-07-19,BR1,1,0,1,Palmeiras,5.25,3.6,1.67,2.0,2015,1.8
+247,Sao Paulo,Brazil,2015-07-19,BR1,1,0,2,Sport Recife,3.1,3.2,2.3,2.1,2015,1.7
+248,Gremio,Brazil,2015-07-18,BR1,1,0,1,Flamengo RJ,3.4,3.0,2.3,2.5,2015,1.5
+249,Goias,Brazil,2015-07-18,BR1,1,1,2,Internacional,4.0,3.3,1.95,2.4,2015,1.53
+250,Fluminense,Brazil,2015-07-12,BR1,1,2,1,Atletico-PR,3.8,3.3,2.0,2.1,2015,1.7
+251,Chapecoense-SC,Brazil,2015-07-12,BR1,1,1,2,Avai,2.88,3.0,2.63,2.7,2015,1.44
+252,Goias,Brazil,2015-07-12,BR1,1,0,1,Cruzeiro,6.5,3.6,1.57,2.15,2015,1.67
+253,Corinthians,Brazil,2015-07-12,BR1,1,3,0,Flamengo RJ,3.1,3.0,2.45,2.7,2015,1.44
+254,Internacional,Brazil,2015-07-12,BR1,1,2,0,Joinville,3.25,3.2,2.25,2.6,2015,1.48
+255,Atletico-MG,Brazil,2015-07-12,BR1,1,2,0,Ponte Preta,2.5,3.3,2.75,2.0,2015,1.8
+256,Coritiba,Brazil,2015-07-12,BR1,1,1,3,Sao Paulo,6.5,3.8,1.53,2.15,2015,1.67
+257,Palmeiras,Brazil,2015-07-12,BR1,1,2,2,Sport Recife,2.9,3.25,2.4,2.05,2015,1.75
+258,Vasco,Brazil,2015-07-11,BR1,1,0,2,Gremio,8.5,4.33,1.4,2.1,2015,1.7
+259,Figueirense,Brazil,2015-07-11,BR1,1,0,3,Santos,6.0,4.0,1.53,2.08,2015,1.73
+260,Atletico-PR,Brazil,2015-07-10,BR1,1,0,2,Corinthians,7.0,3.8,1.53,2.35,2015,1.57
+261,Cruzeiro,Brazil,2015-07-10,BR1,1,0,1,Fluminense,2.75,3.2,2.6,2.3,2015,1.6
+262,Sport Recife,Brazil,2015-07-09,BR1,1,1,2,Atletico-MG,8.5,4.33,1.4,1.67,2015,2.15
+263,Gremio,Brazil,2015-07-09,BR1,1,0,1,Chapecoense-SC,2.75,3.0,2.75,2.88,2015,1.4
+264,Ponte Preta,Brazil,2015-07-09,BR1,1,0,0,Coritiba,3.3,3.1,2.3,2.25,2015,1.62
+265,Joinville,Brazil,2015-07-09,BR1,1,2,0,Figueirense,4.75,3.4,1.8,2.6,2015,1.48
+266,Santos,Brazil,2015-07-09,BR1,1,1,4,Goias,3.0,3.0,2.5,2.35,2015,1.57
+267,Flamengo RJ,Brazil,2015-07-09,BR1,1,2,1,Internacional,3.75,3.4,2.0,2.15,2015,1.67
+268,Avai,Brazil,2015-07-09,BR1,1,0,3,Palmeiras,9.5,4.33,1.36,1.85,2015,1.95
+269,Sao Paulo,Brazil,2015-07-09,BR1,1,4,0,Vasco,2.0,3.2,4.0,2.35,2015,1.57
+270,Sport Recife,Brazil,2015-07-05,BR1,1,2,2,Avai,3.0,3.2,2.38,2.25,2015,1.62
+271,Vasco,Brazil,2015-07-05,BR1,1,0,1,Chapecoense-SC,5.0,3.5,1.73,2.6,2015,1.48
+272,Atletico-PR,Brazil,2015-07-05,BR1,1,0,2,Cruzeiro,5.25,3.6,1.67,2.1,2015,1.7
+273,Figueirense,Brazil,2015-07-05,BR1,1,2,1,Flamengo RJ,6.5,3.6,1.57,2.35,2015,1.57
+274,Corinthians,Brazil,2015-07-05,BR1,1,0,0,Goias,2.38,3.0,3.2,2.88,2015,1.4
+275,Atletico-MG,Brazil,2015-07-05,BR1,1,3,1,Internacional,3.0,3.25,2.38,1.95,2015,1.85
+276,Palmeiras,Brazil,2015-07-05,BR1,1,2,0,Ponte Preta,1.91,3.3,4.2,2.05,2015,1.75
+277,Gremio,Brazil,2015-07-05,BR1,1,3,1,Santos,3.4,3.3,2.15,2.3,2015,1.6
+278,Fluminense,Brazil,2015-07-05,BR1,1,0,0,Sao Paulo,5.25,3.6,1.67,2.1,2015,1.7
+279,Joinville,Brazil,2015-07-04,BR1,1,0,0,Coritiba,5.25,3.6,1.67,2.4,2015,1.53
+280,Ponte Preta,Brazil,2015-07-03,BR1,1,0,2,Corinthians,4.75,3.4,1.8,2.35,2015,1.57
+281,Goias,Brazil,2015-07-03,BR1,1,1,3,Figueirense,3.5,3.1,2.2,2.88,2015,1.4
+282,Santos,Brazil,2015-07-03,BR1,1,1,2,Fluminense,3.4,3.2,2.2,2.08,2015,1.73
+283,Coritiba,Brazil,2015-07-02,BR1,1,0,2,Atletico-MG,8.5,4.75,1.36,1.7,2015,2.1
+284,Sao Paulo,Brazil,2015-07-02,BR1,1,1,2,Atletico-PR,3.3,3.2,2.25,2.3,2015,1.6
+285,Cruzeiro,Brazil,2015-07-02,BR1,1,0,1,Gremio,4.0,3.3,1.95,2.25,2015,1.62
+286,Flamengo RJ,Brazil,2015-07-02,BR1,1,1,0,Joinville,2.25,3.1,3.4,2.5,2015,1.5
+287,Chapecoense-SC,Brazil,2015-07-02,BR1,1,0,2,Palmeiras,6.5,3.6,1.57,2.15,2015,1.67
+288,Internacional,Brazil,2015-07-02,BR1,1,0,3,Sport Recife,4.2,3.3,1.91,2.25,2015,1.62
+289,Avai,Brazil,2015-07-02,BR1,1,0,1,Vasco,4.5,3.5,1.8,2.15,2015,1.67
+290,Joinville,Brazil,2015-06-28,BR1,1,0,1,Atletico-MG,15.0,5.75,1.22,1.62,2015,2.25
+291,Figueirense,Brazil,2015-06-28,BR1,1,1,2,Corinthians,7.0,3.75,1.53,2.4,2015,1.53
+292,Cruzeiro,Brazil,2015-06-28,BR1,1,0,1,Coritiba,2.6,3.2,2.75,2.25,2015,1.62
+293,Fluminense,Brazil,2015-06-28,BR1,1,2,1,Goias,3.2,3.0,2.38,2.5,2015,1.5
+294,Santos,Brazil,2015-06-28,BR1,1,0,1,Internacional,4.0,3.2,2.0,2.1,2015,1.7
+295,Sao Paulo,Brazil,2015-06-28,BR1,1,0,4,Palmeiras,3.6,3.25,2.1,2.35,2015,1.57
+296,Atletico-PR,Brazil,2015-06-28,BR1,1,1,2,Ponte Preta,4.5,3.4,1.83,2.05,2015,1.75
+297,Flamengo RJ,Brazil,2015-06-28,BR1,1,0,1,Vasco,2.1,3.25,3.6,2.3,2015,1.6
+298,Gremio,Brazil,2015-06-27,BR1,1,2,1,Avai,2.25,3.2,3.25,2.5,2015,1.5
+299,Sport Recife,Brazil,2015-06-27,BR1,1,1,1,Chapecoense-SC,3.8,3.3,2.0,2.4,2015,1.53
+300,Ponte Preta,Brazil,2015-06-25,BR1,1,0,2,Fluminense,4.0,3.2,2.0,2.25,2015,1.62
+301,Coritiba,Brazil,2015-06-21,BR1,1,2,2,Atletico-PR,4.33,3.25,1.91,2.35,2015,1.57
+302,Chapecoense-SC,Brazil,2015-06-21,BR1,1,1,0,Cruzeiro,6.5,3.6,1.57,2.35,2015,1.57
+303,Palmeiras,Brazil,2015-06-21,BR1,1,0,1,Gremio,4.0,3.2,2.0,2.35,2015,1.57
+304,Goias,Brazil,2015-06-21,BR1,1,1,2,Joinville,3.4,3.1,2.25,2.6,2015,1.48
+305,Avai,Brazil,2015-06-21,BR1,1,1,1,Sao Paulo,6.5,4.2,1.5,2.05,2015,1.75
+306,Atletico-MG,Brazil,2015-06-20,BR1,1,2,0,Flamengo RJ,2.8,3.3,2.5,1.95,2015,1.85
+307,Corinthians,Brazil,2015-06-20,BR1,1,0,1,Santos,3.3,3.2,2.25,2.3,2015,1.6
+308,Vasco,Brazil,2015-06-20,BR1,1,1,2,Sport Recife,5.0,3.6,1.7,2.2,2015,1.65
+309,Internacional,Brazil,2015-06-19,BR1,1,0,0,Figueirense,2.5,3.1,2.9,2.5,2015,1.5
+310,Figueirense,Brazil,2015-06-14,BR1,1,1,1,Avai,4.0,3.2,2.0,2.4,2015,1.53
+311,Atletico-PR,Brazil,2015-06-14,BR1,1,1,2,Gremio,6.0,3.6,1.62,2.25,2015,1.62
+312,Fluminense,Brazil,2015-06-14,BR1,1,1,2,Palmeiras,4.5,3.5,1.8,2.25,2015,1.62
+313,Goias,Brazil,2015-06-14,BR1,1,0,0,Ponte Preta,7.0,3.5,1.57,2.25,2015,1.62
+314,Joinville,Brazil,2015-06-14,BR1,1,1,2,Sport Recife,5.5,3.75,1.62,2.3,2015,1.6
+315,Cruzeiro,Brazil,2015-06-14,BR1,1,3,1,Vasco,2.38,3.1,3.1,2.35,2015,1.57
+316,Sao Paulo,Brazil,2015-06-13,BR1,1,1,0,Chapecoense-SC,2.8,3.1,2.6,2.6,2015,1.48
+317,Internacional,Brazil,2015-06-13,BR1,1,1,2,Corinthians,5.25,3.4,1.73,2.4,2015,1.53
+318,Flamengo RJ,Brazil,2015-06-13,BR1,1,1,0,Coritiba,2.7,3.1,2.7,2.4,2015,1.53
+319,Santos,Brazil,2015-06-11,BR1,1,2,2,Atletico-MG,6.0,4.33,1.5,1.65,2015,2.2
+320,Palmeiras,Brazil,2015-06-08,BR1,1,1,2,Figueirense,2.2,3.1,3.5,2.4,2015,1.53
+321,Sport Recife,Brazil,2015-06-08,BR1,1,0,0,Fluminense,5.0,3.6,1.7,2.1,2015,1.7
+322,Avai,Brazil,2015-06-08,BR1,1,1,0,Goias,4.75,3.3,1.8,2.4,2015,1.53
+323,Vasco,Brazil,2015-06-07,BR1,1,0,2,Atletico-PR,5.5,3.75,1.62,2.25,2015,1.62
+324,Coritiba,Brazil,2015-06-07,BR1,1,0,2,Internacional,6.0,3.75,1.57,2.2,2015,1.65
+325,Corinthians,Brazil,2015-06-07,BR1,1,1,0,Joinville,2.0,3.3,3.8,2.7,2015,1.44
+326,Gremio,Brazil,2015-06-07,BR1,1,0,2,Sao Paulo,4.75,3.5,1.75,2.4,2015,1.53
+327,Cruzeiro,Brazil,2015-06-06,BR1,1,3,1,Atletico-MG,5.5,3.75,1.62,1.85,2015,1.95
+328,Chapecoense-SC,Brazil,2015-06-06,BR1,1,0,1,Flamengo RJ,4.5,3.5,1.8,2.3,2015,1.6
+329,Ponte Preta,Brazil,2015-06-06,BR1,1,2,2,Santos,4.0,3.3,1.95,2.05,2015,1.75
+330,Internacional,Brazil,2015-06-05,BR1,1,1,1,Palmeiras,4.33,3.4,1.85,2.1,2015,1.7
+331,Goias,Brazil,2015-06-05,BR1,1,0,1,Sport Recife,5.0,3.4,1.75,2.35,2015,1.57
+332,Figueirense,Brazil,2015-06-04,BR1,1,0,1,Atletico-PR,6.0,3.6,1.62,2.35,2015,1.57
+333,Atletico-MG,Brazil,2015-06-04,BR1,1,4,1,Avai,2.0,3.4,3.75,2.05,2015,1.75
+334,Joinville,Brazil,2015-06-04,BR1,1,0,2,Chapecoense-SC,5.5,3.6,1.67,2.4,2015,1.53
+335,Flamengo RJ,Brazil,2015-06-04,BR1,1,0,1,Cruzeiro,4.0,3.4,1.91,2.1,2015,1.7
+336,Coritiba,Brazil,2015-06-04,BR1,1,0,2,Fluminense,4.75,3.5,1.75,2.15,2015,1.67
+337,Corinthians,Brazil,2015-06-04,BR1,1,1,3,Gremio,3.8,3.1,2.1,2.88,2015,1.4
+338,Santos,Brazil,2015-06-04,BR1,1,2,3,Sao Paulo,4.33,3.4,1.85,2.15,2015,1.67
+339,Ponte Preta,Brazil,2015-06-04,BR1,1,3,0,Vasco,3.2,3.2,2.3,2.35,2015,1.57
+340,Vasco,Brazil,2015-05-31,BR1,1,0,3,Atletico-MG,9.0,4.2,1.4,1.95,2015,1.85
+341,Palmeiras,Brazil,2015-05-31,BR1,1,2,0,Corinthians,3.75,3.3,2.0,2.5,2015,1.5
+342,Cruzeiro,Brazil,2015-05-31,BR1,1,1,2,Figueirense,2.5,3.2,2.88,2.5,2015,1.5
+343,Fluminense,Brazil,2015-05-31,BR1,1,3,2,Flamengo RJ,3.0,3.2,2.38,2.25,2015,1.62
+344,Gremio,Brazil,2015-05-31,BR1,1,1,1,Goias,2.63,3.2,2.7,2.88,2015,1.4
+345,Sao Paulo,Brazil,2015-05-31,BR1,1,0,0,Internacional,3.2,3.25,2.25,2.25,2015,1.62
+346,Atletico-PR,Brazil,2015-05-31,BR1,1,2,1,Joinville,3.0,3.25,2.38,2.5,2015,1.5
+347,Sport Recife,Brazil,2015-05-31,BR1,1,2,2,Santos,7.0,4.2,1.45,2.0,2015,1.8
+348,Avai,Brazil,2015-05-30,BR1,1,2,1,Coritiba,5.5,3.5,1.67,2.15,2015,1.67
+349,Chapecoense-SC,Brazil,2015-05-30,BR1,1,1,3,Ponte Preta,4.2,3.5,1.85,2.3,2015,1.6
+350,Atletico-MG,Brazil,2015-05-24,BR1,1,0,1,Atletico-PR,2.15,3.3,3.4,2.05,2015,1.75
+351,Flamengo RJ,Brazil,2015-05-24,BR1,1,1,2,Avai,2.75,3.0,2.7,2.35,2015,1.57
+352,Santos,Brazil,2015-05-24,BR1,1,0,1,Chapecoense-SC,2.63,3.2,2.7,2.3,2015,1.6
+353,Ponte Preta,Brazil,2015-05-24,BR1,1,1,1,Cruzeiro,3.1,3.25,2.3,2.15,2015,1.67
+354,Corinthians,Brazil,2015-05-24,BR1,1,0,0,Fluminense,2.8,3.1,2.6,2.4,2015,1.53
+355,Figueirense,Brazil,2015-05-24,BR1,1,0,1,Gremio,7.5,3.8,1.5,2.15,2015,1.67
+356,Goias,Brazil,2015-05-24,BR1,1,1,0,Palmeiras,7.0,4.0,1.5,2.15,2015,1.67
+357,Coritiba,Brazil,2015-05-24,BR1,1,0,1,Sport Recife,4.75,3.6,1.75,2.3,2015,1.6
+358,Joinville,Brazil,2015-05-23,BR1,1,0,3,Sao Paulo,7.5,4.2,1.44,2.1,2015,1.7
+359,Internacional,Brazil,2015-05-23,BR1,1,1,1,Vasco,4.33,3.5,1.83,2.35,2015,1.57
+360,Fluminense,Brazil,2015-05-17,BR1,1,1,4,Atletico-MG,4.0,3.2,2.0,2.15,2015,1.67
+361,Chapecoense-SC,Brazil,2015-05-17,BR1,1,0,1,Corinthians,5.5,3.6,1.67,2.5,2015,1.5
+362,Vasco,Brazil,2015-05-17,BR1,1,0,0,Figueirense,3.0,3.1,2.45,2.4,2015,1.53
+363,Sport Recife,Brazil,2015-05-17,BR1,1,2,2,Flamengo RJ,5.5,3.75,1.62,2.08,2015,1.73
+364,Avai,Brazil,2015-05-17,BR1,1,0,1,Internacional,4.5,3.8,1.73,1.95,2015,1.85
+365,Palmeiras,Brazil,2015-05-17,BR1,1,0,0,Joinville,2.3,3.1,3.25,2.3,2015,1.6
+366,Sao Paulo,Brazil,2015-05-17,BR1,1,0,1,Ponte Preta,2.4,3.2,3.0,2.2,2015,1.65
+367,Cruzeiro,Brazil,2015-05-17,BR1,1,0,1,Santos,4.6,3.6,1.75,2.1,2015,1.7
+368,Gremio,Brazil,2015-05-16,BR1,1,0,2,Coritiba,3.1,3.25,2.3,2.6,2015,1.48
+369,Atletico-PR,Brazil,2015-05-16,BR1,1,0,2,Goias,3.4,3.1,2.25,2.5,2015,1.5
+370,Internacional,Brazil,2015-05-10,BR1,1,0,3,Atletico-PR,3.5,3.2,2.15,2.25,2015,1.62
+371,Santos,Brazil,2015-05-10,BR1,1,1,1,Avai,2.1,3.3,3.5,2.1,2015,1.7
+372,Corinthians,Brazil,2015-05-10,BR1,1,1,0,Cruzeiro,2.63,3.1,2.75,2.3,2015,1.6
+373,Joinville,Brazil,2015-05-10,BR1,1,0,1,Fluminense,6.0,3.75,1.57,2.2,2015,1.65
+374,Ponte Preta,Brazil,2015-05-10,BR1,1,3,3,Gremio,5.75,3.75,1.6,2.35,2015,1.57
+375,Flamengo RJ,Brazil,2015-05-10,BR1,1,1,2,Sao Paulo,3.25,3.5,2.1,2.25,2015,1.62
+376,Figueirense,Brazil,2015-05-10,BR1,1,1,4,Sport Recife,5.25,3.6,1.67,2.25,2015,1.62
+377,Goias,Brazil,2015-05-10,BR1,1,0,0,Vasco,5.75,3.6,1.62,2.25,2015,1.62
+378,Coritiba,Brazil,2015-05-09,BR1,1,1,2,Chapecoense-SC,3.6,3.1,2.15,2.35,2015,1.57
+379,Atletico-MG,Brazil,2015-05-09,BR1,1,2,2,Palmeiras,5.25,3.5,1.7,2.25,2015,1.62

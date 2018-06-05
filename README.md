@@ -4,9 +4,9 @@
 
 Based on the 2016 fast ai course, added luminance transfer and restructure a part of the code for style transfer.
 
-## Data Science
+## Pandas and Excel
 
-Course (in portuguese) designed to teach how to use Pandas
+Course (in portuguese) designed to teach how to use Pandas with excel for simple data analysis
 
 ## Machine Learning Tutorials
 

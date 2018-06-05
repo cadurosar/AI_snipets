@@ -1,0 +1,381 @@
+,AwayTeam,Country,Date,Div,Division,FTAG,FTHG,HomeTeam,ODDA,ODDD,ODDH,over,season,under
+0,Avai,Brazil,2010-12-05,BR1,1,0,1,Atletico-PR,4.33,3.5,1.83,1.73,2010,2.08
+1,Palmeiras,Brazil,2010-12-05,BR1,1,1,2,Cruzeiro,12.0,6.0,1.22,1.5,2010,2.5
+2,Guarani,Brazil,2010-12-05,BR1,1,0,1,Fluminense,19.0,8.0,1.12,1.5,2010,2.5
+3,Corinthians,Brazil,2010-12-05,BR1,1,1,1,Goias,1.3,5.0,10.0,1.6,2010,2.29
+4,Botafogo RJ,Brazil,2010-12-05,BR1,1,0,3,Gremio,5.0,3.75,1.67,1.65,2010,2.2
+5,Flamengo RJ,Brazil,2010-12-05,BR1,1,0,0,Santos,3.1,3.25,2.29,1.7,2010,2.1
+6,Atletico-MG,Brazil,2010-12-05,BR1,1,0,4,Sao Paulo,3.1,3.4,2.25,1.73,2010,2.08
+7,Ceara,Brazil,2010-12-05,BR1,1,0,2,Vasco,5.5,3.75,1.62,1.9,2010,1.9
+8,Atletico GO,Brazil,2010-12-05,BR1,1,0,0,Vitoria,4.75,3.6,1.73,1.75,2010,2.04
+9,Internacional,Brazil,2010-12-03,BR1,1,3,0,Barueri,1.73,4.0,4.33,1.6,2010,2.29
+10,Sao Paulo,Brazil,2010-11-28,BR1,1,1,1,Atletico GO,5.5,4.0,1.57,1.67,2010,2.15
+11,Goias,Brazil,2010-11-28,BR1,1,1,3,Atletico-MG,10.0,5.0,1.3,1.65,2010,2.2
+12,Santos,Brazil,2010-11-28,BR1,1,2,3,Avai,4.5,3.5,1.8,1.6,2010,2.29
+13,Barueri,Brazil,2010-11-28,BR1,1,1,3,Botafogo RJ,12.0,5.0,1.29,1.65,2010,2.2
+14,Atletico-PR,Brazil,2010-11-28,BR1,1,1,1,Ceara,3.5,3.25,2.1,2.04,2010,1.75
+15,Vasco,Brazil,2010-11-28,BR1,1,0,2,Corinthians,7.5,4.5,1.4,1.65,2010,2.2
+16,Cruzeiro,Brazil,2010-11-28,BR1,1,2,1,Flamengo RJ,2.4,3.2,3.0,2.0,2010,1.8
+17,Gremio,Brazil,2010-11-28,BR1,1,3,0,Guarani,2.1,3.3,3.5,1.95,2010,1.85
+18,Vitoria,Brazil,2010-11-28,BR1,1,1,1,Internacional,5.0,3.75,1.67,1.95,2010,1.85
+19,Fluminense,Brazil,2010-11-28,BR1,1,2,1,Palmeiras,1.4,4.5,7.5,1.7,2010,2.1
+20,Atletico GO,Brazil,2010-11-21,BR1,1,0,3,Avai,4.5,3.5,1.8,1.73,2010,2.08
+21,Internacional,Brazil,2010-11-21,BR1,1,2,1,Botafogo RJ,5.25,4.0,1.6,1.85,2010,1.95
+22,Vasco,Brazil,2010-11-21,BR1,1,1,3,Cruzeiro,6.5,4.0,1.5,2.0,2010,1.8
+23,Santos,Brazil,2010-11-21,BR1,1,4,1,Goias,2.5,3.3,2.75,1.67,2010,2.15
+24,Atletico-MG,Brazil,2010-11-21,BR1,1,2,0,Palmeiras,1.8,3.5,4.33,1.95,2010,1.85
+25,Fluminense,Brazil,2010-11-21,BR1,1,4,1,Sao Paulo,2.7,3.2,2.63,1.95,2010,1.85
+26,Corinthians,Brazil,2010-11-21,BR1,1,1,1,Vitoria,2.5,3.3,2.75,2.04,2010,1.75
+27,Ceara,Brazil,2010-11-20,BR1,1,1,1,Barueri,3.25,3.3,2.2,1.95,2010,1.85
+28,Guarani,Brazil,2010-11-20,BR1,1,1,2,Flamengo RJ,6.0,4.2,1.5,2.0,2010,1.8
+29,Atletico-PR,Brazil,2010-11-20,BR1,1,1,3,Gremio,5.25,3.6,1.67,1.85,2010,1.95
+30,Palmeiras,Brazil,2010-11-14,BR1,1,0,3,Atletico GO,4.75,3.4,1.8,1.95,2010,1.85
+31,Barueri,Brazil,2010-11-14,BR1,1,1,2,Atletico-PR,7.0,4.5,1.4,1.7,2010,2.1
+32,Goias,Brazil,2010-11-14,BR1,1,1,1,Fluminense,9.0,5.0,1.33,1.6,2010,2.29
+33,Vitoria,Brazil,2010-11-14,BR1,1,1,1,Guarani,3.0,3.2,2.38,2.1,2010,1.7
+34,Avai,Brazil,2010-11-14,BR1,1,3,2,Internacional,7.0,4.33,1.44,1.8,2010,2.0
+35,Sao Paulo,Brazil,2010-11-14,BR1,1,1,1,Vasco,3.0,3.4,2.29,1.85,2010,1.95
+36,Flamengo RJ,Brazil,2010-11-13,BR1,1,1,4,Atletico-MG,3.75,3.4,2.0,1.9,2010,1.9
+37,Cruzeiro,Brazil,2010-11-13,BR1,1,0,1,Corinthians,4.5,3.4,1.83,1.9,2010,1.9
+38,Gremio,Brazil,2010-11-13,BR1,1,0,0,Santos,2.75,3.2,2.5,1.73,2010,2.08
+39,Botafogo RJ,Brazil,2010-11-11,BR1,1,2,2,Ceara,2.88,3.3,2.4,2.04,2010,1.75
+40,Botafogo RJ,Brazil,2010-11-07,BR1,1,0,0,Avai,2.88,3.25,2.45,1.85,2010,1.95
+41,Goias,Brazil,2010-11-07,BR1,1,1,4,Barueri,2.63,3.3,2.6,1.75,2010,2.04
+42,Atletico-PR,Brazil,2010-11-07,BR1,1,1,0,Flamengo RJ,4.5,3.5,1.8,1.95,2010,1.85
+43,Vasco,Brazil,2010-11-07,BR1,1,0,1,Fluminense,4.0,3.4,1.91,2.0,2010,1.8
+44,Guarani,Brazil,2010-11-07,BR1,1,0,1,Palmeiras,3.75,3.25,2.04,2.04,2010,1.75
+45,Corinthians,Brazil,2010-11-07,BR1,1,2,0,Sao Paulo,3.0,3.2,2.38,1.85,2010,1.95
+46,Cruzeiro,Brazil,2010-11-07,BR1,1,1,0,Vitoria,2.4,3.3,2.9,1.85,2010,1.95
+47,Internacional,Brazil,2010-11-06,BR1,1,2,2,Atletico GO,2.9,3.3,2.38,1.9,2010,1.9
+48,Santos,Brazil,2010-11-06,BR1,1,2,2,Atletico-MG,4.75,3.5,1.75,1.75,2010,2.04
+49,Ceara,Brazil,2010-11-06,BR1,1,1,5,Gremio,9.5,4.33,1.4,1.73,2010,2.08
+50,Palmeiras,Brazil,2010-11-05,BR1,1,0,1,Atletico-PR,2.63,3.2,2.75,2.1,2010,1.7
+51,Barueri,Brazil,2010-11-05,BR1,1,1,2,Vasco,9.5,4.5,1.36,1.6,2010,2.29
+52,Flamengo RJ,Brazil,2010-11-04,BR1,1,2,2,Ceara,3.5,3.3,2.1,2.25,2010,1.62
+53,Avai,Brazil,2010-11-04,BR1,1,0,4,Corinthians,7.0,4.75,1.4,1.65,2010,2.2
+54,Sao Paulo,Brazil,2010-11-04,BR1,1,2,0,Cruzeiro,4.2,3.5,1.83,1.73,2010,2.08
+55,Atletico GO,Brazil,2010-11-03,BR1,1,2,3,Botafogo RJ,5.5,3.6,1.65,1.8,2010,2.0
+56,Gremio,Brazil,2010-11-03,BR1,1,2,0,Goias,2.5,3.3,2.75,1.73,2010,2.08
+57,Atletico-MG,Brazil,2010-11-03,BR1,1,0,0,Guarani,2.5,3.1,2.9,2.04,2010,1.75
+58,Fluminense,Brazil,2010-11-03,BR1,1,0,0,Internacional,4.0,3.4,1.91,2.04,2010,1.75
+59,Vitoria,Brazil,2010-11-03,BR1,1,1,1,Santos,6.5,3.8,1.53,1.65,2010,2.2
+60,Botafogo RJ,Brazil,2010-10-30,BR1,1,2,0,Atletico-MG,3.6,3.5,2.0,1.9,2010,1.9
+61,Guarani,Brazil,2010-10-30,BR1,1,0,1,Avai,4.75,3.5,1.75,1.85,2010,1.95
+62,Cruzeiro,Brazil,2010-10-30,BR1,1,2,0,Barueri,1.85,3.4,4.2,1.95,2010,1.85
+63,Santos,Brazil,2010-10-30,BR1,1,1,1,Internacional,4.0,3.4,1.91,1.95,2010,1.85
+64,Goias,Brazil,2010-10-30,BR1,1,2,3,Palmeiras,5.75,3.6,1.62,1.95,2010,1.85
+65,Vasco,Brazil,2010-10-30,BR1,1,2,4,Vitoria,3.8,3.25,2.0,2.1,2010,1.7
+66,Ceara,Brazil,2010-10-29,BR1,1,1,1,Atletico GO,3.75,3.4,2.0,2.04,2010,1.75
+67,Gremio,Brazil,2010-10-29,BR1,1,0,2,Fluminense,3.4,3.4,2.1,1.75,2010,2.04
+68,Atletico-PR,Brazil,2010-10-29,BR1,1,1,2,Sao Paulo,5.0,3.8,1.65,1.85,2010,1.95
+69,Corinthians,Brazil,2010-10-28,BR1,1,1,1,Flamengo RJ,2.9,3.25,2.4,1.95,2010,1.85
+70,Fluminense,Brazil,2010-10-24,BR1,1,2,2,Atletico-PR,3.0,3.25,2.38,2.0,2010,1.8
+71,Sao Paulo,Brazil,2010-10-24,BR1,1,0,2,Ceara,3.5,3.25,2.1,2.1,2010,1.7
+72,Palmeiras,Brazil,2010-10-24,BR1,1,0,1,Corinthians,3.75,3.3,2.0,1.85,2010,1.95
+73,Atletico-MG,Brazil,2010-10-24,BR1,1,4,3,Cruzeiro,4.59,3.4,1.8,1.85,2010,1.95
+74,Avai,Brazil,2010-10-24,BR1,1,0,1,Goias,3.75,3.4,1.95,1.85,2010,1.95
+75,Internacional,Brazil,2010-10-24,BR1,1,2,2,Gremio,3.1,3.3,2.25,1.95,2010,1.85
+76,Barueri,Brazil,2010-10-24,BR1,1,3,2,Santos,10.0,5.0,1.3,1.48,2010,2.6
+77,Flamengo RJ,Brazil,2010-10-24,BR1,1,1,1,Vasco,2.6,3.2,2.7,2.1,2010,1.7
+78,Vitoria,Brazil,2010-10-23,BR1,1,0,1,Botafogo RJ,4.5,3.5,1.8,2.0,2010,1.8
+79,Atletico GO,Brazil,2010-10-23,BR1,1,1,0,Guarani,4.0,3.3,1.95,1.9,2010,1.9
+80,Vasco,Brazil,2010-10-17,BR1,1,0,2,Atletico GO,2.8,3.2,2.5,1.95,2010,1.85
+81,Avai,Brazil,2010-10-17,BR1,1,0,2,Atletico-MG,5.0,3.75,1.67,1.73,2010,2.08
+82,Botafogo RJ,Brazil,2010-10-17,BR1,1,0,0,Fluminense,3.3,3.3,2.15,1.8,2010,2.0
+83,Cruzeiro,Brazil,2010-10-17,BR1,1,1,2,Gremio,3.2,3.3,2.2,1.85,2010,1.95
+84,Corinthians,Brazil,2010-10-17,BR1,1,0,0,Guarani,2.4,3.3,2.88,2.0,2010,1.8
+85,Ceara,Brazil,2010-10-17,BR1,1,1,1,Palmeiras,5.0,3.5,1.7,2.08,2010,1.73
+86,Santos,Brazil,2010-10-17,BR1,1,3,4,Sao Paulo,3.4,3.4,2.15,1.73,2010,2.08
+87,Barueri,Brazil,2010-10-17,BR1,1,0,2,Vitoria,6.5,3.8,1.53,1.8,2010,2.0
+88,Goias,Brazil,2010-10-16,BR1,1,1,2,Atletico-PR,4.5,3.6,1.67,1.9,2010,1.9
+89,Internacional,Brazil,2010-10-16,BR1,1,0,3,Flamengo RJ,2.8,3.25,2.38,2.0,2010,1.8
+90,Corinthians,Brazil,2010-10-14,BR1,1,0,2,Vasco,3.0,3.4,2.2,1.8,2010,2.0
+91,Internacional,Brazil,2010-10-14,BR1,1,0,1,Santos,4.0,3.4,1.91,1.9,2010,1.9
+92,Flamengo RJ,Brazil,2010-10-10,BR1,1,2,2,Avai,2.6,3.2,2.7,2.0,2010,1.8
+93,Palmeiras,Brazil,2010-10-10,BR1,1,0,0,Botafogo RJ,2.88,3.1,2.5,2.0,2010,1.8
+94,Guarani,Brazil,2010-10-10,BR1,1,0,2,Ceara,4.5,3.4,1.83,2.1,2010,1.7
+95,Atletico GO,Brazil,2010-10-10,BR1,1,4,3,Corinthians,7.5,4.5,1.4,1.62,2010,2.25
+96,Fluminense,Brazil,2010-10-10,BR1,1,0,1,Cruzeiro,3.75,3.4,2.0,1.95,2010,1.85
+97,Vitoria,Brazil,2010-10-10,BR1,1,0,1,Goias,3.75,3.4,2.0,1.8,2010,2.0
+98,Atletico-MG,Brazil,2010-10-10,BR1,1,0,1,Internacional,6.0,3.8,1.57,1.75,2010,2.04
+99,Sao Paulo,Brazil,2010-10-09,BR1,1,3,2,Barueri,2.0,3.4,3.75,1.85,2010,1.95
+100,Atletico-PR,Brazil,2010-10-09,BR1,1,0,2,Santos,5.5,3.8,1.62,1.8,2010,2.0
+101,Gremio,Brazil,2010-10-09,BR1,1,3,3,Vasco,3.4,3.4,2.1,1.95,2010,1.85
+102,Atletico GO,Brazil,2010-10-08,BR1,1,0,2,Flamengo RJ,5.75,3.8,1.6,1.8,2010,2.0
+103,Cruzeiro,Brazil,2010-10-08,BR1,1,1,0,Goias,2.38,3.25,3.0,1.85,2010,1.95
+104,Avai,Brazil,2010-10-08,BR1,1,1,4,Palmeiras,5.25,3.75,1.65,1.8,2010,2.0
+105,Corinthians,Brazil,2010-10-07,BR1,1,1,2,Atletico-MG,2.4,3.4,2.8,1.9,2010,1.9
+106,Vasco,Brazil,2010-10-07,BR1,1,0,0,Atletico-PR,3.0,3.2,2.4,2.08,2010,1.73
+107,Internacional,Brazil,2010-10-07,BR1,1,0,1,Ceara,2.9,3.25,2.4,2.25,2010,1.62
+108,Santos,Brazil,2010-10-07,BR1,1,3,0,Fluminense,4.5,3.5,1.75,1.62,2010,2.25
+109,Barueri,Brazil,2010-10-07,BR1,1,0,4,Gremio,8.5,4.5,1.36,1.53,2010,2.4
+110,Botafogo RJ,Brazil,2010-10-07,BR1,1,1,1,Guarani,2.9,3.25,2.4,2.08,2010,1.73
+111,Vitoria,Brazil,2010-10-07,BR1,1,0,2,Sao Paulo,4.75,3.6,1.73,1.73,2010,2.08
+112,Atletico-MG,Brazil,2010-10-03,BR1,1,3,2,Atletico GO,3.0,3.25,2.38,1.75,2010,2.04
+113,Sao Paulo,Brazil,2010-10-03,BR1,1,0,0,Avai,2.8,3.25,2.5,1.8,2010,2.0
+114,Fluminense,Brazil,2010-10-02,BR1,1,1,1,Barueri,1.91,3.5,4.0,1.9,2010,1.9
+115,Flamengo RJ,Brazil,2010-10-02,BR1,1,1,1,Botafogo RJ,3.4,3.3,2.15,1.85,2010,1.95
+116,Ceara,Brazil,2010-10-02,BR1,1,2,2,Corinthians,7.5,4.5,1.4,1.95,2010,1.85
+117,Atletico-PR,Brazil,2010-10-02,BR1,1,0,0,Cruzeiro,4.5,3.5,1.8,1.85,2010,1.95
+118,Guarani,Brazil,2010-10-02,BR1,1,0,3,Internacional,7.5,4.2,1.44,1.8,2010,2.0
+119,Palmeiras,Brazil,2010-10-02,BR1,1,1,1,Santos,3.6,3.4,2.0,1.73,2010,2.08
+120,Goias,Brazil,2010-10-02,BR1,1,2,3,Vasco,5.25,3.6,1.67,1.8,2010,2.0
+121,Gremio,Brazil,2010-10-02,BR1,1,3,0,Vitoria,3.6,3.3,2.04,1.8,2010,2.0
+122,Vitoria,Brazil,2010-09-30,BR1,1,0,1,Atletico-PR,4.75,3.6,1.73,1.95,2010,1.85
+123,Guarani,Brazil,2010-09-30,BR1,1,2,4,Barueri,2.8,3.4,2.45,2.04,2010,1.75
+124,Atletico-MG,Brazil,2010-09-30,BR1,1,0,0,Ceara,3.2,3.2,2.29,2.08,2010,1.73
+125,Botafogo RJ,Brazil,2010-09-30,BR1,1,1,1,Corinthians,5.5,3.8,1.57,1.73,2010,2.08
+126,Atletico GO,Brazil,2010-09-30,BR1,1,0,3,Cruzeiro,6.75,4.33,1.44,1.7,2010,2.1
+127,Avai,Brazil,2010-09-30,BR1,1,0,1,Fluminense,6.0,4.2,1.5,1.65,2010,2.2
+128,Sao Paulo,Brazil,2010-09-30,BR1,1,2,4,Gremio,3.5,3.4,2.1,2.0,2010,1.8
+129,Internacional,Brazil,2010-09-30,BR1,1,0,2,Palmeiras,2.8,3.3,2.45,2.15,2010,1.67
+130,Flamengo RJ,Brazil,2010-09-29,BR1,1,1,1,Goias,3.2,3.3,2.2,1.73,2010,2.08
+131,Santos,Brazil,2010-09-29,BR1,1,1,3,Vasco,2.88,3.3,2.4,1.9,2010,1.9
+132,Gremio,Brazil,2010-09-26,BR1,1,2,1,Atletico-MG,3.2,3.4,2.2,1.8,2010,2.0
+133,Ceara,Brazil,2010-09-26,BR1,1,0,5,Avai,3.75,3.4,2.0,2.02,2010,1.83
+134,Atletico-PR,Brazil,2010-09-26,BR1,1,1,1,Botafogo RJ,4.0,3.25,1.95,1.93,2010,1.93
+135,Corinthians,Brazil,2010-09-26,BR1,1,2,3,Internacional,3.6,3.4,2.0,1.98,2010,1.88
+136,Fluminense,Brazil,2010-09-26,BR1,1,2,1,Vitoria,2.88,3.3,2.4,1.75,2010,2.04
+137,Barueri,Brazil,2010-09-25,BR1,1,0,3,Atletico GO,5.5,3.75,1.62,1.93,2010,1.93
+138,Palmeiras,Brazil,2010-09-25,BR1,1,3,1,Flamengo RJ,3.3,3.25,2.2,2.15,2010,1.67
+139,Vasco,Brazil,2010-09-25,BR1,1,0,1,Guarani,2.7,3.3,2.54,2.1,2010,1.7
+140,Cruzeiro,Brazil,2010-09-25,BR1,1,1,4,Santos,2.6,3.3,2.63,1.93,2010,1.93
+141,Goias,Brazil,2010-09-25,BR1,1,3,0,Sao Paulo,6.0,4.0,1.53,1.67,2010,2.15
+142,Atletico-MG,Brazil,2010-09-24,BR1,1,1,5,Fluminense,5.25,3.6,1.67,1.7,2010,2.1
+143,Avai,Brazil,2010-09-24,BR1,1,0,3,Vitoria,4.75,3.6,1.73,1.75,2010,2.04
+144,Internacional,Brazil,2010-09-23,BR1,1,0,1,Atletico-PR,2.6,3.25,2.7,2.04,2010,1.75
+145,Palmeiras,Brazil,2010-09-23,BR1,1,1,0,Barueri,2.25,3.4,3.1,2.1,2010,1.7
+146,Ceara,Brazil,2010-09-23,BR1,1,0,2,Cruzeiro,8.0,4.0,1.45,2.0,2010,1.8
+147,Atletico GO,Brazil,2010-09-23,BR1,1,3,1,Goias,3.25,3.3,2.2,1.75,2010,2.04
+148,Flamengo RJ,Brazil,2010-09-23,BR1,1,2,2,Gremio,5.25,3.5,1.7,2.0,2010,1.8
+149,Corinthians,Brazil,2010-09-23,BR1,1,3,2,Santos,2.75,3.3,2.5,1.8,2010,2.0
+150,Guarani,Brazil,2010-09-23,BR1,1,1,2,Sao Paulo,7.0,4.0,1.5,1.73,2010,2.08
+151,Botafogo RJ,Brazil,2010-09-23,BR1,1,2,2,Vasco,2.5,3.25,2.8,2.08,2010,1.73
+152,Vitoria,Brazil,2010-09-19,BR1,1,3,2,Atletico-MG,4.2,3.5,1.83,1.9,2010,1.9
+153,Gremio,Brazil,2010-09-19,BR1,1,3,0,Avai,2.8,3.2,2.54,1.9,2010,1.9
+154,Goias,Brazil,2010-09-19,BR1,1,1,1,Ceara,4.75,3.4,1.8,1.95,2010,1.85
+155,Fluminense,Brazil,2010-09-19,BR1,1,3,3,Flamengo RJ,2.4,3.2,3.0,2.04,2010,1.75
+156,Santos,Brazil,2010-09-19,BR1,1,0,0,Guarani,2.4,3.25,2.9,1.85,2010,1.95
+157,Vasco,Brazil,2010-09-19,BR1,1,0,1,Internacional,,,,,2010,
+158,Sao Paulo,Brazil,2010-09-19,BR1,1,2,0,Palmeiras,2.8,3.25,2.5,2.0,2010,1.8
+159,Atletico-PR,Brazil,2010-09-18,BR1,1,2,1,Atletico GO,3.75,3.5,1.95,1.9,2010,1.9
+160,Cruzeiro,Brazil,2010-09-18,BR1,1,2,2,Botafogo RJ,3.1,3.25,2.29,2.0,2010,1.8
+161,Barueri,Brazil,2010-09-18,BR1,1,0,3,Corinthians,9.0,4.5,1.36,1.73,2010,2.08
+162,Internacional,Brazil,2010-09-17,BR1,1,3,1,Sao Paulo,3.75,3.3,2.0,2.04,2010,1.75
+163,Avai,Brazil,2010-09-17,BR1,1,1,1,Vasco,,,,,2010,
+164,Atletico-MG,Brazil,2010-09-16,BR1,1,1,2,Atletico-PR,3.6,3.3,2.04,2.04,2010,1.75
+165,Flamengo RJ,Brazil,2010-09-16,BR1,1,2,1,Barueri,2.45,3.25,2.88,2.15,2010,1.67
+166,Guarani,Brazil,2010-09-16,BR1,1,2,4,Cruzeiro,7.5,3.7,1.5,1.95,2010,1.85
+167,Corinthians,Brazil,2010-09-16,BR1,1,2,1,Fluminense,3.3,3.3,2.15,2.04,2010,1.75
+168,Botafogo RJ,Brazil,2010-09-16,BR1,1,1,4,Goias,2.7,3.25,2.6,1.85,2010,1.95
+169,Palmeiras,Brazil,2010-09-16,BR1,1,2,1,Gremio,4.0,3.4,1.91,2.04,2010,1.75
+170,Atletico GO,Brazil,2010-09-16,BR1,1,2,4,Santos,6.5,3.5,1.57,1.6,2010,2.29
+171,Ceara,Brazil,2010-09-16,BR1,1,0,0,Vitoria,4.5,3.4,1.85,2.04,2010,1.75
+172,Barueri,Brazil,2010-09-12,BR1,1,0,1,Atletico-MG,5.5,4.0,1.57,1.9,2010,1.9
+173,Cruzeiro,Brazil,2010-09-12,BR1,1,2,1,Avai,2.6,3.25,2.7,2.0,2010,1.8
+174,Sao Paulo,Brazil,2010-09-12,BR1,1,0,2,Botafogo RJ,3.3,3.25,2.2,2.0,2010,1.8
+175,Santos,Brazil,2010-09-12,BR1,1,1,2,Ceara,2.88,3.4,2.38,2.08,2010,1.73
+176,Atletico-PR,Brazil,2010-09-12,BR1,1,0,1,Guarani,3.5,3.25,2.1,2.04,2010,1.75
+177,Goias,Brazil,2010-09-12,BR1,1,0,0,Internacional,9.0,4.5,1.36,1.73,2010,2.08
+178,Vasco,Brazil,2010-09-12,BR1,1,0,0,Palmeiras,,,,,2010,
+179,Fluminense,Brazil,2010-09-11,BR1,1,1,2,Atletico GO,2.38,3.25,3.0,1.8,2010,2.0
+180,Gremio,Brazil,2010-09-11,BR1,1,1,0,Corinthians,5.5,3.5,1.67,1.85,2010,1.95
+181,Vitoria,Brazil,2010-09-11,BR1,1,2,2,Flamengo RJ,3.6,3.4,2.04,2.15,2010,1.67
+182,Avai,Brazil,2010-09-10,BR1,1,1,1,Barueri,2.75,3.2,2.6,1.95,2010,1.85
+183,Botafogo RJ,Brazil,2010-09-10,BR1,1,1,0,Santos,4.0,3.4,1.91,1.7,2010,2.1
+184,Atletico-MG,Brazil,2010-09-10,BR1,1,1,1,Vasco,4.5,3.5,1.8,1.9,2010,1.9
+185,Corinthians,Brazil,2010-09-09,BR1,1,1,1,Atletico-PR,2.5,3.3,2.75,1.85,2010,1.95
+186,Internacional,Brazil,2010-09-09,BR1,1,0,1,Cruzeiro,3.25,3.25,2.25,2.2,2010,1.65
+187,Ceara,Brazil,2010-09-09,BR1,1,1,3,Fluminense,6.5,3.8,1.55,2.08,2010,1.73
+188,Guarani,Brazil,2010-09-09,BR1,1,1,3,Goias,3.4,3.4,2.1,1.8,2010,2.0
+189,Atletico GO,Brazil,2010-09-09,BR1,1,0,2,Gremio,5.5,3.75,1.62,1.8,2010,2.0
+190,Flamengo RJ,Brazil,2010-09-09,BR1,1,0,2,Sao Paulo,4.75,3.5,1.75,2.1,2010,1.7
+191,Palmeiras,Brazil,2010-09-09,BR1,1,1,1,Vitoria,3.2,3.3,2.25,1.95,2010,1.85
+192,Vitoria,Brazil,2010-09-05,BR1,1,1,4,Atletico GO,3.2,3.3,2.2,1.8,2010,2.0
+193,Sao Paulo,Brazil,2010-09-05,BR1,1,3,2,Atletico-MG,2.63,3.3,2.6,1.8,2010,2.0
+194,Atletico-PR,Brazil,2010-09-05,BR1,1,1,0,Avai,4.5,3.4,1.8,1.8,2010,2.0
+195,Santos,Brazil,2010-09-05,BR1,1,0,0,Flamengo RJ,3.0,3.25,2.29,1.95,2010,1.85
+196,Fluminense,Brazil,2010-09-05,BR1,1,1,2,Guarani,2.25,3.3,3.1,1.95,2010,1.85
+197,Barueri,Brazil,2010-09-05,BR1,1,0,2,Internacional,8.0,4.33,1.4,1.85,2010,1.95
+198,Cruzeiro,Brazil,2010-09-05,BR1,1,3,2,Palmeiras,2.9,3.1,2.5,2.1,2010,1.7
+199,Gremio,Brazil,2010-09-04,BR1,1,2,2,Botafogo RJ,5.0,3.4,1.75,1.95,2010,1.85
+200,Vasco,Brazil,2010-09-04,BR1,1,2,0,Ceara,3.0,3.25,2.38,2.25,2010,1.62
+201,Goias,Brazil,2010-09-04,BR1,1,1,5,Corinthians,7.5,4.2,1.44,1.65,2010,2.2
+202,Avai,Brazil,2010-09-03,BR1,1,1,2,Santos,6.5,3.8,1.53,1.6,2010,2.29
+203,Atletico GO,Brazil,2010-09-03,BR1,1,1,2,Sao Paulo,7.0,3.8,1.5,2.0,2010,1.8
+204,Ceara,Brazil,2010-09-02,BR1,1,1,2,Atletico-PR,4.75,3.4,1.75,2.1,2010,1.7
+205,Botafogo RJ,Brazil,2010-09-02,BR1,1,1,0,Barueri,2.6,3.25,2.63,1.8,2010,2.0
+206,Flamengo RJ,Brazil,2010-09-02,BR1,1,0,1,Cruzeiro,4.5,3.3,1.85,2.1,2010,1.7
+207,Palmeiras,Brazil,2010-09-02,BR1,1,1,1,Fluminense,5.0,3.5,1.73,1.75,2010,2.04
+208,Atletico-MG,Brazil,2010-09-02,BR1,1,3,1,Goias,3.3,3.3,2.15,1.95,2010,1.85
+209,Guarani,Brazil,2010-09-02,BR1,1,0,1,Gremio,6.0,3.75,1.57,1.8,2010,2.0
+210,Internacional,Brazil,2010-09-02,BR1,1,0,0,Vitoria,2.9,3.3,2.38,1.95,2010,1.85
+211,Avai,Brazil,2010-08-29,BR1,1,2,2,Atletico GO,3.4,3.4,2.1,1.9,2010,1.9
+212,Palmeiras,Brazil,2010-08-29,BR1,1,2,1,Atletico-MG,3.25,3.3,2.2,2.0,2010,1.8
+213,Gremio,Brazil,2010-08-29,BR1,1,1,1,Atletico-PR,3.0,3.4,2.29,2.0,2010,1.8
+214,Vitoria,Brazil,2010-08-29,BR1,1,1,2,Corinthians,6.0,4.0,1.53,1.85,2010,1.95
+215,Sao Paulo,Brazil,2010-08-29,BR1,1,2,2,Fluminense,5.0,3.5,1.73,2.0,2010,1.8
+216,Flamengo RJ,Brazil,2010-08-29,BR1,1,1,2,Guarani,2.88,3.2,2.5,2.08,2010,1.73
+217,Barueri,Brazil,2010-08-28,BR1,1,2,2,Ceara,6.0,3.6,1.62,2.04,2010,1.75
+218,Botafogo RJ,Brazil,2010-08-28,BR1,1,0,1,Internacional,5.0,3.5,1.73,1.95,2010,1.85
+219,Goias,Brazil,2010-08-28,BR1,1,0,2,Santos,6.0,3.8,1.57,1.67,2010,2.15
+220,Cruzeiro,Brazil,2010-08-28,BR1,1,1,1,Vasco,3.5,3.3,2.1,2.04,2010,1.75
+221,Atletico-MG,Brazil,2010-08-27,BR1,1,0,0,Flamengo RJ,4.0,3.4,1.91,2.04,2010,1.75
+222,Atletico GO,Brazil,2010-08-27,BR1,1,3,0,Palmeiras,5.75,3.75,1.6,2.04,2010,1.75
+223,Guarani,Brazil,2010-08-27,BR1,1,1,1,Vitoria,6.0,3.8,1.57,1.73,2010,2.08
+224,Internacional,Brazil,2010-08-26,BR1,1,1,0,Avai,2.9,3.4,2.38,1.75,2010,2.04
+225,Atletico-PR,Brazil,2010-08-26,BR1,1,1,0,Barueri,3.5,3.3,2.1,2.04,2010,1.75
+226,Ceara,Brazil,2010-08-26,BR1,1,0,1,Botafogo RJ,5.25,3.6,1.67,2.1,2010,1.7
+227,Corinthians,Brazil,2010-08-26,BR1,1,0,1,Cruzeiro,3.0,3.25,2.38,2.04,2010,1.75
+228,Fluminense,Brazil,2010-08-26,BR1,1,3,0,Goias,2.4,3.4,2.8,1.8,2010,2.0
+229,Santos,Brazil,2010-08-26,BR1,1,2,1,Gremio,3.5,3.3,2.1,1.7,2010,2.1
+230,Vasco,Brazil,2010-08-26,BR1,1,0,0,Sao Paulo,3.75,3.4,2.0,1.95,2010,1.85
+231,Flamengo RJ,Brazil,2010-08-22,BR1,1,0,1,Atletico-PR,3.0,3.4,2.29,2.04,2010,1.75
+232,Sao Paulo,Brazil,2010-08-22,BR1,1,0,3,Corinthians,3.6,3.3,2.04,2.04,2010,1.75
+233,Vitoria,Brazil,2010-08-22,BR1,1,1,0,Cruzeiro,6.0,3.75,1.57,1.9,2010,1.9
+234,Palmeiras,Brazil,2010-08-22,BR1,1,0,0,Guarani,2.5,3.3,2.75,1.95,2010,1.85
+235,Atletico GO,Brazil,2010-08-22,BR1,1,1,1,Internacional,5.5,3.6,1.65,1.73,2010,2.08
+236,Atletico-MG,Brazil,2010-08-22,BR1,1,0,2,Santos,5.5,3.75,1.62,1.57,2010,2.35
+237,Fluminense,Brazil,2010-08-22,BR1,1,2,2,Vasco,2.38,3.3,3.0,2.0,2010,1.8
+238,Avai,Brazil,2010-08-21,BR1,1,0,1,Botafogo RJ,6.0,4.0,1.53,1.7,2010,2.1
+239,Gremio,Brazil,2010-08-21,BR1,1,1,2,Ceara,3.4,3.2,2.2,2.15,2010,1.67
+240,Barueri,Brazil,2010-08-21,BR1,1,2,1,Goias,4.33,3.6,1.75,1.85,2010,1.95
+241,Corinthians,Brazil,2010-08-15,BR1,1,2,3,Avai,2.88,3.3,2.4,1.85,2010,1.95
+242,Vasco,Brazil,2010-08-15,BR1,1,2,1,Barueri,2.6,3.2,2.7,2.1,2010,1.7
+243,Internacional,Brazil,2010-08-15,BR1,1,0,3,Fluminense,5.0,3.7,1.67,1.8,2010,2.0
+244,Goias,Brazil,2010-08-15,BR1,1,0,2,Gremio,5.0,3.6,1.7,1.8,2010,2.0
+245,Cruzeiro,Brazil,2010-08-15,BR1,1,2,2,Sao Paulo,3.3,3.4,2.15,1.95,2010,1.85
+246,Santos,Brazil,2010-08-15,BR1,1,2,4,Vitoria,3.1,3.25,2.29,1.75,2010,2.04
+247,Botafogo RJ,Brazil,2010-08-14,BR1,1,2,0,Atletico GO,2.8,3.25,2.5,1.75,2010,2.04
+248,Guarani,Brazil,2010-08-14,BR1,1,1,3,Atletico-MG,5.0,3.5,1.73,1.8,2010,2.0
+249,Ceara,Brazil,2010-08-14,BR1,1,0,1,Flamengo RJ,4.5,3.4,1.83,2.15,2010,1.67
+250,Atletico-PR,Brazil,2010-08-14,BR1,1,0,2,Palmeiras,5.0,3.5,1.73,1.85,2010,1.95
+251,Sao Paulo,Brazil,2010-08-08,BR1,1,1,1,Atletico-PR,3.1,3.2,2.38,1.85,2010,1.95
+252,Atletico GO,Brazil,2010-08-08,BR1,1,0,0,Ceara,5.0,3.6,1.7,2.04,2010,1.75
+253,Flamengo RJ,Brazil,2010-08-08,BR1,1,0,1,Corinthians,5.25,3.5,1.7,1.9,2010,1.9
+254,Barueri,Brazil,2010-08-08,BR1,1,0,0,Cruzeiro,6.5,3.75,1.53,1.8,2010,2.0
+255,Palmeiras,Brazil,2010-08-08,BR1,1,1,1,Goias,3.1,3.3,2.2,1.95,2010,1.85
+256,Fluminense,Brazil,2010-08-08,BR1,1,2,1,Gremio,3.2,3.3,2.25,2.0,2010,1.8
+257,Vitoria,Brazil,2010-08-08,BR1,1,0,1,Vasco,6.5,3.8,1.53,1.95,2010,1.85
+258,Atletico-MG,Brazil,2010-08-07,BR1,1,0,3,Botafogo RJ,4.59,3.6,1.75,1.62,2010,2.25
+259,Avai,Brazil,2010-08-07,BR1,1,1,4,Guarani,2.75,3.3,2.5,1.8,2010,2.0
+260,Cruzeiro,Brazil,2010-08-01,BR1,1,1,0,Atletico-MG,2.63,3.25,2.63,1.8,2010,2.0
+261,Goias,Brazil,2010-08-01,BR1,1,1,4,Avai,4.59,3.6,1.75,1.8,2010,2.0
+262,Santos,Brazil,2010-08-01,BR1,1,2,1,Barueri,3.1,3.3,2.29,1.75,2010,2.04
+263,Vasco,Brazil,2010-08-01,BR1,1,0,0,Flamengo RJ,2.9,3.25,2.4,2.0,2010,1.8
+264,Gremio,Brazil,2010-08-01,BR1,1,0,0,Internacional,3.2,3.25,2.25,1.95,2010,1.85
+265,Corinthians,Brazil,2010-08-01,BR1,1,1,1,Palmeiras,2.54,3.3,2.7,2.04,2010,1.75
+266,Botafogo RJ,Brazil,2010-08-01,BR1,1,3,1,Vitoria,2.9,3.25,2.4,1.95,2010,1.85
+267,Guarani,Brazil,2010-07-31,BR1,1,1,1,Atletico GO,4.75,3.6,1.73,1.73,2010,2.08
+268,Atletico-PR,Brazil,2010-07-31,BR1,1,1,3,Fluminense,5.5,4.0,1.57,1.73,2010,2.08
+269,Ceara,Brazil,2010-07-31,BR1,1,1,2,Sao Paulo,5.0,3.5,1.7,2.15,2010,1.67
+270,Fluminense,Brazil,2010-07-25,BR1,1,1,1,Botafogo RJ,2.5,3.25,2.6,1.85,2010,1.95
+271,Palmeiras,Brazil,2010-07-25,BR1,1,0,0,Ceara,3.75,3.3,1.91,2.1,2010,1.7
+272,Guarani,Brazil,2010-07-25,BR1,1,1,3,Corinthians,5.75,4.33,1.44,1.7,2010,2.1
+273,Gremio,Brazil,2010-07-25,BR1,1,2,2,Cruzeiro,4.0,3.25,1.85,1.8,2010,2.0
+274,Atletico-PR,Brazil,2010-07-25,BR1,1,2,0,Goias,4.33,3.5,1.73,1.7,2010,2.1
+275,Flamengo RJ,Brazil,2010-07-25,BR1,1,0,1,Internacional,4.5,3.3,1.75,1.95,2010,1.85
+276,Sao Paulo,Brazil,2010-07-25,BR1,1,0,1,Santos,4.75,3.5,1.67,1.75,2010,2.04
+277,Atletico-MG,Brazil,2010-07-24,BR1,1,0,0,Avai,3.75,3.5,1.85,1.7,2010,2.1
+278,Vitoria,Brazil,2010-07-24,BR1,1,0,0,Barueri,3.8,3.5,1.8,1.85,2010,1.95
+279,Atletico GO,Brazil,2010-07-24,BR1,1,0,2,Vasco,5.75,3.6,1.57,1.7,2010,2.1
+280,Cruzeiro,Brazil,2010-07-23,BR1,1,0,1,Fluminense,3.75,3.4,2.0,1.75,2010,2.04
+281,Ceara,Brazil,2010-07-23,BR1,1,1,1,Guarani,3.0,3.2,2.38,2.04,2010,1.75
+282,Botafogo RJ,Brazil,2010-07-23,BR1,1,2,2,Palmeiras,4.0,3.4,1.91,1.75,2010,2.04
+283,Corinthians,Brazil,2010-07-22,BR1,1,1,3,Atletico GO,1.95,3.4,3.75,1.85,2010,1.95
+284,Internacional,Brazil,2010-07-22,BR1,1,2,1,Atletico-MG,2.54,3.25,2.8,1.65,2010,2.2
+285,Santos,Brazil,2010-07-22,BR1,1,0,2,Atletico-PR,2.15,3.4,3.3,1.6,2010,2.29
+286,Avai,Brazil,2010-07-22,BR1,1,1,1,Flamengo RJ,4.75,3.5,1.73,1.7,2010,2.1
+287,Vasco,Brazil,2010-07-22,BR1,1,1,1,Gremio,5.75,3.6,1.65,1.75,2010,2.04
+288,Barueri,Brazil,2010-07-22,BR1,1,1,1,Sao Paulo,7.5,4.33,1.4,1.65,2010,2.2
+289,Goias,Brazil,2010-07-22,BR1,1,2,2,Vitoria,4.75,3.5,1.75,1.7,2010,2.1
+290,Flamengo RJ,Brazil,2010-07-18,BR1,1,1,0,Atletico GO,2.88,3.25,2.45,1.8,2010,2.0
+291,Palmeiras,Brazil,2010-07-18,BR1,1,2,4,Avai,3.0,3.2,2.35,1.85,2010,1.95
+292,Gremio,Brazil,2010-07-18,BR1,1,0,2,Barueri,2.5,3.3,2.8,1.73,2010,2.08
+293,Guarani,Brazil,2010-07-18,BR1,1,1,1,Botafogo RJ,5.0,3.75,1.67,1.7,2010,2.1
+294,Atletico-MG,Brazil,2010-07-18,BR1,1,0,1,Corinthians,6.0,3.8,1.57,1.7,2010,2.1
+295,Goias,Brazil,2010-07-18,BR1,1,0,1,Cruzeiro,5.5,3.75,1.62,1.65,2010,2.2
+296,Ceara,Brazil,2010-07-18,BR1,1,1,2,Internacional,6.0,3.8,1.57,1.85,2010,1.95
+297,Fluminense,Brazil,2010-07-18,BR1,1,1,0,Santos,4.75,3.6,1.75,1.53,2010,2.4
+298,Atletico-PR,Brazil,2010-07-17,BR1,1,1,3,Vasco,4.75,3.5,1.75,1.8,2010,2.0
+299,Sao Paulo,Brazil,2010-07-17,BR1,1,2,3,Vitoria,2.6,3.25,2.7,1.85,2010,1.95
+300,Atletico GO,Brazil,2010-07-16,BR1,1,2,3,Atletico-MG,5.25,3.6,1.67,1.65,2010,2.2
+301,Barueri,Brazil,2010-07-16,BR1,1,1,1,Fluminense,9.0,4.5,1.36,1.57,2010,2.35
+302,Santos,Brazil,2010-07-16,BR1,1,1,2,Palmeiras,2.25,3.3,3.2,1.67,2010,2.15
+303,Cruzeiro,Brazil,2010-07-15,BR1,1,2,0,Atletico-PR,2.5,3.25,2.8,1.85,2010,1.95
+304,Corinthians,Brazil,2010-07-15,BR1,1,0,0,Ceara,3.1,3.3,2.29,2.25,2010,1.62
+305,Botafogo RJ,Brazil,2010-07-15,BR1,1,0,1,Flamengo RJ,2.63,3.3,2.63,1.7,2010,2.1
+306,Vasco,Brazil,2010-07-15,BR1,1,0,0,Goias,3.8,3.3,2.0,1.8,2010,2.0
+307,Vitoria,Brazil,2010-07-15,BR1,1,1,1,Gremio,8.5,4.33,1.4,1.57,2010,2.35
+308,Internacional,Brazil,2010-07-15,BR1,1,3,0,Guarani,2.1,3.3,3.5,1.95,2010,1.85
+309,Avai,Brazil,2010-07-15,BR1,1,2,1,Sao Paulo,8.0,4.5,1.4,1.75,2010,2.04
+310,Cruzeiro,Brazil,2010-06-06,BR1,1,1,2,Atletico GO,1.83,3.5,4.33,1.85,2010,1.95
+311,Ceara,Brazil,2010-06-06,BR1,1,1,0,Atletico-MG,4.75,3.5,1.75,1.95,2010,1.85
+312,Corinthians,Brazil,2010-06-06,BR1,1,2,2,Botafogo RJ,2.54,3.3,2.7,1.7,2010,2.1
+313,Barueri,Brazil,2010-06-06,BR1,1,0,1,Guarani,4.0,3.5,1.91,1.85,2010,1.95
+314,Palmeiras,Brazil,2010-06-06,BR1,1,1,1,Internacional,5.75,3.8,1.57,1.95,2010,1.85
+315,Vasco,Brazil,2010-06-06,BR1,1,0,4,Santos,8.0,4.5,1.4,1.53,2010,2.4
+316,Gremio,Brazil,2010-06-06,BR1,1,1,3,Sao Paulo,5.75,3.75,1.62,1.95,2010,1.85
+317,Fluminense,Brazil,2010-06-05,BR1,1,3,0,Avai,2.75,3.3,2.5,1.8,2010,2.0
+318,Goias,Brazil,2010-06-05,BR1,1,2,1,Flamengo RJ,5.0,3.6,1.7,1.75,2010,2.04
+319,Atletico-PR,Brazil,2010-06-05,BR1,1,0,1,Vitoria,5.0,3.5,1.73,1.7,2010,2.1
+320,Internacional,Brazil,2010-06-04,BR1,1,0,2,Corinthians,4.33,3.6,1.8,1.85,2010,1.95
+321,Atletico-MG,Brazil,2010-06-04,BR1,1,1,2,Gremio,5.25,4.0,1.62,1.62,2010,2.25
+322,Guarani,Brazil,2010-06-04,BR1,1,1,0,Vasco,5.5,3.5,1.67,1.8,2010,2.0
+323,Botafogo RJ,Brazil,2010-06-03,BR1,1,2,3,Atletico-PR,3.4,3.4,2.1,1.73,2010,2.08
+324,Atletico GO,Brazil,2010-06-03,BR1,1,0,1,Barueri,6.0,3.8,1.57,1.55,2010,2.38
+325,Avai,Brazil,2010-06-03,BR1,1,0,2,Ceara,4.0,3.4,1.91,2.0,2010,1.8
+326,Santos,Brazil,2010-06-03,BR1,1,0,0,Cruzeiro,3.3,3.5,2.1,1.48,2010,2.6
+327,Vitoria,Brazil,2010-06-03,BR1,1,1,2,Fluminense,9.0,4.2,1.4,1.55,2010,2.38
+328,Sao Paulo,Brazil,2010-06-03,BR1,1,1,2,Goias,2.4,3.3,2.9,1.95,2010,1.85
+329,Flamengo RJ,Brazil,2010-06-03,BR1,1,1,0,Palmeiras,3.6,3.5,2.0,1.95,2010,1.85
+330,Goias,Brazil,2010-05-30,BR1,1,3,1,Atletico GO,2.88,3.4,2.38,1.75,2010,2.04
+331,Fluminense,Brazil,2010-05-30,BR1,1,3,1,Atletico-MG,3.75,3.3,2.0,1.7,2010,2.1
+332,Vasco,Brazil,2010-05-30,BR1,1,1,1,Botafogo RJ,4.2,3.5,1.85,1.7,2010,2.1
+333,Cruzeiro,Brazil,2010-05-30,BR1,1,0,1,Ceara,2.4,3.3,2.88,2.0,2010,1.8
+334,Santos,Brazil,2010-05-30,BR1,1,2,4,Corinthians,2.5,3.3,2.75,1.55,2010,2.38
+335,Sao Paulo,Brazil,2010-05-30,BR1,1,0,0,Guarani,1.8,3.4,4.33,1.85,2010,1.95
+336,Atletico-PR,Brazil,2010-05-30,BR1,1,1,4,Internacional,6.5,3.75,1.5,1.62,2010,2.25
+337,Vitoria,Brazil,2010-05-29,BR1,1,0,0,Avai,4.75,3.5,1.62,1.62,2010,2.25
+338,Gremio,Brazil,2010-05-29,BR1,1,1,1,Flamengo RJ,3.8,3.4,1.95,1.75,2010,2.04
+339,Barueri,Brazil,2010-05-29,BR1,1,0,0,Palmeiras,7.0,3.8,1.55,1.62,2010,2.25
+340,Atletico GO,Brazil,2010-05-28,BR1,1,1,2,Atletico-PR,6.5,3.75,1.57,1.8,2010,2.0
+341,Ceara,Brazil,2010-05-28,BR1,1,0,0,Goias,3.6,3.4,2.04,1.75,2010,2.04
+342,Internacional,Brazil,2010-05-28,BR1,1,2,3,Vasco,2.88,3.4,2.38,2.04,2010,1.75
+343,Corinthians,Brazil,2010-05-27,BR1,1,2,2,Barueri,2.2,3.4,3.25,1.73,2010,2.08
+344,Botafogo RJ,Brazil,2010-05-27,BR1,1,0,1,Cruzeiro,6.0,3.75,1.57,1.65,2010,2.2
+345,Flamengo RJ,Brazil,2010-05-27,BR1,1,1,2,Fluminense,3.0,3.25,2.38,1.85,2010,1.95
+346,Avai,Brazil,2010-05-27,BR1,1,0,3,Gremio,4.5,3.6,1.75,1.55,2010,2.38
+347,Guarani,Brazil,2010-05-27,BR1,1,1,3,Santos,12.0,5.25,1.25,1.4,2010,2.8
+348,Palmeiras,Brazil,2010-05-27,BR1,1,0,1,Sao Paulo,4.5,3.6,1.75,1.95,2010,1.85
+349,Atletico-MG,Brazil,2010-05-27,BR1,1,3,4,Vitoria,3.0,3.2,2.38,1.73,2010,2.08
+350,Atletico-PR,Brazil,2010-05-23,BR1,1,1,3,Atletico-MG,5.25,3.8,1.7,1.7,2010,2.1
+351,Vasco,Brazil,2010-05-23,BR1,1,0,2,Avai,3.8,3.4,1.95,1.7,2010,2.1
+352,Vitoria,Brazil,2010-05-23,BR1,1,0,1,Ceara,4.33,3.4,1.85,1.95,2010,1.85
+353,Fluminense,Brazil,2010-05-23,BR1,1,0,1,Corinthians,4.75,3.4,1.8,1.95,2010,1.85
+354,Barueri,Brazil,2010-05-23,BR1,1,1,3,Flamengo RJ,6.0,4.0,1.53,1.62,2010,2.25
+355,Cruzeiro,Brazil,2010-05-23,BR1,1,2,2,Guarani,2.2,3.4,3.2,1.62,2010,2.25
+356,Sao Paulo,Brazil,2010-05-23,BR1,1,2,0,Internacional,3.25,3.5,2.1,1.95,2010,1.85
+357,Santos,Brazil,2010-05-22,BR1,1,2,1,Atletico GO,2.63,3.25,2.63,1.7,2010,2.1
+358,Goias,Brazil,2010-05-22,BR1,1,0,3,Botafogo RJ,4.75,3.75,1.67,1.55,2010,2.38
+359,Gremio,Brazil,2010-05-22,BR1,1,2,4,Palmeiras,3.75,3.4,2.0,2.1,2010,1.7
+360,Guarani,Brazil,2010-05-16,BR1,1,2,2,Atletico-PR,5.75,3.6,1.62,1.95,2010,1.85
+361,Avai,Brazil,2010-05-16,BR1,1,2,2,Cruzeiro,6.5,4.0,1.55,1.65,2010,2.2
+362,Internacional,Brazil,2010-05-16,BR1,1,3,2,Goias,3.75,3.6,1.95,1.8,2010,2.0
+363,Corinthians,Brazil,2010-05-16,BR1,1,2,1,Gremio,3.1,3.4,2.25,1.8,2010,2.0
+364,Ceara,Brazil,2010-05-16,BR1,1,1,1,Santos,10.0,5.25,1.3,1.4,2010,2.8
+365,Botafogo RJ,Brazil,2010-05-16,BR1,1,2,1,Sao Paulo,4.33,3.75,1.75,1.7,2010,2.1
+366,Palmeiras,Brazil,2010-05-16,BR1,1,0,0,Vasco,3.6,3.5,2.04,1.8,2010,2.0
+367,Atletico-MG,Brazil,2010-05-15,BR1,1,0,4,Barueri,2.29,3.4,2.9,1.75,2010,2.04
+368,Atletico GO,Brazil,2010-05-15,BR1,1,0,1,Fluminense,6.5,3.75,1.53,1.9,2010,1.9
+369,Flamengo RJ,Brazil,2010-05-15,BR1,1,1,1,Vitoria,3.0,3.4,2.29,1.85,2010,1.95
+370,Vasco,Brazil,2010-05-09,BR1,1,1,2,Atletico-MG,4.75,3.6,1.73,1.7,2010,2.1
+371,Barueri,Brazil,2010-05-09,BR1,1,1,6,Avai,4.5,3.75,1.75,1.62,2010,2.25
+372,Fluminense,Brazil,2010-05-09,BR1,1,0,1,Ceara,2.75,3.3,2.5,1.95,2010,1.85
+373,Atletico-PR,Brazil,2010-05-09,BR1,1,1,2,Corinthians,5.5,4.0,1.57,1.75,2010,2.04
+374,Sao Paulo,Brazil,2010-05-09,BR1,1,1,1,Flamengo RJ,3.4,3.4,2.1,2.04,2010,1.75
+375,Goias,Brazil,2010-05-09,BR1,1,0,1,Guarani,2.8,3.3,2.5,1.8,2010,2.0
+376,Cruzeiro,Brazil,2010-05-09,BR1,1,2,1,Internacional,3.25,3.5,2.1,1.9,2010,1.9
+377,Gremio,Brazil,2010-05-08,BR1,1,0,0,Atletico GO,3.2,3.4,2.2,1.75,2010,2.04
+378,Santos,Brazil,2010-05-08,BR1,1,3,3,Botafogo RJ,2.88,3.25,2.38,1.62,2010,2.25
+379,Vitoria,Brazil,2010-05-08,BR1,1,0,1,Palmeiras,5.75,3.8,1.6,1.75,2010,2.04

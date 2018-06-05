@@ -1,0 +1,10 @@
+pandas>=0.20
+NumPy 
+matplotlib
+pytz
+IPython
+pyzmq
+tornado
+xlrd
+openpyxl
+numexpr>=2.4.6
